@@ -1,0 +1,51 @@
+\documentclass[10pt,a4paper]{report}
+
+\usepackage{shika-chem}
+
+\begin{document}
+
+\input{./tex/title.tex}
+%\input{./tex/preface.tex}
+%\input{./tex/background.tex}
+
+\tableofcontents
+
+
+% Chemistry Hands-On Activities
+\input{./tex/part-hands-on-activities.tex}
+
+% Form I
+\chapter{Chemistry Activities for Form I}
+%\input{./tex/i-activities_intro-chem}
+
+% Form II
+\chapter{Chemistry Activities for Form II}
+
+% Form III
+\chapter{Chemistry Activities for Form III}
+
+% Form IV
+\chapter{Chemistry Activities for Form IV}
+
+
+% Chemistry Student Practical Worksheets
+\input{./tex/part-spw-chem.tex}
+
+
+\appendix
+
+% Return ToC depth and counting depth to original values
+\settocdepth{section}
+\setcounter{secnumdepth}{2}
+
+% Return Chapter display to normal
+\titlespacing*{\chapter}{0pt}{-10pt}{0pt}[50pt]
+\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\thechapter}{20pt}{\Huge}
+
+% Local Materials List
+\input{./tex/local-materials-list.tex}
+
+%\chapter{Shika Express Chemistry Demonstrations}
+\input{./tex/shika-express-chem}
+
+\end{document}

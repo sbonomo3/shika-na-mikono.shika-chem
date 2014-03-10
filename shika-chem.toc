@@ -1,0 +1,11 @@
+
+\contentsline {part}{I\hspace {1em}Hands-On Activities}{2}{part.1}
+\contentsline {chapter}{\numberline {1}Chemistry Activities for Form I}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Chemistry Activities for Form II}{4}{chapter.2}
+\contentsline {chapter}{\numberline {3}Chemistry Activities for Form III}{5}{chapter.3}
+\contentsline {chapter}{\numberline {4}Chemistry Activities for Form IV}{6}{chapter.4}
+\contentsline {part}{II\hspace {1em}Student Practical Worksheets}{7}{part.2}
+\save@tocdepth \setcounter {tocdepth}{0}
+\save@tocdepth \setcounter {tocdepth}{1}
+\contentsline {chapter}{\numberline {A}Local Materials List}{8}{appendix.A}
+\contentsline {chapter}{\numberline {B}Shika Express Demonstrations for Chemistry}{9}{appendix.B}
