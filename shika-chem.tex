@@ -16,10 +16,10 @@
 
 % Form I
 \chapter{Chemistry Activities for Form I}
-%\input{./tex/i-activities_intro-chem}
-%\input{./tex/i-activities_lab-techniques-safety}
+%%\input{./tex/i-activities_intro-chem}
+%%\input{./tex/i-activities_lab-techniques-safety}
 %\input{./tex/i-activities_heat-sources-flames}
-%\input{./tex/i-activities_scientific-procedure}
+%%\input{./tex/i-activities_scientific-procedure}
 %\input{./tex/i-activities_matter}
 %\input{./tex/i-activities_combustion}
 
@@ -39,7 +39,7 @@
 %\input{./tex/iii-activities_hardness-water}
 %\input{./tex/iii-activities_acids-bases-salts}
 %\input{./tex/iii-activities_mole-concept}
-%\input{./tex/iii-activities_volumetric-analysis}
+%%\input{./tex/iii-activities_volumetric-analysis}
 %\input{./tex/iii-activities_ionic-theory-electrolysis}
 %\input{./tex/iii-activities_chemical-kinetics}
 %\input{./tex/iii-activities_extraction-metals}
@@ -51,7 +51,7 @@
 %\input{./tex/iv-activities_organic-chemistry}
 %\input{./tex/iv-activities_soil-chemistry}
 %\input{./tex/iv-activities_pollution}
-%\input{./tex/iv-activities_qualitative-analysis}
+%%\input{./tex/iv-activities_qualitative-analysis}
 
 
 % Chemistry Student Practical Worksheets
@@ -59,19 +59,23 @@
 
 
 \appendix
+\addcontentsline{toc}{part}{Appendix}
+\settocdepth{chapter}
 
-% Return ToC depth and counting depth to original values
-%\settocdepth{section}
-%\setcounter{secnumdepth}{2}
+% Materials and Equipment
+\input{./tex/part-materials-equipment.tex}
 
-% Return Chapter display to normal
-%\titlespacing*{\chapter}{0pt}{-10pt}{0pt}[50pt]
-%\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\thechapter}{20pt}{\Huge}
-
-% Local Materials List
 \input{./tex/local-materials-list.tex}
+\input{./tex/low-power-microscopy.tex}
+\input{./tex/modeling-materials.tex}
+\input{./tex/sources-of-chemicals.tex}
+\input{./tex/storage-materials.tex}
 
-%\chapter{Shika Express Chemistry Demonstrations}
-\input{./tex/shika-express-chem}
+% Interactive Learning
+\input{./tex/part-interactive-learning.tex}
+
+\input{./tex/visual-aids-displays.tex}
+\input{./tex/science-outside-classroom.tex}
+\input{./tex/science-community.tex}
 
 \end{document}

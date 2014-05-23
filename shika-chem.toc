@@ -1,8 +1,73 @@
 
-\contentsline {part}{I\hspace {1em}Hands-On Activities}{2}{part.1}
-\contentsline {chapter}{\numberline {1}Chemistry Activities for Form I}{3}{chapter.1}
-\contentsline {chapter}{\numberline {2}Chemistry Activities for Form II}{4}{chapter.2}
-\contentsline {chapter}{\numberline {3}Chemistry Activities for Form III}{5}{chapter.3}
-\contentsline {chapter}{\numberline {4}Chemistry Activities for Form IV}{6}{chapter.4}
-\contentsline {chapter}{\numberline {A}Local Materials List}{7}{appendix.A}
-\contentsline {chapter}{\numberline {B}Shika Express Demonstrations for Chemistry}{8}{appendix.B}
+\contentsline {part}{I\hspace {1em}Hands-On Activities}{4}{part.1}
+\contentsline {chapter}{\numberline {1}Chemistry Activities for Form I}{5}{chapter.1}
+\contentsline {chapter}{\numberline {2}Chemistry Activities for Form II}{6}{chapter.2}
+\contentsline {chapter}{\numberline {3}Chemistry Activities for Form III}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}Chemistry Activities for Form IV}{8}{chapter.4}
+\contentsline {chapter}{\numberline {A}Local Materials List}{9}{appendix.A}
+\contentsline {section}{\numberline {A.1}Alligator Clips}{10}{section.A.1}
+\contentsline {section}{\numberline {A.2}Balance}{10}{section.A.2}
+\contentsline {section}{\numberline {A.3}Beakers}{10}{section.A.3}
+\contentsline {section}{\numberline {A.4}Blowpipe}{10}{section.A.4}
+\contentsline {section}{\numberline {A.5}Bulbs}{10}{section.A.5}
+\contentsline {section}{\numberline {A.6}Bunsen Burner}{10}{section.A.6}
+\contentsline {section}{\numberline {A.7}Burettes}{11}{section.A.7}
+\contentsline {section}{\numberline {A.8}Containers}{11}{section.A.8}
+\contentsline {section}{\numberline {A.9}Crucible}{11}{section.A.9}
+\contentsline {section}{\numberline {A.10}Deflagrating Spoon}{11}{section.A.10}
+\contentsline {section}{\numberline {A.11}Delivery Tube}{11}{section.A.11}
+\contentsline {section}{\numberline {A.12}Droppers}{11}{section.A.12}
+\contentsline {section}{\numberline {A.13}Electrodes}{11}{section.A.13}
+\contentsline {subsection}{\numberline {A.13.1}Graphite}{12}{subsection.A.13.1}
+\contentsline {subsection}{\numberline {A.13.2}Zinc}{12}{subsection.A.13.2}
+\contentsline {subsection}{\numberline {A.13.3}Iron}{12}{subsection.A.13.3}
+\contentsline {subsection}{\numberline {A.13.4}Copper}{12}{subsection.A.13.4}
+\contentsline {section}{\numberline {A.14}Electrode Holders}{12}{section.A.14}
+\contentsline {section}{\numberline {A.15}Filter Paper}{12}{section.A.15}
+\contentsline {section}{\numberline {A.16}Flasks}{12}{section.A.16}
+\contentsline {section}{\numberline {A.17}Funnel}{12}{section.A.17}
+\contentsline {section}{\numberline {A.18}Gloves}{13}{section.A.18}
+\contentsline {subsection}{\numberline {A.18.1}Latex gloves}{13}{subsection.A.18.1}
+\contentsline {subsection}{\numberline {A.18.2}Thick gloves}{13}{subsection.A.18.2}
+\contentsline {section}{\numberline {A.19}Goggles}{13}{section.A.19}
+\contentsline {section}{\numberline {A.20}Heat Sources}{13}{section.A.20}
+\contentsline {subsection}{\numberline {A.20.1}Heating Solutions}{14}{subsection.A.20.1}
+\contentsline {subsection}{\numberline {A.20.2}Heating Solids}{14}{subsection.A.20.2}
+\contentsline {subsection}{\numberline {A.20.3}Flame Tests}{14}{subsection.A.20.3}
+\contentsline {section}{\numberline {A.21}Indicator}{14}{section.A.21}
+\contentsline {section}{\numberline {A.22}Iron Filings}{14}{section.A.22}
+\contentsline {section}{\numberline {A.23}Masses}{14}{section.A.23}
+\contentsline {section}{\numberline {A.24}Measuring Cylinder}{14}{section.A.24}
+\contentsline {section}{\numberline {A.25}Metre Rule}{14}{section.A.25}
+\contentsline {section}{\numberline {A.26}Microscope}{15}{section.A.26}
+\contentsline {section}{\numberline {A.27}Mortar and Pestle}{15}{section.A.27}
+\contentsline {section}{\numberline {A.28}Nichrome Wire}{15}{section.A.28}
+\contentsline {section}{\numberline {A.29}Optical Pins}{15}{section.A.29}
+\contentsline {section}{\numberline {A.30}Pipettes}{15}{section.A.30}
+\contentsline {section}{\numberline {A.31}Retort Stand}{15}{section.A.31}
+\contentsline {section}{\numberline {A.32}Scale Pans}{15}{section.A.32}
+\contentsline {section}{\numberline {A.33}Scalpels}{15}{section.A.33}
+\contentsline {section}{\numberline {A.34}Slides and Cover Slips}{16}{section.A.34}
+\contentsline {section}{\numberline {A.35}Spatula}{16}{section.A.35}
+\contentsline {section}{\numberline {A.36}Springs}{16}{section.A.36}
+\contentsline {section}{\numberline {A.37}Stoppers}{16}{section.A.37}
+\contentsline {section}{\numberline {A.38}Stopwatches}{16}{section.A.38}
+\contentsline {section}{\numberline {A.39}Test Tubes}{16}{section.A.39}
+\contentsline {subsection}{\numberline {A.39.1}Plastic Test Tubes}{16}{subsection.A.39.1}
+\contentsline {subsection}{\numberline {A.39.2}For Thermal Decomposition}{17}{subsection.A.39.2}
+\contentsline {section}{\numberline {A.40}Test Tube Brush}{17}{section.A.40}
+\contentsline {section}{\numberline {A.41}Test Tube Holder / Tongs}{17}{section.A.41}
+\contentsline {section}{\numberline {A.42}Test Tube Racks}{17}{section.A.42}
+\contentsline {section}{\numberline {A.43}Tripod Stands}{17}{section.A.43}
+\contentsline {section}{\numberline {A.44}Volumetric ``Glass''ware}{17}{section.A.44}
+\contentsline {section}{\numberline {A.45}Wash Bottle}{17}{section.A.45}
+\contentsline {section}{\numberline {A.46}Water Bath}{18}{section.A.46}
+\contentsline {section}{\numberline {A.47}Weights}{18}{section.A.47}
+\contentsline {subsection}{\numberline {A.47.1}Crude Weights}{18}{subsection.A.47.1}
+\contentsline {subsection}{\numberline {A.47.2}Adding Weight in Known Intervals}{18}{subsection.A.47.2}
+\contentsline {subsection}{\numberline {A.47.3}Precise Weights}{18}{subsection.A.47.3}
+\contentsline {section}{\numberline {A.48}White Tiles}{18}{section.A.48}
+\contentsline {section}{\numberline {A.49}Wire}{18}{section.A.49}
+\contentsline {subsection}{\numberline {A.49.1}Connecting Wires}{18}{subsection.A.49.1}
+\contentsline {subsection}{\numberline {A.49.2}Specific Gauge Wire}{18}{subsection.A.49.2}
+\contentsline {section}{\numberline {A.50}Wire Gauze}{18}{section.A.50}
