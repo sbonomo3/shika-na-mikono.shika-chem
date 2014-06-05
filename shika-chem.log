@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.5)  4 JUN 2014 16:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.1.13)  5 JUN 2014 12:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -520,15 +520,16 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2
+)
+LaTeX Info: Redefining \bond on input line 56.
+LaTeX Info: Redefining \dbond on input line 56.
+LaTeX Info: Redefining \tbond on input line 56.
+ [2
 
 ]
 LaTeX Info: Redefining \bond on input line 57.
 LaTeX Info: Redefining \dbond on input line 57.
 LaTeX Info: Redefining \tbond on input line 57.
-LaTeX Info: Redefining \bond on input line 58.
-LaTeX Info: Redefining \dbond on input line 58.
-LaTeX Info: Redefining \tbond on input line 58.
  [3] [4] [5])
 \tf@toc=\write4
 \openout4 = `shika-chem.toc'.
@@ -539,15 +540,15 @@ LaTeX Info: Redefining \tbond on input line 58.
 ])
 Chapter 1.
 (./tex/i-activities_intro-chem.tex
-<./img/source/chemical-products.jpg, id=2203, 261.22594pt x 472.76625pt>
+<./img/source/chemical-products.jpg, id=2177, 260.47313pt x 514.92375pt>
 File: ./img/source/chemical-products.jpg Graphic file (type jpg)
 
 <use ./img/source/chemical-products.jpg>
 Package pdftex.def Info: ./img/source/chemical-products.jpg used on input line 
-21.
-(pdftex.def)             Requested size: 203.83417pt x 368.90767pt.
+28.
+(pdftex.def)             Requested size: 208.36827pt x 411.92384pt.
 
-<./img/source/chemical-pollution.jpg, id=2204, 268.00125pt x 478.03593pt>
+<./img/source/chemical-pollution.jpg, id=2178, 268.00125pt x 478.03593pt>
 File: ./img/source/chemical-pollution.jpg Graphic file (type jpg)
 
 <use ./img/source/chemical-pollution.jpg>
@@ -555,7 +556,7 @@ Package pdftex.def Info: ./img/source/chemical-pollution.jpg used on input line
  54.
 (pdftex.def)             Requested size: 203.83417pt x 363.58096pt.
 
-<./img/source/excursion.jpg, id=2205, 243.91125pt x 219.06844pt>
+<./img/source/excursion.jpg, id=2179, 243.91125pt x 219.06844pt>
 File: ./img/source/excursion.jpg Graphic file (type jpg)
 
 <use ./img/source/excursion.jpg>
@@ -564,7 +565,7 @@ Package pdftex.def Info: ./img/source/excursion.jpg used on input line 76.
  [8
 
  <./img/source/chemical-products.jpg> <./img/source/chemical-pollution.jpg>]
-<./img/source/chemical-posters.jpg, id=2210, 243.91125pt x 277.035pt>
+<./img/source/chemical-posters.jpg, id=2184, 243.91125pt x 277.035pt>
 File: ./img/source/chemical-posters.jpg Graphic file (type jpg)
 
 <use ./img/source/chemical-posters.jpg>
@@ -572,7 +573,7 @@ Package pdftex.def Info: ./img/source/chemical-posters.jpg used on input line 1
 00.
 (pdftex.def)             Requested size: 203.83417pt x 231.51573pt.
 
-<./img/source/all-chemists.jpg, id=2211, 201.00093pt x 472.76625pt>
+<./img/source/all-chemists.jpg, id=2185, 201.00093pt x 472.76625pt>
 File: ./img/source/all-chemists.jpg Graphic file (type jpg)
 
 <use ./img/source/all-chemists.jpg>
@@ -581,15 +582,7 @@ Package pdftex.def Info: ./img/source/all-chemists.jpg used on input line 123.
  [9 <./img/source/excursion.jpg> <./img/source/chemical-posters.jpg> <./img/sou
 rce/all-chemists.jpg>])
 (./tex/i-activities_lab-techniques-safety.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 9.
-
-<./img/source/display-chemicals.jpg, id=2216, 233.37187pt x 249.18094pt>
+<./img/source/display-chemicals.jpg, id=2190, 233.37187pt x 249.18094pt>
 File: ./img/source/display-chemicals.jpg Graphic file (type jpg)
 
 <use ./img/source/display-chemicals.jpg>
@@ -597,14 +590,14 @@ Package pdftex.def Info: ./img/source/display-chemicals.jpg used on input line
 12.
 (pdftex.def)             Requested size: 203.83417pt x 217.65254pt.
 
-<./img/source/safety-game.jpg, id=2217, 233.37187pt x 258.21469pt>
+<./img/source/safety-game.jpg, id=2191, 233.37187pt x 258.21469pt>
 File: ./img/source/safety-game.jpg Graphic file (type jpg)
 
 <use ./img/source/safety-game.jpg>
 Package pdftex.def Info: ./img/source/safety-game.jpg used on input line 33.
 (pdftex.def)             Requested size: 203.83417pt x 225.54329pt.
 
-<./img/source/cleanliness-play.jpg, id=2218, 250.68657pt x 246.1697pt>
+<./img/source/cleanliness-play.jpg, id=2192, 250.68657pt x 246.1697pt>
 File: ./img/source/cleanliness-play.jpg Graphic file (type jpg)
 
 <use ./img/source/cleanliness-play.jpg>
@@ -612,7 +605,7 @@ Package pdftex.def Info: ./img/source/cleanliness-play.jpg used on input line 5
 8.
 (pdftex.def)             Requested size: 203.83417pt x 200.17014pt.
 
-<./img/source/tidiness-play.jpg, id=2219, 258.9675pt x 270.25969pt>
+<./img/source/tidiness-play.jpg, id=2193, 258.9675pt x 270.25969pt>
 File: ./img/source/tidiness-play.jpg Graphic file (type jpg)
 
 <use ./img/source/tidiness-play.jpg>
@@ -621,14 +614,14 @@ Package pdftex.def Info: ./img/source/tidiness-play.jpg used on input line 79.
 ) [10 <./img/source/display-chemicals.jpg> <./img/source/safety-game.jpg> <./im
 g/source/cleanliness-play.jpg> <./img/source/tidiness-play.jpg>] (./tex/i-activ
 ities_heat-sources-flames.tex
-<./img/source/candle-burner.jpg, id=2224, 75.28125pt x 207.77625pt>
+<./img/source/candle-burner.jpg, id=2198, 75.28125pt x 207.77625pt>
 File: ./img/source/candle-burner.jpg Graphic file (type jpg)
 
 <use ./img/source/candle-burner.jpg>
 Package pdftex.def Info: ./img/source/candle-burner.jpg used on input line 25.
 (pdftex.def)             Requested size: 45.29955pt x 125.0313pt.
 
-<./img/source/kerosene-burner.jpg, id=2225, 166.37157pt x 168.63pt>
+<./img/source/kerosene-burner.jpg, id=2199, 166.37157pt x 168.63pt>
 File: ./img/source/kerosene-burner.jpg Graphic file (type jpg)
 
 <use ./img/source/kerosene-burner.jpg>
@@ -636,7 +629,7 @@ Package pdftex.def Info: ./img/source/kerosene-burner.jpg used on input line 31
 .
 (pdftex.def)             Requested size: 135.89174pt x 137.74486pt.
 
-<./img/vso/spirit-burner.jpg, id=2226, 269.50688pt x 124.21407pt>
+<./img/vso/spirit-burner.jpg, id=2200, 269.50688pt x 124.21407pt>
 File: ./img/vso/spirit-burner.jpg Graphic file (type jpg)
 
 <use ./img/vso/spirit-burner.jpg>
@@ -647,19 +640,19 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 37--38
  [] 
  []
 
-<./img/vso/charcoal-burner.jpg, id=2227, 274.77657pt x 399.74344pt>
+<./img/vso/charcoal-burner.jpg, id=2201, 274.77657pt x 399.74344pt>
 File: ./img/vso/charcoal-burner.jpg Graphic file (type jpg)
 
 <use ./img/vso/charcoal-burner.jpg>
-Package pdftex.def Info: ./img/vso/charcoal-burner.jpg used on input line 43.
+Package pdftex.def Info: ./img/vso/charcoal-burner.jpg used on input line 46.
 (pdftex.def)             Requested size: 221.95676pt x 322.91206pt.
 
-Overfull \hbox (0.47281pt too wide) in paragraph at lines 43--44
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 46--47
  [] 
  []
 
 
-Underfull \hbox (badness 5217) in paragraph at lines 54--56
+Underfull \hbox (badness 5217) in paragraph at lines 57--59
 \OT1/cmr/m/n/10 spirit, kerosene, mo-topoa, bot-tle caps,
  []
 
@@ -669,45 +662,45 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [11 <./img/source/candle-burner.jpg> <./img/source/kerosene-burner.jpg> <./img
 /vso/spirit-burner.jpg> <./img/vso/charcoal-burner.jpg>]
 (./tex/i-activities_scientific-procedure.tex
-<./img/source/acids-bases-sci-meth.jpg, id=2232, 281.55188pt x 284.56313pt>
+<./img/source/acids-bases-sci-meth.jpg, id=2206, 281.55188pt x 284.56313pt>
 File: ./img/source/acids-bases-sci-meth.jpg Graphic file (type jpg)
 
 <use ./img/source/acids-bases-sci-meth.jpg>
 Package pdftex.def Info: ./img/source/acids-bases-sci-meth.jpg used on input li
-ne 12.
+ne 9.
 (pdftex.def)             Requested size: 181.18439pt x 183.12279pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--29
+Underfull \hbox (badness 10000) in paragraph at lines 17--26
 
  []
 
-<./img/source/mixing-acid-base.jpg, id=2233, 271.0125pt x 173.14688pt>
+<./img/source/mixing-acid-base.jpg, id=2207, 271.0125pt x 173.14688pt>
 File: ./img/source/mixing-acid-base.jpg Graphic file (type jpg)
 
 <use ./img/source/mixing-acid-base.jpg>
 Package pdftex.def Info: ./img/source/mixing-acid-base.jpg used on input line 4
-6.
+3.
 (pdftex.def)             Requested size: 271.7835pt x 173.64578pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12 <./img/source/acids-bases-sci-meth.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--60
+Underfull \hbox (badness 10000) in paragraph at lines 49--57
 
  []
 
@@ -715,21 +708,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--60
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13 <./img/source/mixing-acid-base.jpg>] (./tex/i-activities_matter.tex
-<./img/source/air-matter.jpg, id=2249, 236.38312pt x 359.09157pt>
+<./img/source/air-matter.jpg, id=2223, 236.38312pt x 359.09157pt>
 File: ./img/source/air-matter.jpg Graphic file (type jpg)
 
 <use ./img/source/air-matter.jpg>
 Package pdftex.def Info: ./img/source/air-matter.jpg used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 275.2466pt.
 
-<./img/source/liquid-matter.jpg, id=2250, 231.11343pt x 246.9225pt>
+<./img/source/liquid-matter.jpg, id=2224, 231.11343pt x 246.9225pt>
 File: ./img/source/liquid-matter.jpg Graphic file (type jpg)
 
 <use ./img/source/liquid-matter.jpg>
 Package pdftex.def Info: ./img/source/liquid-matter.jpg used on input line 31.
 (pdftex.def)             Requested size: 181.18439pt x 193.57837pt.
 
-<./img/source/states-matter-students.jpg, id=2251, 172.39406pt x 456.95718pt>
+<./img/source/states-matter-students.jpg, id=2225, 172.39406pt x 456.95718pt>
 File: ./img/source/states-matter-students.jpg Graphic file (type jpg)
 
 <use ./img/source/states-matter-students.jpg>
@@ -737,7 +730,7 @@ Package pdftex.def Info: ./img/source/states-matter-students.jpg used on input
 line 56.
 (pdftex.def)             Requested size: 158.54152pt x 420.24533pt.
 
-<./img/source/state-arranging.jpg, id=2252, 193.47281pt x 464.4853pt>
+<./img/source/state-arranging.jpg, id=2226, 193.47281pt x 464.4853pt>
 File: ./img/source/state-arranging.jpg Graphic file (type jpg)
 
 <use ./img/source/state-arranging.jpg>
@@ -746,7 +739,7 @@ Package pdftex.def Info: ./img/source/state-arranging.jpg used on input line 76
 (pdftex.def)             Requested size: 181.18439pt x 434.98613pt.
  [14 <./img/source/air-matter.jpg> <./img/source/liquid-matter.jpg> <./img/sour
 ce/states-matter-students.jpg>]
-<./img/vso/motion-model.jpg, id=2257, 267.24844pt x 121.95563pt>
+<./img/vso/motion-model.jpg, id=2231, 267.24844pt x 121.95563pt>
 File: ./img/vso/motion-model.jpg Graphic file (type jpg)
 
 <use ./img/vso/motion-model.jpg>
@@ -757,7 +750,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 97--98
  [] 
  []
 
-<./img/source/physical-change.jpg, id=2258, 209.28188pt x 206.27063pt>
+<./img/source/physical-change.jpg, id=2232, 209.28188pt x 206.27063pt>
 File: ./img/source/physical-change.jpg Graphic file (type jpg)
 
 <use ./img/source/physical-change.jpg>
@@ -765,15 +758,7 @@ Package pdftex.def Info: ./img/source/physical-change.jpg used on input line 12
 1.
 (pdftex.def)             Requested size: 158.54152pt x 156.2574pt.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 137.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 137.
-
-<./img/source/p-c-changes-metals.jpg, id=2259, 225.84375pt x 143.78719pt>
+<./img/source/p-c-changes-metals.jpg, id=2233, 225.84375pt x 143.78719pt>
 File: ./img/source/p-c-changes-metals.jpg Graphic file (type jpg)
 
 <use ./img/source/p-c-changes-metals.jpg>
@@ -782,15 +767,15 @@ Package pdftex.def Info: ./img/source/p-c-changes-metals.jpg used on input line
 (pdftex.def)             Requested size: 181.18439pt x 115.36119pt.
  [15 <./img/source/state-arranging.jpg> <./img/vso/motion-model.jpg> <./img/sou
 rce/physical-change.jpg>]
-<./img/source/intro-mixtures.jpg, id=2265, 215.30438pt x 453.94594pt>
+<./img/source/intro-mixtures.jpg, id=2239, 215.30438pt x 453.94594pt>
 File: ./img/source/intro-mixtures.jpg Graphic file (type jpg)
 
 <use ./img/source/intro-mixtures.jpg>
 Package pdftex.def Info: ./img/source/intro-mixtures.jpg used on input line 201
 .
-(pdftex.def)             Requested size: 181.18439pt x 382.0185pt.
+(pdftex.def)             Requested size: 203.83417pt x 429.77081pt.
 
-<./img/source/mixtures-compounds.jpg, id=2266, 122.70844pt x 425.33907pt>
+<./img/source/mixtures-compounds.jpg, id=2240, 122.70844pt x 425.33907pt>
 File: ./img/source/mixtures-compounds.jpg Graphic file (type jpg)
 
 <use ./img/source/mixtures-compounds.jpg>
@@ -798,7 +783,7 @@ Package pdftex.def Info: ./img/source/mixtures-compounds.jpg used on input line
  225.
 (pdftex.def)             Requested size: 135.89174pt x 471.05457pt.
  [16 <./img/source/p-c-changes-metals.jpg> <./img/source/intro-mixtures.jpg>]
-<./img/source/student-compounds.jpg, id=2272, 322.95656pt x 349.305pt>
+<./img/source/student-compounds.jpg, id=2246, 322.95656pt x 349.305pt>
 File: ./img/source/student-compounds.jpg Graphic file (type jpg)
 
 <use ./img/source/student-compounds.jpg>
@@ -806,14 +791,14 @@ Package pdftex.def Info: ./img/source/student-compounds.jpg used on input line
 254.
 (pdftex.def)             Requested size: 203.83417pt x 220.46306pt.
 
-<./img/source/homogeneous.jpg, id=2273, 213.04594pt x 211.54031pt>
+<./img/source/homogeneous.jpg, id=2247, 213.04594pt x 211.54031pt>
 File: ./img/source/homogeneous.jpg Graphic file (type jpg)
 
 <use ./img/source/homogeneous.jpg>
 Package pdftex.def Info: ./img/source/homogeneous.jpg used on input line 277.
 (pdftex.def)             Requested size: 181.18439pt x 179.91339pt.
 
-<./img/source/heterogeneous.jpg, id=2274, 242.40562pt x 270.25969pt>
+<./img/source/heterogeneous.jpg, id=2248, 242.40562pt x 270.25969pt>
 File: ./img/source/heterogeneous.jpg Graphic file (type jpg)
 
 <use ./img/source/heterogeneous.jpg>
@@ -822,36 +807,28 @@ Package pdftex.def Info: ./img/source/heterogeneous.jpg used on input line 301.
 (pdftex.def)             Requested size: 181.18439pt x 202.01382pt.
  [17 <./img/source/mixtures-compounds.jpg> <./img/source/student-compounds.jpg>
  <./img/source/homogeneous.jpg>]
-<./img/vso/iron-sulphur.jpg, id=2280, 204.01219pt x 129.48375pt>
+<./img/vso/iron-sulphur.jpg, id=2253, 204.01219pt x 129.48375pt>
 File: ./img/vso/iron-sulphur.jpg Graphic file (type jpg)
 
 <use ./img/vso/iron-sulphur.jpg>
 Package pdftex.def Info: ./img/vso/iron-sulphur.jpg used on input line 328.
 (pdftex.def)             Requested size: 181.18439pt x 115.00108pt.
 
-<./img/source/suspensions.jpg, id=2281, 261.22594pt x 266.49562pt>
+<./img/source/suspensions.jpg, id=2254, 261.22594pt x 266.49562pt>
 File: ./img/source/suspensions.jpg Graphic file (type jpg)
 
 <use ./img/source/suspensions.jpg>
 Package pdftex.def Info: ./img/source/suspensions.jpg used on input line 387.
 (pdftex.def)             Requested size: 181.18439pt x 184.84184pt.
 
-<./img/source/emulsions.jpg, id=2282, 264.99pt x 203.25937pt>
+<./img/source/emulsions.jpg, id=2255, 264.99pt x 203.25937pt>
 File: ./img/source/emulsions.jpg Graphic file (type jpg)
 
 <use ./img/source/emulsions.jpg>
 Package pdftex.def Info: ./img/source/emulsions.jpg used on input line 411.
 (pdftex.def)             Requested size: 181.18439pt x 138.9775pt.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 433.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 433.
-
-<./img/source/miscible-immiscible.jpg, id=2283, 264.99pt x 209.28188pt>
+<./img/source/miscible-immiscible.jpg, id=2256, 264.99pt x 209.28188pt>
 File: ./img/source/miscible-immiscible.jpg Graphic file (type jpg)
 
 <use ./img/source/miscible-immiscible.jpg>
@@ -860,21 +837,21 @@ e 436.
 (pdftex.def)             Requested size: 181.18439pt x 143.09534pt.
  [18 <./img/source/heterogeneous.jpg> <./img/vso/iron-sulphur.jpg> <./img/sourc
 e/suspensions.jpg> <./img/source/emulsions.jpg>] <./img/source/decantation.jpg,
- id=2288, 258.21469pt x 177.66376pt>
+ id=2261, 258.21469pt x 177.66376pt>
 File: ./img/source/decantation.jpg Graphic file (type jpg)
 
 <use ./img/source/decantation.jpg>
 Package pdftex.def Info: ./img/source/decantation.jpg used on input line 526.
 (pdftex.def)             Requested size: 181.18439pt x 124.66739pt.
 
-<./img/source/evaporation.jpg, id=2289, 268.75406pt x 202.50656pt>
+<./img/source/evaporation.jpg, id=2262, 268.75406pt x 202.50656pt>
 File: ./img/source/evaporation.jpg Graphic file (type jpg)
 
 <use ./img/source/evaporation.jpg>
 Package pdftex.def Info: ./img/source/evaporation.jpg used on input line 552.
 (pdftex.def)             Requested size: 181.18439pt x 136.52223pt.
  [19 <./img/source/miscible-immiscible.jpg> <./img/source/decantation.jpg>]
-<./img/vso/distillation.jpg, id=2295, 343.2825pt x 181.42781pt>
+<./img/vso/distillation.jpg, id=2268, 343.2825pt x 181.42781pt>
 File: ./img/vso/distillation.jpg Graphic file (type jpg)
 
 <use ./img/vso/distillation.jpg>
@@ -885,7 +862,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 577--578
  [] 
  []
 
-<./img/source/distillation-solution.jpg, id=2297, 260.47313pt x 239.39438pt>
+<./img/source/distillation-solution.jpg, id=2270, 260.47313pt x 239.39438pt>
 File: ./img/source/distillation-solution.jpg Graphic file (type jpg)
 
 <use ./img/source/distillation-solution.jpg>
@@ -893,22 +870,14 @@ Package pdftex.def Info: ./img/source/distillation-solution.jpg used on input l
 ine 598.
 (pdftex.def)             Requested size: 181.18439pt x 166.52289pt.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 618.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 618.
-
-<./img/vso/sep-immiscible.jpg, id=2298, 191.21437pt x 155.07938pt>
+<./img/vso/sep-immiscible.jpg, id=2271, 191.21437pt x 155.07938pt>
 File: ./img/vso/sep-immiscible.jpg Graphic file (type jpg)
 
 <use ./img/vso/sep-immiscible.jpg>
 Package pdftex.def Info: ./img/vso/sep-immiscible.jpg used on input line 621.
 (pdftex.def)             Requested size: 181.18439pt x 146.95303pt.
 
-<./img/source/filtering-2.jpg, id=2299, 221.32687pt x 262.73157pt>
+<./img/source/filtering-2.jpg, id=2272, 221.32687pt x 262.73157pt>
 File: ./img/source/filtering-2.jpg Graphic file (type jpg)
 
 <use ./img/source/filtering-2.jpg>
@@ -916,7 +885,7 @@ Package pdftex.def Info: ./img/source/filtering-2.jpg used on input line 650.
 (pdftex.def)             Requested size: 158.54152pt x 188.20844pt.
  [20 <./img/source/evaporation.jpg> <./img/vso/distillation.jpg> <./img/source/
 distillation-solution.jpg> <./img/vso/sep-immiscible.jpg>]
-<./img/source/chromatography-2.jpg, id=2304, 197.23688pt x 228.855pt>
+<./img/source/chromatography-2.jpg, id=2277, 197.23688pt x 228.855pt>
 File: ./img/source/chromatography-2.jpg Graphic file (type jpg)
 
 <use ./img/source/chromatography-2.jpg>
@@ -928,21 +897,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21 <./img/source/filtering-2.jpg> <./img/source/chromatography-2.jpg>]
 (./tex/i-activities_combustion.tex
-<./img/source/air-comp-1.jpg, id=2309, 252.945pt x 575.14874pt>
+<./img/source/air-comp-1.jpg, id=2283, 252.945pt x 575.14874pt>
 File: ./img/source/air-comp-1.jpg Graphic file (type jpg)
 
 <use ./img/source/air-comp-1.jpg>
 Package pdftex.def Info: ./img/source/air-comp-1.jpg used on input line 11.
 (pdftex.def)             Requested size: 203.83417pt x 463.48962pt.
 
-<./img/source/gases-in-air.jpg, id=2310, 249.93375pt x 219.82124pt>
+<./img/source/gases-in-air.jpg, id=2284, 249.93375pt x 219.82124pt>
 File: ./img/source/gases-in-air.jpg Graphic file (type jpg)
 
 <use ./img/source/gases-in-air.jpg>
 Package pdftex.def Info: ./img/source/gases-in-air.jpg used on input line 40.
 (pdftex.def)             Requested size: 181.18439pt x 159.36127pt.
 
-<./img/source/flame-extinguisher.jpg, id=2311, 180.675pt x 122.70844pt>
+<./img/source/flame-extinguisher.jpg, id=2285, 180.675pt x 122.70844pt>
 File: ./img/source/flame-extinguisher.jpg Graphic file (type jpg)
 
 <use ./img/source/flame-extinguisher.jpg>
@@ -950,7 +919,7 @@ Package pdftex.def Info: ./img/source/flame-extinguisher.jpg used on input line
  69.
 (pdftex.def)             Requested size: 181.18439pt x 123.05452pt.
 
-<./img/source/candle-water.jpg, id=2312, 262.73157pt x 411.78844pt>
+<./img/source/candle-water.jpg, id=2286, 262.73157pt x 411.78844pt>
 File: ./img/source/candle-water.jpg Graphic file (type jpg)
 
 <use ./img/source/candle-water.jpg>
@@ -966,80 +935,64 @@ LaTeX Info: Redefining \tbond on input line 106.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 106.
 
+LaTeX Info: Redefining \bond on input line 128.
+LaTeX Info: Redefining \dbond on input line 128.
+LaTeX Info: Redefining \tbond on input line 128.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 106.
+(hyperref)                removing `subscript' on input line 128.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 106.
-
-LaTeX Info: Redefining \bond on input line 127.
-LaTeX Info: Redefining \dbond on input line 127.
-LaTeX Info: Redefining \tbond on input line 127.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 127.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 127.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 127.
-
-<./img/source/co2-extinguisher.jpg, id=2318, 154.32657pt x 198.7425pt>
+<./img/source/co2-extinguisher.jpg, id=2292, 154.32657pt x 198.7425pt>
 File: ./img/source/co2-extinguisher.jpg Graphic file (type jpg)
 
 <use ./img/source/co2-extinguisher.jpg>
 Package pdftex.def Info: ./img/source/co2-extinguisher.jpg used on input line 1
-30.
+31.
 (pdftex.def)             Requested size: 181.18439pt x 233.3496pt.
 
-<./img/source/fire-fighting.jpg, id=2319, 191.9672pt x 114.4275pt>
+<./img/source/fire-fighting.jpg, id=2293, 191.9672pt x 114.4275pt>
 File: ./img/source/fire-fighting.jpg Graphic file (type jpg)
 
 <use ./img/source/fire-fighting.jpg>
-Package pdftex.def Info: ./img/source/fire-fighting.jpg used on input line 176.
+Package pdftex.def Info: ./img/source/fire-fighting.jpg used on input line 177.
 
 (pdftex.def)             Requested size: 181.18439pt x 108.0071pt.
  [23 <./img/source/candle-water.jpg> <./img/source/co2-extinguisher.jpg>]
-<./img/fire-extinguisher.jpg, id=2325, 255.95625pt x 304.88907pt>
+<./img/fire-extinguisher.jpg, id=2299, 255.95625pt x 304.88907pt>
 File: ./img/fire-extinguisher.jpg Graphic file (type jpg)
 
 <use ./img/fire-extinguisher.jpg>
-Package pdftex.def Info: ./img/fire-extinguisher.jpg used on input line 198.
-(pdftex.def)             Requested size: 158.54152pt x 188.85248pt.
+Package pdftex.def Info: ./img/fire-extinguisher.jpg used on input line 199.
+(pdftex.def)             Requested size: 203.83417pt x 242.80435pt.
 
-<./img/rusting-nails-6.png, id=2326, 297.36093pt x 101.62968pt>
+<./img/rusting-nails-6.png, id=2300, 297.36093pt x 101.62968pt>
 File: ./img/rusting-nails-6.png Graphic file (type png)
 
 <use ./img/rusting-nails-6.png>
-Package pdftex.def Info: ./img/rusting-nails-6.png used on input line 225.
+Package pdftex.def Info: ./img/rusting-nails-6.png used on input line 226.
 (pdftex.def)             Requested size: 181.18439pt x 61.92267pt.
 
-<./img/vso/rusting-steel-wool.jpg, id=2327, 191.21437pt x 165.61874pt>
+<./img/vso/rusting-steel-wool.jpg, id=2301, 191.21437pt x 165.61874pt>
 File: ./img/vso/rusting-steel-wool.jpg Graphic file (type jpg)
 
 <use ./img/vso/rusting-steel-wool.jpg>
 Package pdftex.def Info: ./img/vso/rusting-steel-wool.jpg used on input line 24
-4.
+5.
 (pdftex.def)             Requested size: 158.54152pt x 137.32704pt.
  [24 <./img/source/fire-fighting.jpg> <./img/fire-extinguisher.jpg>]
-<./img/vso/rusty-nails.jpg, id=2332, 165.61874pt x 123.46124pt>
+<./img/vso/rusty-nails.jpg, id=2306, 165.61874pt x 123.46124pt>
 File: ./img/vso/rusty-nails.jpg Graphic file (type jpg)
 
 <use ./img/vso/rusty-nails.jpg>
-Package pdftex.def Info: ./img/vso/rusty-nails.jpg used on input line 270.
+Package pdftex.def Info: ./img/vso/rusty-nails.jpg used on input line 271.
 (pdftex.def)             Requested size: 181.18439pt x 135.07117pt.
 
-<./img/source/rusting-prevent.jpg, id=2333, 210.7875pt x 250.68657pt>
+<./img/source/rusting-prevent.jpg, id=2307, 210.7875pt x 250.68657pt>
 File: ./img/source/rusting-prevent.jpg Graphic file (type jpg)
 
 <use ./img/source/rusting-prevent.jpg>
 Package pdftex.def Info: ./img/source/rusting-prevent.jpg used on input line 29
-5.
+6.
 (pdftex.def)             Requested size: 181.18439pt x 215.48296pt.
  [25 <./img/rusting-nails-6.png> <./img/vso/rusting-steel-wool.jpg> <./img/vso/
 rusty-nails.jpg> <./img/source/rusting-prevent.jpg>])
@@ -1049,14 +1002,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--57
 []\OT1/cmr/m/n/10 Syringe/measuring cylin-der, pow-
  []
 
-<./img/source/oxygen-prep.jpg, id=2339, 146.04562pt x 179.16937pt>
+<./img/source/oxygen-prep.jpg, id=2313, 146.04562pt x 179.16937pt>
 File: ./img/source/oxygen-prep.jpg Graphic file (type jpg)
 
 <use ./img/source/oxygen-prep.jpg>
 Package pdftex.def Info: ./img/source/oxygen-prep.jpg used on input line 75.
 (pdftex.def)             Requested size: 113.24197pt x 138.93137pt.
 
-<./img/source/burning-oxygen.jpg, id=2341, 255.20343pt x 134.00063pt>
+<./img/source/burning-oxygen.jpg, id=2315, 255.20343pt x 134.00063pt>
 File: ./img/source/burning-oxygen.jpg Graphic file (type jpg)
 
 <use ./img/source/burning-oxygen.jpg>
@@ -1067,7 +1020,7 @@ Package pdftex.def Info: ./img/source/burning-oxygen.jpg used on input line 100
 
  <./img/source/oxygen-prep.jpg> <./img/source/burning-oxygen.jpg>]) (./tex/ii-a
 ctivities_hydrogen.tex
-<./img/hydrogen-production.png, id=2347, 334.24875pt x 228.10219pt>
+<./img/hydrogen-production.png, id=2321, 334.24875pt x 228.10219pt>
 File: ./img/hydrogen-production.png Graphic file (type png)
 
 <use ./img/hydrogen-production.png>
@@ -1083,7 +1036,7 @@ Underfull \hbox (badness 7151) in paragraph at lines 36--38
 \OT1/cmr/m/n/10 acid/battery acid/HCl, fun-nel, bal-loon,
  []
 
-<./img/source/hydrogen-bubbles.jpg, id=2349, 236.38312pt x 268.75406pt>
+<./img/source/hydrogen-bubbles.jpg, id=2323, 236.38312pt x 268.75406pt>
 File: ./img/source/hydrogen-bubbles.jpg Graphic file (type jpg)
 
 <use ./img/source/hydrogen-bubbles.jpg>
@@ -1095,21 +1048,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27 <./img/hydrogen-production.png> <./img/source/hydrogen-bubbles.jpg>]
 (./tex/ii-activities_water.tex
-<./img/source/water-cycle.jpg, id=2355, 263.48438pt x 195.73125pt>
+<./img/source/water-cycle.jpg, id=2329, 263.48438pt x 195.73125pt>
 File: ./img/source/water-cycle.jpg Graphic file (type jpg)
 
 <use ./img/source/water-cycle.jpg>
 Package pdftex.def Info: ./img/source/water-cycle.jpg used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 134.60072pt.
 
-<./img/source/water-waste.jpg, id=2356, 182.18062pt x 208.52907pt>
+<./img/source/water-waste.jpg, id=2330, 182.18062pt x 208.52907pt>
 File: ./img/source/water-waste.jpg Graphic file (type jpg)
 
 <use ./img/source/water-waste.jpg>
 Package pdftex.def Info: ./img/source/water-waste.jpg used on input line 80.
 (pdftex.def)             Requested size: 181.18439pt x 207.39578pt.
 
-<./img/source/water-daily-life.jpg, id=2357, 283.81032pt x 362.85562pt>
+<./img/source/water-daily-life.jpg, id=2331, 283.81032pt x 362.85562pt>
 File: ./img/source/water-daily-life.jpg Graphic file (type jpg)
 
 <use ./img/source/water-daily-life.jpg>
@@ -1117,43 +1070,43 @@ Package pdftex.def Info: ./img/source/water-daily-life.jpg used on input line 1
 01.
 (pdftex.def)             Requested size: 181.18439pt x 231.65652pt.
  [28 <./img/source/water-cycle.jpg> <./img/source/water-waste.jpg>]
-<./img/water-filter.png, id=2362, 328.97906pt x 313.17pt>
+<./img/water-filter.png, id=2336, 328.97906pt x 313.17pt>
 File: ./img/water-filter.png Graphic file (type png)
 
 <use ./img/water-filter.png>
 Package pdftex.def Info: ./img/water-filter.png used on input line 163.
-(pdftex.def)             Requested size: 181.18439pt x 172.47816pt.
+(pdftex.def)             Requested size: 203.83417pt x 194.04391pt.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29 <./img/source/water-daily-life.jpg> <./img/water-filter.png>]
 (./tex/ii-activities_fuels-energy.tex
-<./img/source/chem-energy.jpg, id=2370, 357.58594pt x 223.58531pt>
+<./img/source/chem-energy.jpg, id=2344, 357.58594pt x 278.54062pt>
 File: ./img/source/chem-energy.jpg Graphic file (type jpg)
 
 <use ./img/source/chem-energy.jpg>
 Package pdftex.def Info: ./img/source/chem-energy.jpg used on input line 12.
-(pdftex.def)             Requested size: 221.95676pt x 138.78178pt.
+(pdftex.def)             Requested size: 221.95676pt x 172.89314pt.
 
 Overfull \hbox (0.47281pt too wide) in paragraph at lines 12--13
  [] 
  []
 
-<./img/electric-heater.png, id=2371, 144.54pt x 185.19188pt>
+<./img/electric-heater.png, id=2345, 144.54pt x 185.19188pt>
 File: ./img/electric-heater.png Graphic file (type png)
 
 <use ./img/electric-heater.png>
 Package pdftex.def Info: ./img/electric-heater.png used on input line 34.
 (pdftex.def)             Requested size: 135.89174pt x 174.11993pt.
 
-<./img/water-turbine.png, id=2372, 280.79906pt x 173.14688pt>
+<./img/water-turbine.png, id=2346, 280.79906pt x 173.14688pt>
 File: ./img/water-turbine.png Graphic file (type png)
 
 <use ./img/water-turbine.png>
 Package pdftex.def Info: ./img/water-turbine.png used on input line 77.
 (pdftex.def)             Requested size: 203.83417pt x 125.68811pt.
  [30 <./img/source/chem-energy.jpg> <./img/electric-heater.png>] <./img/windmil
-l.png, id=2379, 199.49532pt x 342.5297pt>
+l.png, id=2353, 199.49532pt x 342.5297pt>
 File: ./img/windmill.png Graphic file (type png)
 
 <use ./img/windmill.png>
@@ -1164,14 +1117,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31 <./img/water-turbine.png> <./img/windmill.png>]
 (./tex/ii-activities_atomic-structure.tex
-<./img/source/dalton-model.jpg, id=2388, 207.02344pt x 258.21469pt>
+<./img/source/dalton-model.jpg, id=2361, 207.02344pt x 258.21469pt>
 File: ./img/source/dalton-model.jpg Graphic file (type jpg)
 
 <use ./img/source/dalton-model.jpg>
 Package pdftex.def Info: ./img/source/dalton-model.jpg used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 225.99245pt.
 
-<./img/source/models-atom-str-alt.jpg, id=2389, 310.15875pt x 213.79875pt>
+<./img/source/models-atom-str-alt.jpg, id=2362, 310.15875pt x 213.79875pt>
 File: ./img/source/models-atom-str-alt.jpg Graphic file (type jpg)
 
 <use ./img/source/models-atom-str-alt.jpg>
@@ -1179,7 +1132,7 @@ Package pdftex.def Info: ./img/source/models-atom-str-alt.jpg used on input lin
 e 35.
 (pdftex.def)             Requested size: 203.83417pt x 140.50734pt.
 
-<./img/source/dalton-measure.jpg, id=2390, 197.98969pt x 189.70876pt>
+<./img/source/dalton-measure.jpg, id=2363, 197.98969pt x 189.70876pt>
 File: ./img/source/dalton-measure.jpg Graphic file (type jpg)
 
 <use ./img/source/dalton-measure.jpg>
@@ -1191,14 +1144,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--63
 []\OT1/cmr/m/n/10 Measuring cylin-ders, sand,
  []
 
-<./img/source/student-atom.jpg, id=2391, 218.31563pt x 204.01219pt>
+<./img/source/student-atom.jpg, id=2364, 218.31563pt x 204.01219pt>
 File: ./img/source/student-atom.jpg Graphic file (type jpg)
 
 <use ./img/source/student-atom.jpg>
 Package pdftex.def Info: ./img/source/student-atom.jpg used on input line 85.
 (pdftex.def)             Requested size: 181.18439pt x 169.3145pt.
 
-<./img/vso/atom-model.jpg, id=2392, 170.13562pt x 173.14688pt>
+<./img/vso/atom-model.jpg, id=2365, 170.13562pt x 173.14688pt>
 File: ./img/vso/atom-model.jpg Graphic file (type jpg)
 
 <use ./img/vso/atom-model.jpg>
@@ -1206,37 +1159,37 @@ Package pdftex.def Info: ./img/vso/atom-model.jpg used on input line 104.
 (pdftex.def)             Requested size: 144.95303pt x 147.52692pt.
  [32 <./img/source/dalton-model.jpg> <./img/source/models-atom-str-alt.jpg> <./
 img/source/dalton-measure.jpg> <./img/source/student-atom.jpg>]
-<./img/source/size-nucleus.jpg, id=2397, 246.9225pt x 173.14688pt>
+<./img/source/size-nucleus.jpg, id=2370, 246.9225pt x 173.14688pt>
 File: ./img/source/size-nucleus.jpg Graphic file (type jpg)
 
 <use ./img/source/size-nucleus.jpg>
 Package pdftex.def Info: ./img/source/size-nucleus.jpg used on input line 128.
 (pdftex.def)             Requested size: 181.18439pt x 127.04874pt.
 
-<./img/source/stone-atoms.jpg, id=2398, 173.14688pt x 481.04718pt>
+<./img/source/stone-atoms.jpg, id=2371, 173.14688pt x 481.04718pt>
 File: ./img/source/stone-atoms.jpg Graphic file (type jpg)
 
 <use ./img/source/stone-atoms.jpg>
 Package pdftex.def Info: ./img/source/stone-atoms.jpg used on input line 157.
-(pdftex.def)             Requested size: 181.18439pt x 503.38951pt.
+(pdftex.def)             Requested size: 203.83417pt x 566.31686pt.
 
-<./img/source/dorm-arrangement.jpg, id=2399, 134.75343pt x 304.88907pt>
+<./img/source/dorm-arrangement.jpg, id=2372, 134.75343pt x 345.54094pt>
 File: ./img/source/dorm-arrangement.jpg Graphic file (type jpg)
 
 <use ./img/source/dorm-arrangement.jpg>
 Package pdftex.def Info: ./img/source/dorm-arrangement.jpg used on input line 1
 84.
-(pdftex.def)             Requested size: 181.18439pt x 409.94954pt.
+(pdftex.def)             Requested size: 194.77287pt x 499.45558pt.
  [33 <./img/vso/atom-model.jpg> <./img/source/size-nucleus.jpg> <./img/source/s
 tone-atoms.jpg>]
-<./img/source/shelf-model.jpg, id=2404, 274.77657pt x 246.9225pt>
+<./img/source/shelf-model.jpg, id=2377, 274.77657pt x 246.9225pt>
 File: ./img/source/shelf-model.jpg Graphic file (type jpg)
 
 <use ./img/source/shelf-model.jpg>
 Package pdftex.def Info: ./img/source/shelf-model.jpg used on input line 209.
 (pdftex.def)             Requested size: 172.13pt x 154.6841pt.
 
-<./img/source/isotopes.jpg, id=2405, 308.65312pt x 318.43968pt>
+<./img/source/isotopes.jpg, id=2378, 308.65312pt x 318.43968pt>
 File: ./img/source/isotopes.jpg Graphic file (type jpg)
 
 <use ./img/source/isotopes.jpg>
@@ -1245,31 +1198,31 @@ Package pdftex.def Info: ./img/source/isotopes.jpg used on input line 237.
  [34 <./img/source/dorm-arrangement.jpg> <./img/source/shelf-model.jpg> <./img/
 source/isotopes.jpg>])
 (./tex/ii-activities_periodic-classification.tex
-<./img/source/arranging-shapes.jpg, id=2410, 179.16937pt x 409.53pt>
+<./img/source/arranging-shapes.jpg, id=2383, 179.16937pt x 365.86688pt>
 File: ./img/source/arranging-shapes.jpg Graphic file (type jpg)
 
 <use ./img/source/arranging-shapes.jpg>
 Package pdftex.def Info: ./img/source/arranging-shapes.jpg used on input line 3
 7.
-(pdftex.def)             Requested size: 181.18439pt x 414.15942pt.
+(pdftex.def)             Requested size: 181.18439pt x 370.00273pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 42--44
 []\OT1/cmr/m/n/10 Paper/manila or card, scis-sors,
  []
 
-<./img/source/periodic-table.jpg, id=2411, 247.67531pt x 392.21532pt>
+<./img/source/periodic-table.jpg, id=2384, 246.9225pt x 432.11438pt>
 File: ./img/source/periodic-table.jpg Graphic file (type jpg)
 
 <use ./img/source/periodic-table.jpg>
 Package pdftex.def Info: ./img/source/periodic-table.jpg used on input line 64.
 
-(pdftex.def)             Requested size: 221.95676pt x 351.48836pt.
+(pdftex.def)             Requested size: 221.95676pt x 388.41801pt.
 
 Overfull \hbox (0.47281pt too wide) in paragraph at lines 64--65
  [] 
  []
 
-<./img/source/periodic-table-game.jpg, id=2412, 287.57437pt x 234.1247pt>
+<./img/source/periodic-table-game.jpg, id=2385, 287.57437pt x 234.1247pt>
 File: ./img/source/periodic-table-game.jpg Graphic file (type jpg)
 
 <use ./img/source/periodic-table-game.jpg>
@@ -1286,7 +1239,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--100
 []\OT1/cmr/m/n/10 Manila/flipchart pa-per, mark-ers,
  []
 
-<./img/source/periodic-guess-who.jpg, id=2417, 252.19218pt x 293.59688pt>
+<./img/source/periodic-guess-who.jpg, id=2391, 252.19218pt x 293.59688pt>
 File: ./img/source/periodic-guess-who.jpg Graphic file (type jpg)
 
 <use ./img/source/periodic-guess-who.jpg>
@@ -1294,7 +1247,7 @@ Package pdftex.def Info: ./img/source/periodic-guess-who.jpg used on input line
  122.
 (pdftex.def)             Requested size: 203.83417pt x 237.30144pt.
 
-<./img/source/periodic-students.jpg, id=2418, 392.21532pt x 293.59688pt>
+<./img/source/periodic-students.jpg, id=2392, 392.21532pt x 293.59688pt>
 File: ./img/source/periodic-students.jpg Graphic file (type jpg)
 
 <use ./img/source/periodic-students.jpg>
@@ -1304,105 +1257,91 @@ Package pdftex.def Info: ./img/source/periodic-students.jpg used on input line
 ) [36 <./img/source/periodic-table-game.jpg> <./img/source/periodic-guess-who.j
 pg> <./img/source/periodic-students.jpg>] (./tex/ii-activities_formula-bonding.
 tex
-<./img/source/student-ions.jpg, id=2423, 286.82156pt x 319.1925pt>
+<./img/source/student-ions.jpg, id=2397, 295.85532pt x 308.65312pt>
 File: ./img/source/student-ions.jpg Graphic file (type jpg)
 
 <use ./img/source/student-ions.jpg>
 Package pdftex.def Info: ./img/source/student-ions.jpg used on input line 12.
-(pdftex.def)             Requested size: 221.95676pt x 247.0112pt.
+(pdftex.def)             Requested size: 221.95676pt x 231.56462pt.
 
 Overfull \hbox (0.47281pt too wide) in paragraph at lines 12--13
  [] 
  []
 
-<./img/source/ion-template.jpg, id=2424, 408.02437pt x 387.69844pt>
-File: ./img/source/ion-template.jpg Graphic file (type jpg)
+<./img/source/ion-templates.jpg, id=2398, 408.02437pt x 804.00375pt>
+File: ./img/source/ion-templates.jpg Graphic file (type jpg)
 
-<use ./img/source/ion-template.jpg>
-Package pdftex.def Info: ./img/source/ion-template.jpg used on input line 33.
-(pdftex.def)             Requested size: 221.95676pt x 210.89806pt.
+<use ./img/source/ion-templates.jpg>
+Package pdftex.def Info: ./img/source/ion-templates.jpg used on input line 35.
+(pdftex.def)             Requested size: 221.95676pt x 437.35754pt.
 
-<./img/source/ion-template-2.jpg, id=2425, 207.77625pt x 128.73094pt>
-File: ./img/source/ion-template-2.jpg Graphic file (type jpg)
-
-<use ./img/source/ion-template-2.jpg>
-Package pdftex.def Info: ./img/source/ion-template-2.jpg used on input line 34.
-
-(pdftex.def)             Requested size: 221.95676pt x 137.52269pt.
-
-Overfull \hbox (0.47281pt too wide) in paragraph at lines 33--35
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 35--36
  [] 
  []
 
-
-Overfull \hbox (0.47281pt too wide) in paragraph at lines 33--35
- [] 
- []
-
-<./img/source/valency-ruler.jpg, id=2426, 273.27094pt x 456.20438pt>
+<./img/source/valency-ruler.jpg, id=2399, 272.51813pt x 588.69937pt>
 File: ./img/source/valency-ruler.jpg Graphic file (type jpg)
 
 <use ./img/source/valency-ruler.jpg>
-Package pdftex.def Info: ./img/source/valency-ruler.jpg used on input line 61.
-(pdftex.def)             Requested size: 221.95676pt x 370.53983pt.
+Package pdftex.def Info: ./img/source/valency-ruler.jpg used on input line 62.
+(pdftex.def)             Requested size: 221.95676pt x 479.47583pt.
 
-Overfull \hbox (0.47281pt too wide) in paragraph at lines 61--62
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 62--63
  [] 
  []
 
-[37 <./img/source/student-ions.jpg> <./img/source/ion-template.jpg> <./img/sour
-ce/ion-template-2.jpg>]
-<./img/source/covalent-bonds.jpg, id=2432, 255.20343pt x 407.27156pt>
+[37 <./img/source/student-ions.jpg> <./img/source/ion-templates.jpg>]
+<./img/source/covalent-bonds.jpg, id=2405, 254.45062pt x 364.36125pt>
 File: ./img/source/covalent-bonds.jpg Graphic file (type jpg)
 
 <use ./img/source/covalent-bonds.jpg>
-Package pdftex.def Info: ./img/source/covalent-bonds.jpg used on input line 94.
+Package pdftex.def Info: ./img/source/covalent-bonds.jpg used on input line 95.
 
-(pdftex.def)             Requested size: 203.83417pt x 325.30809pt.
+(pdftex.def)             Requested size: 194.77287pt x 278.91891pt.
 
-<./img/vso/molecule-model.jpg, id=2433, 245.41687pt x 522.45187pt>
+<./img/vso/molecule-model.jpg, id=2406, 245.41687pt x 620.3175pt>
 File: ./img/vso/molecule-model.jpg Graphic file (type jpg)
 
 <use ./img/vso/molecule-model.jpg>
-Package pdftex.def Info: ./img/vso/molecule-model.jpg used on input line 134.
-(pdftex.def)             Requested size: 181.18439pt x 385.72343pt.
+Package pdftex.def Info: ./img/vso/molecule-model.jpg used on input line 135.
+(pdftex.def)             Requested size: 203.83417pt x 515.23254pt.
  [38 <./img/source/valency-ruler.jpg> <./img/source/covalent-bonds.jpg>]
-<./img/source/3d-models-2.jpg, id=2438, 237.13594pt x 513.41812pt>
+<./img/source/3d-models-2.jpg, id=2411, 236.38312pt x 645.91313pt>
 File: ./img/source/3d-models-2.jpg Graphic file (type jpg)
 
 <use ./img/source/3d-models-2.jpg>
-Package pdftex.def Info: ./img/source/3d-models-2.jpg used on input line 156.
-(pdftex.def)             Requested size: 181.18439pt x 392.29353pt.
+Package pdftex.def Info: ./img/source/3d-models-2.jpg used on input line 157.
+(pdftex.def)             Requested size: 194.77287pt x 532.22458pt.
 
-<./img/source/3d-models.jpg, id=2439, 255.20343pt x 232.61906pt>
+<./img/source/3d-models.jpg, id=2412, 255.20343pt x 265.74281pt>
 File: ./img/source/3d-models.jpg Graphic file (type jpg)
 
 <use ./img/source/3d-models.jpg>
-Package pdftex.def Info: ./img/source/3d-models.jpg used on input line 178.
-(pdftex.def)             Requested size: 181.18439pt x 165.15714pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
+Package pdftex.def Info: ./img/source/3d-models.jpg used on input line 179.
+(pdftex.def)             Requested size: 194.77287pt x 202.82626pt.
+ [39 <./img/vso/molecule-model.jpg> <./img/source/3d-models-2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
 []\OT1/cmr/m/n/10 Small round ob-jects (e.g.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
 \OT1/cmr/m/n/10 fruits, seeds, cork, foam pieces),
  []
 
-<./img/source/model-box.jpg, id=2440, 267.24844pt x 315.42844pt>
+<./img/source/model-box.jpg, id=2417, 267.24844pt x 315.42844pt>
 File: ./img/source/model-box.jpg Graphic file (type jpg)
 
 <use ./img/source/model-box.jpg>
-Package pdftex.def Info: ./img/source/model-box.jpg used on input line 200.
+Package pdftex.def Info: ./img/source/model-box.jpg used on input line 201.
 (pdftex.def)             Requested size: 181.18439pt x 213.85799pt.
- [39 <./img/vso/molecule-model.jpg> <./img/source/3d-models-2.jpg>])
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [40 <./img/source/3d-models.jpg> <./img/source/model-box.jpg>]
 Chapter 3.
 (./tex/iii-activities_chem-equations.tex
-<./img/source/chem-equations.jpg, id=2449, 253.69781pt x 171.64125pt>
+<./img/source/chem-equations.jpg, id=2422, 253.69781pt x 171.64125pt>
 File: ./img/source/chem-equations.jpg Graphic file (type jpg)
 
 <use ./img/source/chem-equations.jpg>
@@ -1432,16 +1371,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--70
 [] \OT1/cmr/m/n/10 + [][][][] +
  []
 
+LaTeX Info: Redefining \bond on input line 88.
+LaTeX Info: Redefining \dbond on input line 88.
+LaTeX Info: Redefining \tbond on input line 88.
+LaTeX Info: Redefining \bond on input line 88.
+LaTeX Info: Redefining \dbond on input line 88.
+LaTeX Info: Redefining \tbond on input line 88.
+LaTeX Info: Redefining \bond on input line 88.
+LaTeX Info: Redefining \dbond on input line 88.
+LaTeX Info: Redefining \tbond on input line 88.
+LaTeX Info: Redefining \bond on input line 88.
+LaTeX Info: Redefining \dbond on input line 88.
+LaTeX Info: Redefining \tbond on input line 88.
 ) [41
 
  <./img/source/chem-equations.jpg>]
 (./tex/iii-activities_hardness-water.tex
-<./img/source/hard-water.jpg, id=2457, 270.25969pt x 414.04688pt>
+<./img/source/hard-water.jpg, id=2429, 269.50688pt x 526.96875pt>
 File: ./img/source/hard-water.jpg Graphic file (type jpg)
 
 <use ./img/source/hard-water.jpg>
 Package pdftex.def Info: ./img/source/hard-water.jpg used on input line 13.
-(pdftex.def)             Requested size: 181.18439pt x 277.58685pt.
+(pdftex.def)             Requested size: 221.95676pt x 433.99873pt.
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 13--14
+ [] 
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
  |[]\OT1/cmr/bx/n/12 Temporary and Per-ma-nent
@@ -1460,7 +1416,7 @@ LaTeX Info: Redefining \bond on input line 61.
 LaTeX Info: Redefining \dbond on input line 61.
 LaTeX Info: Redefining \tbond on input line 61.
 [42 <./img/source/hard-water.jpg>]
-<./img/source/soda-hard-water.jpg, id=2463, 223.58531pt x 160.34906pt>
+<./img/source/soda-hard-water.jpg, id=2435, 223.58531pt x 160.34906pt>
 File: ./img/source/soda-hard-water.jpg Graphic file (type jpg)
 
 <use ./img/source/soda-hard-water.jpg>
@@ -1472,28 +1428,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43 <./img/source/soda-hard-water.jpg>] (./tex/iii-activities_acids-bases-salt
 s.tex
-<./img/source/acids-daily.jpg, id=2472, 262.73157pt x 270.25969pt>
+<./img/source/acids-daily.jpg, id=2444, 262.73157pt x 270.25969pt>
 File: ./img/source/acids-daily.jpg Graphic file (type jpg)
 
 <use ./img/source/acids-daily.jpg>
 Package pdftex.def Info: ./img/source/acids-daily.jpg used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 186.38452pt.
 
-<./img/source/bases-daily.jpg, id=2473, 252.19218pt x 286.82156pt>
+<./img/source/bases-daily.jpg, id=2445, 252.19218pt x 286.82156pt>
 File: ./img/source/bases-daily.jpg Graphic file (type jpg)
 
 <use ./img/source/bases-daily.jpg>
 Package pdftex.def Info: ./img/source/bases-daily.jpg used on input line 31.
 (pdftex.def)             Requested size: 181.18439pt x 206.06494pt.
 
-<./img/source/acid-metals.jpg, id=2474, 263.48438pt x 210.7875pt>
+<./img/source/acid-metals.jpg, id=2446, 263.48438pt x 210.7875pt>
 File: ./img/source/acid-metals.jpg Graphic file (type jpg)
 
 <use ./img/source/acid-metals.jpg>
 Package pdftex.def Info: ./img/source/acid-metals.jpg used on input line 50.
 (pdftex.def)             Requested size: 181.18439pt x 144.95464pt.
 
-<./img/source/acids-bases.jpg, id=2475, 258.21469pt x 260.47313pt>
+<./img/source/acids-bases.jpg, id=2447, 258.21469pt x 260.47313pt>
 File: ./img/source/acids-bases.jpg Graphic file (type jpg)
 
 <use ./img/source/acids-bases.jpg>
@@ -1512,15 +1468,15 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 85.
 
-<./img/vso/co2-balloon.jpg, id=2476, 174.6525pt x 126.4725pt>
+<./img/vso/co2-balloon.jpg, id=2448, 174.6525pt x 126.4725pt>
 File: ./img/vso/co2-balloon.jpg Graphic file (type jpg)
 
 <use ./img/vso/co2-balloon.jpg>
 Package pdftex.def Info: ./img/vso/co2-balloon.jpg used on input line 88.
-(pdftex.def)             Requested size: 104.18068pt x 75.44215pt.
+(pdftex.def)             Requested size: 90.5922pt x 65.60204pt.
  [44 <./img/source/acids-daily.jpg> <./img/source/bases-daily.jpg> <./img/sourc
 e/acid-metals.jpg> <./img/source/acids-bases.jpg>] <./img/source/ph-line.jpg, i
-d=2483, 551.81157pt x 292.84406pt>
+d=2455, 551.81157pt x 292.84406pt>
 File: ./img/source/ph-line.jpg Graphic file (type jpg)
 
 <use ./img/source/ph-line.jpg>
@@ -1531,7 +1487,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 152--153
  [] 
  []
 
-<./img/vso/making-indicators.jpg, id=2484, 247.67531pt x 126.4725pt>
+<./img/vso/making-indicators.jpg, id=2456, 247.67531pt x 126.4725pt>
 File: ./img/vso/making-indicators.jpg Graphic file (type jpg)
 
 <use ./img/vso/making-indicators.jpg>
@@ -1539,7 +1495,7 @@ Package pdftex.def Info: ./img/vso/making-indicators.jpg used on input line 175
 .
 (pdftex.def)             Requested size: 181.18439pt x 92.51906pt.
 
-<./img/vso/hiv-passing.jpg, id=2486, 339.51843pt x 245.41687pt>
+<./img/vso/hiv-passing.jpg, id=2458, 339.51843pt x 245.41687pt>
 File: ./img/vso/hiv-passing.jpg Graphic file (type jpg)
 
 <use ./img/vso/hiv-passing.jpg>
@@ -1550,9 +1506,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 218--219
  [] 
  []
 
-[45 <./img/vso/co2-balloon.jpg> <./img/source/ph-line.jpg>] [46 <./img/vso/maki
-ng-indicators.jpg> <./img/vso/hiv-passing.jpg>]
-<./img/source/neutralisation.jpg, id=2497, 280.79906pt x 210.7875pt>
+[45 <./img/vso/co2-balloon.jpg> <./img/source/ph-line.jpg> <./img/vso/making-in
+dicators.jpg>]
+<./img/source/neutralisation.jpg, id=2464, 280.79906pt x 210.7875pt>
 File: ./img/source/neutralisation.jpg Graphic file (type jpg)
 
 <use ./img/source/neutralisation.jpg>
@@ -1564,27 +1520,27 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 247--248
  [] 
  []
 
-
+[46 <./img/vso/hiv-passing.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 252--254
 []\OT1/cmr/m/n/10 Sodium hy-drox-ide so-lu-tion, hy-
  []
 
-<./img/source/ant-acid.jpg, id=2498, 258.9675pt x 219.82124pt>
+<./img/source/ant-acid.jpg, id=2469, 258.9675pt x 219.82124pt>
 File: ./img/source/ant-acid.jpg Graphic file (type jpg)
 
 <use ./img/source/ant-acid.jpg>
 Package pdftex.def Info: ./img/source/ant-acid.jpg used on input line 266.
 (pdftex.def)             Requested size: 181.18439pt x 153.80338pt.
 
-<./img/source/neutralisation-daily.jpg, id=2499, 255.95625pt x 191.9672pt>
+<./img/source/neutralisation-daily.jpg, id=2470, 255.95625pt x 191.9672pt>
 File: ./img/source/neutralisation-daily.jpg Graphic file (type jpg)
 
 <use ./img/source/neutralisation-daily.jpg>
 Package pdftex.def Info: ./img/source/neutralisation-daily.jpg used on input li
 ne 287.
 (pdftex.def)             Requested size: 135.89174pt x 101.91788pt.
- [47 <./img/source/neutralisation.jpg> <./img/source/ant-acid.jpg>]
-<./img/source/salt-acid-metal.jpg, id=2504, 171.64125pt x 143.03438pt>
+
+<./img/source/salt-acid-metal.jpg, id=2471, 171.64125pt x 143.03438pt>
 File: ./img/source/salt-acid-metal.jpg Graphic file (type jpg)
 
 <use ./img/source/salt-acid-metal.jpg>
@@ -1613,7 +1569,7 @@ LaTeX Info: Redefining \bond on input line 322.
 LaTeX Info: Redefining \dbond on input line 322.
 LaTeX Info: Redefining \tbond on input line 322.
 
-<./img/source/salt-solubility.jpg, id=2505, 250.68657pt x 131.74219pt>
+<./img/source/salt-solubility.jpg, id=2472, 250.68657pt x 131.74219pt>
 File: ./img/source/salt-solubility.jpg Graphic file (type jpg)
 
 <use ./img/source/salt-solubility.jpg>
@@ -1625,80 +1581,83 @@ Underfull \hbox (badness 6016) in paragraph at lines 354--356
 []\OT1/cmr/m/n/10 Bottle caps, wa-ter, kitchen salt
  []
 
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48 <./img/source/neutralisation-daily.jpg> <./img/source/salt-acid-metal.jpg>
- <./img/source/salt-solubility.jpg>] (./tex/iii-activities_mole-concept.tex
-<./img/source/mole-concept.jpg, id=2510, 191.21437pt x 411.78844pt>
+[47 <./img/source/neutralisation.jpg> <./img/source/ant-acid.jpg> <./img/source
+/neutralisation-daily.jpg> <./img/source/salt-acid-metal.jpg> <./img/source/sal
+t-solubility.jpg>]) (./tex/iii-activities_mole-concept.tex
+<./img/source/mole-concept.jpg, id=2477, 191.21437pt x 411.78844pt>
 File: ./img/source/mole-concept.jpg Graphic file (type jpg)
 
 <use ./img/source/mole-concept.jpg>
 Package pdftex.def Info: ./img/source/mole-concept.jpg used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 390.2103pt.
 
-<./img/source/particle-mass.jpg, id=2511, 277.035pt x 438.13687pt>
+<./img/source/particle-mass.jpg, id=2478, 277.035pt x 438.13687pt>
 File: ./img/source/particle-mass.jpg Graphic file (type jpg)
 
 <use ./img/source/particle-mass.jpg>
 Package pdftex.def Info: ./img/source/particle-mass.jpg used on input line 58.
 (pdftex.def)             Requested size: 181.18439pt x 286.54385pt.
 
-<./img/source/atomic-mass.jpg, id=2512, 260.47313pt x 439.6425pt>
+<./img/source/atomic-mass.jpg, id=2479, 260.47313pt x 439.6425pt>
 File: ./img/source/atomic-mass.jpg Graphic file (type jpg)
 
 <use ./img/source/atomic-mass.jpg>
-Package pdftex.def Info: ./img/source/atomic-mass.jpg used on input line 80.
-(pdftex.def)             Requested size: 181.18439pt x 305.81563pt.
- [49 <./img/source/mole-concept.jpg> <./img/source/particle-mass.jpg>]
-<./img/source/molar-volume.jpg, id=2518, 313.9228pt x 328.22626pt>
+Package pdftex.def Info: ./img/source/atomic-mass.jpg used on input line 82.
+(pdftex.def)             Requested size: 221.95676pt x 374.63705pt.
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 82--83
+ [] 
+ []
+
+[48 <./img/source/mole-concept.jpg> <./img/source/particle-mass.jpg>]
+<./img/source/molar-volume.jpg, id=2484, 313.9228pt x 328.22626pt>
 File: ./img/source/molar-volume.jpg Graphic file (type jpg)
 
 <use ./img/source/molar-volume.jpg>
-Package pdftex.def Info: ./img/source/molar-volume.jpg used on input line 107.
+Package pdftex.def Info: ./img/source/molar-volume.jpg used on input line 109.
 (pdftex.def)             Requested size: 203.83417pt x 213.11916pt.
 
-<./img/source/molar-volumes-2.jpg, id=2519, 243.91125pt x 135.50626pt>
+<./img/source/molar-volumes-2.jpg, id=2485, 243.91125pt x 135.50626pt>
 File: ./img/source/molar-volumes-2.jpg Graphic file (type jpg)
 
 <use ./img/source/molar-volumes-2.jpg>
 Package pdftex.def Info: ./img/source/molar-volumes-2.jpg used on input line 13
-3.
+5.
 (pdftex.def)             Requested size: 203.83417pt x 113.24138pt.
 
-<./img/source/avogadro-law.jpg, id=2520, 534.49687pt x 392.21532pt>
+<./img/source/avogadro-law.jpg, id=2486, 534.49687pt x 392.21532pt>
 File: ./img/source/avogadro-law.jpg Graphic file (type jpg)
 
 <use ./img/source/avogadro-law.jpg>
-Package pdftex.def Info: ./img/source/avogadro-law.jpg used on input line 159.
+Package pdftex.def Info: ./img/source/avogadro-law.jpg used on input line 161.
 (pdftex.def)             Requested size: 221.95676pt x 162.87404pt.
 
-Overfull \hbox (0.47281pt too wide) in paragraph at lines 159--160
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 161--162
  [] 
  []
 
-[50 <./img/source/atomic-mass.jpg> <./img/source/molar-volume.jpg> <./img/sourc
+[49 <./img/source/atomic-mass.jpg> <./img/source/molar-volume.jpg> <./img/sourc
 e/molar-volumes-2.jpg>]
-<./img/source/dilution.jpg, id=2525, 257.46187pt x 179.92218pt>
+<./img/source/dilution.jpg, id=2493, 257.46187pt x 179.92218pt>
 File: ./img/source/dilution.jpg Graphic file (type jpg)
 
 <use ./img/source/dilution.jpg>
-Package pdftex.def Info: ./img/source/dilution.jpg used on input line 188.
+Package pdftex.def Info: ./img/source/dilution.jpg used on input line 190.
 (pdftex.def)             Requested size: 181.18439pt x 126.62003pt.
 
-<./img/source/avogadro-students.jpg, id=2526, 553.31718pt x 268.00125pt>
+<./img/source/avogadro-students.jpg, id=2494, 553.31718pt x 268.00125pt>
 File: ./img/source/avogadro-students.jpg Graphic file (type jpg)
 
 <use ./img/source/avogadro-students.jpg>
 Package pdftex.def Info: ./img/source/avogadro-students.jpg used on input line 
-228.
+230.
 (pdftex.def)             Requested size: 407.66833pt x 197.45494pt.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51 <./img/source/avogadro-law.jpg> <./img/source/dilution.jpg> <./img/source/
+ [50 <./img/source/avogadro-law.jpg> <./img/source/dilution.jpg> <./img/source/
 avogadro-students.jpg>] (./tex/iii-activities_ionic-theory-electrolysis.tex
-<./img/source/reactivity-race.jpg, id=2531, 234.1247pt x 277.035pt>
+<./img/source/reactivity-race.jpg, id=2499, 234.1247pt x 277.035pt>
 File: ./img/source/reactivity-race.jpg Graphic file (type jpg)
 
 <use ./img/source/reactivity-race.jpg>
@@ -1706,7 +1665,7 @@ Package pdftex.def Info: ./img/source/reactivity-race.jpg used on input line 36
 .
 (pdftex.def)             Requested size: 181.18439pt x 214.40399pt.
 
-<./img/vso/reactivity-series.jpg, id=2532, 332.74312pt x 310.15875pt>
+<./img/vso/reactivity-series.jpg, id=2500, 332.74312pt x 310.15875pt>
 File: ./img/vso/reactivity-series.jpg Graphic file (type jpg)
 
 <use ./img/vso/reactivity-series.jpg>
@@ -1718,7 +1677,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 77--78
  [] 
  []
 
-<./img/source/electrolytes.jpg, id=2533, 349.305pt x 280.04625pt>
+<./img/source/electrolytes.jpg, id=2501, 349.305pt x 280.04625pt>
 File: ./img/source/electrolytes.jpg Graphic file (type jpg)
 
 <use ./img/source/electrolytes.jpg>
@@ -1729,15 +1688,15 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 109--110
  [] 
  []
 
-[52 <./img/source/reactivity-race.jpg> <./img/vso/reactivity-series.jpg>]
-<./img/vso/electrodes.jpg, id=2538, 313.17pt x 157.33781pt>
+[51 <./img/source/reactivity-race.jpg> <./img/vso/reactivity-series.jpg>]
+<./img/vso/electrodes.jpg, id=2507, 313.17pt x 157.33781pt>
 File: ./img/vso/electrodes.jpg Graphic file (type jpg)
 
 <use ./img/vso/electrodes.jpg>
 Package pdftex.def Info: ./img/vso/electrodes.jpg used on input line 131.
 (pdftex.def)             Requested size: 203.83417pt x 102.41pt.
 
-<./img/vso/electrolyte-electrode.jpg, id=2539, 372.64218pt x 153.57375pt>
+<./img/vso/electrolyte-electrode.jpg, id=2508, 372.64218pt x 153.57375pt>
 File: ./img/vso/electrolyte-electrode.jpg Graphic file (type jpg)
 
 <use ./img/vso/electrolyte-electrode.jpg>
@@ -1745,22 +1704,22 @@ Package pdftex.def Info: ./img/vso/electrolyte-electrode.jpg used on input line
  132.
 (pdftex.def)             Requested size: 203.83417pt x 84.00417pt.
 
-<./img/vso/electrolysis.jpg, id=2540, 243.91125pt x 484.81125pt>
+<./img/vso/electrolysis.jpg, id=2509, 243.91125pt x 484.81125pt>
 File: ./img/vso/electrolysis.jpg Graphic file (type jpg)
 
 <use ./img/vso/electrolysis.jpg>
 Package pdftex.def Info: ./img/vso/electrolysis.jpg used on input line 170.
 (pdftex.def)             Requested size: 181.18439pt x 360.13806pt.
 
-<./img/lechlanche-cell.png, id=2541, 417.81094pt x 346.29375pt>
+<./img/lechlanche-cell.png, id=2510, 417.81094pt x 346.29375pt>
 File: ./img/lechlanche-cell.png Graphic file (type png)
 
 <use ./img/lechlanche-cell.png>
 Package pdftex.def Info: ./img/lechlanche-cell.png used on input line 211.
 (pdftex.def)             Requested size: 181.18439pt x 150.17157pt.
- [53 <./img/source/electrolytes.jpg> <./img/vso/electrodes.jpg> <./img/vso/elec
+ [52 <./img/source/electrolytes.jpg> <./img/vso/electrodes.jpg> <./img/vso/elec
 trolyte-electrode.jpg> <./img/vso/electrolysis.jpg>] <./img/vso/electrolysis-na
-cl.jpg, id=2546, 225.84375pt x 159.59625pt>
+cl.jpg, id=2515, 225.84375pt x 159.59625pt>
 File: ./img/vso/electrolysis-nacl.jpg Graphic file (type jpg)
 
 <use ./img/vso/electrolysis-nacl.jpg>
@@ -1807,97 +1766,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
-<./img/electrolysis.jpg, id=2547, 265.74281pt x 189.70876pt>
+<./img/electrolysis.jpg, id=2516, 265.74281pt x 189.70876pt>
 File: ./img/electrolysis.jpg Graphic file (type jpg)
 
 <use ./img/electrolysis.jpg>
 Package pdftex.def Info: ./img/electrolysis.jpg used on input line 286.
 (pdftex.def)             Requested size: 181.18439pt x 129.3476pt.
- [54 <./img/lechlanche-cell.png> <./img/vso/electrolysis-nacl.jpg>]
-<./img/vso/electroplating.jpg, id=2553, 298.11375pt x 305.64188pt>
+ [53 <./img/lechlanche-cell.png> <./img/vso/electrolysis-nacl.jpg>]
+<./img/vso/electroplating.jpg, id=2522, 298.11375pt x 305.64188pt>
 File: ./img/vso/electroplating.jpg Graphic file (type jpg)
 
 <use ./img/vso/electroplating.jpg>
 Package pdftex.def Info: ./img/vso/electroplating.jpg used on input line 317.
-(pdftex.def)             Requested size: 203.83417pt x 208.98099pt.
+(pdftex.def)             Requested size: 221.95676pt x 227.56122pt.
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 317--318
+ [] 
+ []
+
 )
 Underfull \vbox (badness 7012) has occurred while \output is active []
 
- [55 <./img/electrolysis.jpg> <./img/vso/electroplating.jpg>]
-(./tex/iii-activities_chemical-kinetics.tex
+ [54 <./img/electrolysis.jpg> <./img/vso/electroplating.jpg>]
+(./tex/iii-activities_chemical-kinetics.tex [55]
+LaTeX Info: Redefining \bond on input line 133.
+LaTeX Info: Redefining \dbond on input line 133.
+LaTeX Info: Redefining \tbond on input line 133.
+LaTeX Info: Redefining \bond on input line 133.
+LaTeX Info: Redefining \dbond on input line 133.
+LaTeX Info: Redefining \tbond on input line 133.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 28.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 28.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 73.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 73.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 94.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 94.
-
-[56]
-LaTeX Info: Redefining \bond on input line 132.
-LaTeX Info: Redefining \dbond on input line 132.
-LaTeX Info: Redefining \tbond on input line 132.
-LaTeX Info: Redefining \bond on input line 132.
-LaTeX Info: Redefining \dbond on input line 132.
-LaTeX Info: Redefining \tbond on input line 132.
- <./img/source/exothermic.jpg, id=2567, 271.76532pt x 167.12437pt>
+<./img/source/exothermic.jpg, id=2536, 271.76532pt x 167.12437pt>
 File: ./img/source/exothermic.jpg Graphic file (type jpg)
 
 <use ./img/source/exothermic.jpg>
-Package pdftex.def Info: ./img/source/exothermic.jpg used on input line 147.
+Package pdftex.def Info: ./img/source/exothermic.jpg used on input line 148.
 (pdftex.def)             Requested size: 181.18439pt x 111.42445pt.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57 <./img/source/exothermic.jpg>] (./tex/iii-activities_extraction-metals.tex
+ [56 <./img/source/exothermic.jpg>] (./tex/iii-activities_extraction-metals.tex
 
-<./img/vso/ductility.jpg, id=2573, 221.32687pt x 141.52875pt>
+<./img/vso/ductility.jpg, id=2542, 221.32687pt x 141.52875pt>
 File: ./img/vso/ductility.jpg Graphic file (type jpg)
 
 <use ./img/vso/ductility.jpg>
 Package pdftex.def Info: ./img/vso/ductility.jpg used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 115.86644pt.
 
-<./img/source/malleability.jpg, id=2574, 201.75375pt x 200.24812pt>
+<./img/source/malleability.jpg, id=2543, 201.75375pt x 200.24812pt>
 File: ./img/source/malleability.jpg Graphic file (type jpg)
 
 <use ./img/source/malleability.jpg>
 Package pdftex.def Info: ./img/source/malleability.jpg used on input line 38.
 (pdftex.def)             Requested size: 158.54152pt x 157.36012pt.
 
-<./img/vso/conductivity.jpg, id=2575, 211.54031pt x 158.84344pt>
+<./img/vso/conductivity.jpg, id=2544, 211.54031pt x 158.84344pt>
 File: ./img/vso/conductivity.jpg Graphic file (type jpg)
 
 <use ./img/vso/conductivity.jpg>
@@ -1906,84 +1830,67 @@ Package pdftex.def Info: ./img/vso/conductivity.jpg used on input line 63.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58 <./img/vso/ductility.jpg> <./img/source/malleability.jpg> <./img/vso/condu
+ [57 <./img/vso/ductility.jpg> <./img/source/malleability.jpg> <./img/vso/condu
 ctivity.jpg>] (./tex/iii-activities_compounds-metals.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 31.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 31.
-
-
 Underfull \hbox (badness 6842) in paragraph at lines 46--47
 []\OT1/cmr/m/n/10 The pre-cip-i-tate changes from
  []
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 61.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 61.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 100.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 100.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 127.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 127.
-
-<./img/source/limewater.jpg, id=2582, 118.94438pt x 178.41656pt>
+<./img/source/limewater.jpg, id=2551, 118.94438pt x 178.41656pt>
 File: ./img/source/limewater.jpg Graphic file (type jpg)
 
 <use ./img/source/limewater.jpg>
-Package pdftex.def Info: ./img/source/limewater.jpg used on input line 130.
+Package pdftex.def Info: ./img/source/limewater.jpg used on input line 133.
 (pdftex.def)             Requested size: 113.24197pt x 169.87044pt.
- [59]
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
+ [58]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 []\OT1/cmr/m/n/10 Zinc metal, di-lute sul-phuric
  []
 
-[60 <./img/source/limewater.jpg>])
+[59 <./img/source/limewater.jpg>])
 Chapter 4.
 (./tex/iv-activities_non-metals.tex
-<./img/chlorine.png, id=2593, 234.1247pt x 236.38312pt>
+<./img/chlorine.png, id=2561, 234.1247pt x 236.38312pt>
 File: ./img/chlorine.png Graphic file (type png)
 
 <use ./img/chlorine.png>
 Package pdftex.def Info: ./img/chlorine.png used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 182.94254pt.
-LaTeX Info: Redefining \bond on input line 36.
-LaTeX Info: Redefining \dbond on input line 36.
-LaTeX Info: Redefining \tbond on input line 36.
-LaTeX Info: Redefining \bond on input line 36.
-LaTeX Info: Redefining \dbond on input line 36.
-LaTeX Info: Redefining \tbond on input line 36.
-LaTeX Info: Redefining \bond on input line 36.
-LaTeX Info: Redefining \dbond on input line 36.
-LaTeX Info: Redefining \tbond on input line 36.
-LaTeX Info: Redefining \bond on input line 36.
-LaTeX Info: Redefining \dbond on input line 36.
-LaTeX Info: Redefining \tbond on input line 36.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
 
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+
+ []
+
+LaTeX Info: Redefining \bond on input line 37.
+LaTeX Info: Redefining \dbond on input line 37.
+LaTeX Info: Redefining \tbond on input line 37.
+LaTeX Info: Redefining \bond on input line 37.
+LaTeX Info: Redefining \dbond on input line 37.
+LaTeX Info: Redefining \tbond on input line 37.
+LaTeX Info: Redefining \bond on input line 37.
+LaTeX Info: Redefining \dbond on input line 37.
+LaTeX Info: Redefining \tbond on input line 37.
+LaTeX Info: Redefining \bond on input line 37.
+LaTeX Info: Redefining \dbond on input line 37.
+LaTeX Info: Redefining \tbond on input line 37.
+LaTeX Info: Redefining \bond on input line 37.
+LaTeX Info: Redefining \dbond on input line 37.
+LaTeX Info: Redefining \tbond on input line 37.
+LaTeX Info: Redefining \bond on input line 37.
+LaTeX Info: Redefining \dbond on input line 37.
+LaTeX Info: Redefining \tbond on input line 37.
+LaTeX Info: Redefining \bond on input line 38.
+LaTeX Info: Redefining \dbond on input line 38.
+LaTeX Info: Redefining \tbond on input line 38.
+LaTeX Info: Redefining \bond on input line 38.
+LaTeX Info: Redefining \dbond on input line 38.
+LaTeX Info: Redefining \tbond on input line 38.
+LaTeX Info: Redefining \bond on input line 38.
+LaTeX Info: Redefining \dbond on input line 38.
+LaTeX Info: Redefining \tbond on input line 38.
+LaTeX Info: Redefining \bond on input line 38.
+LaTeX Info: Redefining \dbond on input line 38.
+LaTeX Info: Redefining \tbond on input line 38.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 48.
@@ -1996,7 +1903,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 48.
 
-<./img/source/sulphur-model.jpg, id=2594, 285.31593pt x 395.97937pt>
+<./img/source/sulphur-model.jpg, id=2562, 285.31593pt x 395.97937pt>
 File: ./img/source/sulphur-model.jpg Graphic file (type jpg)
 
 <use ./img/source/sulphur-model.jpg>
@@ -2007,33 +1914,17 @@ Underfull \hbox (badness 7133) in paragraph at lines 56--58
 []\OT1/cmr/m/n/10 Fruits/modeling clay/ugali, tooth-
  []
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 81.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 81.
-
-<./img/source/sulphur-monoclinic.jpg, id=2595, 199.49532pt x 288.3272pt>
+<./img/source/sulphur-monoclinic.jpg, id=2563, 199.49532pt x 288.3272pt>
 File: ./img/source/sulphur-monoclinic.jpg Graphic file (type jpg)
 
 <use ./img/source/sulphur-monoclinic.jpg>
 Package pdftex.def Info: ./img/source/sulphur-monoclinic.jpg used on input line
  84.
 (pdftex.def)             Requested size: 126.83044pt x 183.3057pt.
- [61
+ [60
 
  <./img/chlorine.png> <./img/source/sulphur-model.jpg>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 118.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 118.
-
-<./img/source/sulphur-dioxide.jpg, id=2605, 263.48438pt x 481.8pt>
+<./img/source/sulphur-dioxide.jpg, id=2572, 263.48438pt x 481.8pt>
 File: ./img/source/sulphur-dioxide.jpg Graphic file (type jpg)
 
 <use ./img/source/sulphur-dioxide.jpg>
@@ -2041,27 +1932,23 @@ Package pdftex.def Info: ./img/source/sulphur-dioxide.jpg used on input line 14
 7.
 (pdftex.def)             Requested size: 181.18439pt x 331.32489pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
-[]\OT1/cmr/m/n/10 Cardboard/manila, de-fla-grat-ing
- []
-
-<./img/source/sulphuric-acid.jpg, id=2606, 119.69719pt x 149.05687pt>
+<./img/source/sulphuric-acid.jpg, id=2573, 119.69719pt x 132.495pt>
 File: ./img/source/sulphuric-acid.jpg Graphic file (type jpg)
 
 <use ./img/source/sulphuric-acid.jpg>
 Package pdftex.def Info: ./img/source/sulphuric-acid.jpg used on input line 176
 .
-(pdftex.def)             Requested size: 135.89174pt x 169.23517pt.
- [62 <./img/source/sulphur-monoclinic.jpg> <./img/source/sulphur-dioxide.jpg>]
-<./img/source/sulphur-dioxide-bleaching.jpg, id=2611, 241.65282pt x 169.38281pt
+(pdftex.def)             Requested size: 90.5922pt x 100.27873pt.
+ [61 <./img/source/sulphur-monoclinic.jpg> <./img/source/sulphur-dioxide.jpg>]
+<./img/source/sulphur-dioxide-bleaching.jpg, id=2579, 202.50656pt x 152.06813pt
 >
 File: ./img/source/sulphur-dioxide-bleaching.jpg Graphic file (type jpg)
  <use ./img/source/sulphur-dioxide-bleaching.jpg>
 Package pdftex.def Info: ./img/source/sulphur-dioxide-bleaching.jpg used on inp
 ut line 200.
-(pdftex.def)             Requested size: 181.18439pt x 127.00319pt.
+(pdftex.def)             Requested size: 135.89174pt x 102.04753pt.
 
-<./img/source/nitrogen-sources.jpg, id=2612, 277.035pt x 448.67625pt>
+<./img/source/nitrogen-sources.jpg, id=2580, 277.035pt x 448.67625pt>
 File: ./img/source/nitrogen-sources.jpg Graphic file (type jpg)
 
 <use ./img/source/nitrogen-sources.jpg>
@@ -2076,7 +1963,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 252--253
 LaTeX Info: Redefining \bond on input line 263.
 LaTeX Info: Redefining \dbond on input line 263.
 LaTeX Info: Redefining \tbond on input line 263.
-<./img/nitrogen-gas.png, id=2613, 554.82281pt x 234.1247pt>
+<./img/nitrogen-gas.png, id=2581, 554.82281pt x 234.1247pt>
 File: ./img/nitrogen-gas.png Graphic file (type png)
 
 <use ./img/nitrogen-gas.png>
@@ -2085,17 +1972,9 @@ Package pdftex.def Info: ./img/nitrogen-gas.png used on input line 283.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63 <./img/source/sulphuric-acid.jpg> <./img/source/sulphur-dioxide-bleaching.
+ [62 <./img/source/sulphuric-acid.jpg> <./img/source/sulphur-dioxide-bleaching.
 jpg> <./img/source/nitrogen-sources.jpg>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 322.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 322.
-
-<./img/source/nitrogen-lightning-2.jpg, id=2619, 219.82124pt x 222.07968pt>
+<./img/source/nitrogen-lightning-2.jpg, id=2587, 219.82124pt x 222.07968pt>
 File: ./img/source/nitrogen-lightning-2.jpg Graphic file (type jpg)
 
 <use ./img/source/nitrogen-lightning-2.jpg>
@@ -2107,7 +1986,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 325--326
  [] 
  []
 
-<./img/source/nitrogen-cycle.jpg, id=2620, 293.59688pt x 269.50688pt>
+<./img/source/nitrogen-cycle.jpg, id=2588, 293.59688pt x 269.50688pt>
 File: ./img/source/nitrogen-cycle.jpg Graphic file (type jpg)
 
 <use ./img/source/nitrogen-cycle.jpg>
@@ -2119,23 +1998,15 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 355--356
  [] 
  []
 
-[64 <./img/nitrogen-gas.png> <./img/source/nitrogen-lightning-2.jpg>]
-<./img/source/ammonia.jpg, id=2626, 224.33812pt x 206.27063pt>
+[63 <./img/nitrogen-gas.png> <./img/source/nitrogen-lightning-2.jpg>]
+<./img/source/ammonia.jpg, id=2594, 224.33812pt x 206.27063pt>
 File: ./img/source/ammonia.jpg Graphic file (type jpg)
 
 <use ./img/source/ammonia.jpg>
 Package pdftex.def Info: ./img/source/ammonia.jpg used on input line 396.
 (pdftex.def)             Requested size: 203.83417pt x 187.42328pt.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 434.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 434.
-
-<./img/source/co2-generator.jpg, id=2628, 288.3272pt x 154.32657pt>
+<./img/source/co2-generator.jpg, id=2596, 288.3272pt x 154.32657pt>
 File: ./img/source/co2-generator.jpg Graphic file (type jpg)
 
 <use ./img/source/co2-generator.jpg>
@@ -2159,8 +2030,8 @@ File: ./img/vso/co2-balloon.jpg Graphic file (type jpg)
 <use ./img/vso/co2-balloon.jpg>
 Package pdftex.def Info: ./img/vso/co2-balloon.jpg used on input line 460.
 (pdftex.def)             Requested size: 158.54152pt x 114.81226pt.
- [65 <./img/source/nitrogen-cycle.jpg> <./img/source/ammonia.jpg>]
-<./img/source/limewater-cloudy.jpg, id=2633, 225.09094pt x 206.27063pt>
+ [64 <./img/source/nitrogen-cycle.jpg> <./img/source/ammonia.jpg>]
+<./img/source/limewater-cloudy.jpg, id=2602, 225.09094pt x 206.27063pt>
 File: ./img/source/limewater-cloudy.jpg Graphic file (type jpg)
 
 <use ./img/source/limewater-cloudy.jpg>
@@ -2183,246 +2054,248 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66 <./img/source/co2-generator.jpg> <./img/source/limewater-cloudy.jpg>]
+ [65 <./img/source/co2-generator.jpg> <./img/source/limewater-cloudy.jpg>]
 (./tex/iv-activities_organic-chemistry.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 28.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 28.
-
-<./img/vso/cracking.jpg, id=2638, 315.42844pt x 245.41687pt>
+<./img/vso/cracking.jpg, id=2607, 315.42844pt x 245.41687pt>
 File: ./img/vso/cracking.jpg Graphic file (type jpg)
 
 <use ./img/vso/cracking.jpg>
-Package pdftex.def Info: ./img/vso/cracking.jpg used on input line 69.
+Package pdftex.def Info: ./img/vso/cracking.jpg used on input line 70.
 (pdftex.def)             Requested size: 203.83417pt x 158.59412pt.
- [67 <./img/vso/cracking.jpg>]
-<./img/vso/polymerisation.jpg, id=2645, 360.59718pt x 484.81125pt>
+ [66 <./img/vso/cracking.jpg>]
+<./img/vso/polymerisation.jpg, id=2613, 359.84438pt x 514.92375pt>
 File: ./img/vso/polymerisation.jpg Graphic file (type jpg)
 
 <use ./img/vso/polymerisation.jpg>
-Package pdftex.def Info: ./img/vso/polymerisation.jpg used on input line 126.
-(pdftex.def)             Requested size: 181.18439pt x 243.59604pt.
+Package pdftex.def Info: ./img/vso/polymerisation.jpg used on input line 127.
+(pdftex.def)             Requested size: 221.95676pt x 317.623pt.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 144.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 144.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-[]\OT1/cmr/m/n/10 Cardboard/styrofoam/any ma-te-rial
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 127--128
+ [] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
+[]\OT1/cmr/m/n/10 Cardboard/styrofoam/any ma-te-rial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+[67 <./img/vso/polymerisation.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 156--160
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--159
-
- []
-
-[68 <./img/vso/polymerisation.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 160--163
+Underfull \hbox (badness 10000) in paragraph at lines 161--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--174
+Underfull \hbox (badness 10000) in paragraph at lines 165--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
-LaTeX Info: Redefining \bond on input line 201.
-LaTeX Info: Redefining \dbond on input line 201.
-LaTeX Info: Redefining \tbond on input line 201.
-LaTeX Info: Redefining \bond on input line 201.
-LaTeX Info: Redefining \dbond on input line 201.
-LaTeX Info: Redefining \tbond on input line 201.
-LaTeX Info: Redefining \bond on input line 201.
-LaTeX Info: Redefining \dbond on input line 201.
-LaTeX Info: Redefining \tbond on input line 201.
-LaTeX Info: Redefining \bond on input line 201.
-LaTeX Info: Redefining \dbond on input line 201.
-LaTeX Info: Redefining \tbond on input line 201.
-LaTeX Info: Redefining \bond on input line 201.
-LaTeX Info: Redefining \dbond on input line 201.
-LaTeX Info: Redefining \tbond on input line 201.
-<./img/carbon-chain.jpg, id=2650, 290.58563pt x 347.04657pt>
+LaTeX Info: Redefining \bond on input line 202.
+LaTeX Info: Redefining \dbond on input line 202.
+LaTeX Info: Redefining \tbond on input line 202.
+LaTeX Info: Redefining \bond on input line 202.
+LaTeX Info: Redefining \dbond on input line 202.
+LaTeX Info: Redefining \tbond on input line 202.
+LaTeX Info: Redefining \bond on input line 202.
+LaTeX Info: Redefining \dbond on input line 202.
+LaTeX Info: Redefining \tbond on input line 202.
+LaTeX Info: Redefining \bond on input line 202.
+LaTeX Info: Redefining \dbond on input line 202.
+LaTeX Info: Redefining \tbond on input line 202.
+LaTeX Info: Redefining \bond on input line 202.
+LaTeX Info: Redefining \dbond on input line 202.
+LaTeX Info: Redefining \tbond on input line 202.
+<./img/carbon-chain.jpg, id=2619, 290.58563pt x 532.99126pt>
 File: ./img/carbon-chain.jpg Graphic file (type jpg)
 
 <use ./img/carbon-chain.jpg>
-Package pdftex.def Info: ./img/carbon-chain.jpg used on input line 214.
-(pdftex.def)             Requested size: 203.83417pt x 243.4446pt.
- [69]
-<./img/source/candle-hydrocarbon.jpg, id=2655, 236.38312pt x 173.14688pt>
+Package pdftex.def Info: ./img/carbon-chain.jpg used on input line 215.
+(pdftex.def)             Requested size: 203.83417pt x 373.88022pt.
+ [68]
+<./img/source/candle-hydrocarbon.jpg, id=2624, 236.38312pt x 150.5625pt>
 File: ./img/source/candle-hydrocarbon.jpg Graphic file (type jpg)
 
 <use ./img/source/candle-hydrocarbon.jpg>
 Package pdftex.def Info: ./img/source/candle-hydrocarbon.jpg used on input line
- 236.
-(pdftex.def)             Requested size: 181.18439pt x 132.71848pt.
- [70 <./img/carbon-chain.jpg> <./img/source/candle-hydrocarbon.jpg>]
-LaTeX Info: Redefining \bond on input line 297.
-LaTeX Info: Redefining \dbond on input line 297.
-LaTeX Info: Redefining \tbond on input line 297.
-LaTeX Info: Redefining \bond on input line 297.
-LaTeX Info: Redefining \dbond on input line 297.
-LaTeX Info: Redefining \tbond on input line 297.
-LaTeX Info: Redefining \bond on input line 297.
-LaTeX Info: Redefining \dbond on input line 297.
-LaTeX Info: Redefining \tbond on input line 297.
-LaTeX Info: Redefining \bond on input line 297.
-LaTeX Info: Redefining \dbond on input line 297.
-LaTeX Info: Redefining \tbond on input line 297.
-LaTeX Info: Redefining \bond on input line 297.
-LaTeX Info: Redefining \dbond on input line 297.
-LaTeX Info: Redefining \tbond on input line 297.
-LaTeX Info: Redefining \bond on input line 297.
-LaTeX Info: Redefining \dbond on input line 297.
-LaTeX Info: Redefining \tbond on input line 297.
-LaTeX Info: Redefining \bond on input line 297.
-LaTeX Info: Redefining \dbond on input line 297.
-LaTeX Info: Redefining \tbond on input line 297.
+ 237.
+(pdftex.def)             Requested size: 181.18439pt x 115.40736pt.
+ [69 <./img/carbon-chain.jpg> <./img/source/candle-hydrocarbon.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+LaTeX Info: Redefining \bond on input line 299.
+LaTeX Info: Redefining \dbond on input line 299.
+LaTeX Info: Redefining \tbond on input line 299.
+LaTeX Info: Redefining \bond on input line 299.
+LaTeX Info: Redefining \dbond on input line 299.
+LaTeX Info: Redefining \tbond on input line 299.
+LaTeX Info: Redefining \bond on input line 299.
+LaTeX Info: Redefining \dbond on input line 299.
+LaTeX Info: Redefining \tbond on input line 299.
+LaTeX Info: Redefining \bond on input line 299.
+LaTeX Info: Redefining \dbond on input line 299.
+LaTeX Info: Redefining \tbond on input line 299.
+LaTeX Info: Redefining \bond on input line 299.
+LaTeX Info: Redefining \dbond on input line 299.
+LaTeX Info: Redefining \tbond on input line 299.
+LaTeX Info: Redefining \bond on input line 299.
+LaTeX Info: Redefining \dbond on input line 299.
+LaTeX Info: Redefining \tbond on input line 299.
+LaTeX Info: Redefining \bond on input line 299.
+LaTeX Info: Redefining \dbond on input line 299.
+LaTeX Info: Redefining \tbond on input line 299.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [71]
+ [70]
 (./tex/iv-activities_soil-chemistry.tex
-LaTeX Info: Redefining \bond on input line 27.
-LaTeX Info: Redefining \dbond on input line 27.
-LaTeX Info: Redefining \tbond on input line 27.
-LaTeX Info: Redefining \bond on input line 27.
-LaTeX Info: Redefining \dbond on input line 27.
-LaTeX Info: Redefining \tbond on input line 27.
-LaTeX Info: Redefining \bond on input line 27.
-LaTeX Info: Redefining \dbond on input line 27.
-LaTeX Info: Redefining \tbond on input line 27.
-LaTeX Info: Redefining \bond on input line 27.
-LaTeX Info: Redefining \dbond on input line 27.
-LaTeX Info: Redefining \tbond on input line 27.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 32.
-LaTeX Info: Redefining \dbond on input line 32.
-LaTeX Info: Redefining \tbond on input line 32.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 38.
-LaTeX Info: Redefining \dbond on input line 38.
-LaTeX Info: Redefining \tbond on input line 38.
-LaTeX Info: Redefining \bond on input line 45.
-LaTeX Info: Redefining \dbond on input line 45.
-LaTeX Info: Redefining \tbond on input line 45.
-LaTeX Info: Redefining \bond on input line 45.
-LaTeX Info: Redefining \dbond on input line 45.
-LaTeX Info: Redefining \tbond on input line 45.
-LaTeX Info: Redefining \bond on input line 45.
-LaTeX Info: Redefining \dbond on input line 45.
-LaTeX Info: Redefining \tbond on input line 45.
-LaTeX Info: Redefining \bond on input line 45.
-LaTeX Info: Redefining \dbond on input line 45.
-LaTeX Info: Redefining \tbond on input line 45.
-LaTeX Info: Redefining \bond on input line 45.
-LaTeX Info: Redefining \dbond on input line 45.
-LaTeX Info: Redefining \tbond on input line 45.
-LaTeX Info: Redefining \bond on input line 45.
-LaTeX Info: Redefining \dbond on input line 45.
-LaTeX Info: Redefining \tbond on input line 45.
-LaTeX Info: Redefining \bond on input line 45.
-LaTeX Info: Redefining \dbond on input line 45.
-LaTeX Info: Redefining \tbond on input line 45.
-LaTeX Info: Redefining \bond on input line 45.
-LaTeX Info: Redefining \dbond on input line 45.
-LaTeX Info: Redefining \tbond on input line 45.
- [72])
+LaTeX Info: Redefining \bond on input line 26.
+LaTeX Info: Redefining \dbond on input line 26.
+LaTeX Info: Redefining \tbond on input line 26.
+LaTeX Info: Redefining \bond on input line 26.
+LaTeX Info: Redefining \dbond on input line 26.
+LaTeX Info: Redefining \tbond on input line 26.
+LaTeX Info: Redefining \bond on input line 26.
+LaTeX Info: Redefining \dbond on input line 26.
+LaTeX Info: Redefining \tbond on input line 26.
+LaTeX Info: Redefining \bond on input line 26.
+LaTeX Info: Redefining \dbond on input line 26.
+LaTeX Info: Redefining \tbond on input line 26.
+LaTeX Info: Redefining \bond on input line 30.
+LaTeX Info: Redefining \dbond on input line 30.
+LaTeX Info: Redefining \tbond on input line 30.
+LaTeX Info: Redefining \bond on input line 30.
+LaTeX Info: Redefining \dbond on input line 30.
+LaTeX Info: Redefining \tbond on input line 30.
+LaTeX Info: Redefining \bond on input line 30.
+LaTeX Info: Redefining \dbond on input line 30.
+LaTeX Info: Redefining \tbond on input line 30.
+LaTeX Info: Redefining \bond on input line 30.
+LaTeX Info: Redefining \dbond on input line 30.
+LaTeX Info: Redefining \tbond on input line 30.
+LaTeX Info: Redefining \bond on input line 30.
+LaTeX Info: Redefining \dbond on input line 30.
+LaTeX Info: Redefining \tbond on input line 30.
+LaTeX Info: Redefining \bond on input line 31.
+LaTeX Info: Redefining \dbond on input line 31.
+LaTeX Info: Redefining \tbond on input line 31.
+LaTeX Info: Redefining \bond on input line 31.
+LaTeX Info: Redefining \dbond on input line 31.
+LaTeX Info: Redefining \tbond on input line 31.
+LaTeX Info: Redefining \bond on input line 31.
+LaTeX Info: Redefining \dbond on input line 31.
+LaTeX Info: Redefining \tbond on input line 31.
+LaTeX Info: Redefining \bond on input line 31.
+LaTeX Info: Redefining \dbond on input line 31.
+LaTeX Info: Redefining \tbond on input line 31.
+LaTeX Info: Redefining \bond on input line 31.
+LaTeX Info: Redefining \dbond on input line 31.
+LaTeX Info: Redefining \tbond on input line 31.
+LaTeX Info: Redefining \bond on input line 31.
+LaTeX Info: Redefining \dbond on input line 31.
+LaTeX Info: Redefining \tbond on input line 31.
+LaTeX Info: Redefining \bond on input line 36.
+LaTeX Info: Redefining \dbond on input line 36.
+LaTeX Info: Redefining \tbond on input line 36.
+LaTeX Info: Redefining \bond on input line 36.
+LaTeX Info: Redefining \dbond on input line 36.
+LaTeX Info: Redefining \tbond on input line 36.
+LaTeX Info: Redefining \bond on input line 36.
+LaTeX Info: Redefining \dbond on input line 36.
+LaTeX Info: Redefining \tbond on input line 36.
+LaTeX Info: Redefining \bond on input line 36.
+LaTeX Info: Redefining \dbond on input line 36.
+LaTeX Info: Redefining \tbond on input line 36.
+LaTeX Info: Redefining \bond on input line 36.
+LaTeX Info: Redefining \dbond on input line 36.
+LaTeX Info: Redefining \tbond on input line 36.
+LaTeX Info: Redefining \bond on input line 36.
+LaTeX Info: Redefining \dbond on input line 36.
+LaTeX Info: Redefining \tbond on input line 36.
+LaTeX Info: Redefining \bond on input line 36.
+LaTeX Info: Redefining \dbond on input line 36.
+LaTeX Info: Redefining \tbond on input line 36.
+LaTeX Info: Redefining \bond on input line 36.
+LaTeX Info: Redefining \dbond on input line 36.
+LaTeX Info: Redefining \tbond on input line 36.
+LaTeX Info: Redefining \bond on input line 42.
+LaTeX Info: Redefining \dbond on input line 42.
+LaTeX Info: Redefining \tbond on input line 42.
+LaTeX Info: Redefining \bond on input line 42.
+LaTeX Info: Redefining \dbond on input line 42.
+LaTeX Info: Redefining \tbond on input line 42.
+LaTeX Info: Redefining \bond on input line 42.
+LaTeX Info: Redefining \dbond on input line 42.
+LaTeX Info: Redefining \tbond on input line 42.
+LaTeX Info: Redefining \bond on input line 42.
+LaTeX Info: Redefining \dbond on input line 42.
+LaTeX Info: Redefining \tbond on input line 42.
+LaTeX Info: Redefining \bond on input line 42.
+LaTeX Info: Redefining \dbond on input line 42.
+LaTeX Info: Redefining \tbond on input line 42.
+LaTeX Info: Redefining \bond on input line 42.
+LaTeX Info: Redefining \dbond on input line 42.
+LaTeX Info: Redefining \tbond on input line 42.
+LaTeX Info: Redefining \bond on input line 42.
+LaTeX Info: Redefining \dbond on input line 42.
+LaTeX Info: Redefining \tbond on input line 42.
+LaTeX Info: Redefining \bond on input line 42.
+LaTeX Info: Redefining \dbond on input line 42.
+LaTeX Info: Redefining \tbond on input line 42.
+ [71])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [73]
+ [72]
 (./tex/iv-activities_pollution.tex
-<./img/source/air-pollution.jpg, id=2673, 258.9675pt x 438.13687pt>
+<./img/source/air-pollution.jpg, id=2641, 258.9675pt x 438.13687pt>
 File: ./img/source/air-pollution.jpg Graphic file (type jpg)
 
 <use ./img/source/air-pollution.jpg>
 Package pdftex.def Info: ./img/source/air-pollution.jpg used on input line 9.
 (pdftex.def)             Requested size: 181.18439pt x 306.55331pt.
 
-<./img/source/planting-trees.jpg, id=2674, 235.63031pt x 216.81pt>
+<./img/source/planting-trees.jpg, id=2642, 235.63031pt x 238.64156pt>
 File: ./img/source/planting-trees.jpg Graphic file (type jpg)
 
 <use ./img/source/planting-trees.jpg>
 Package pdftex.def Info: ./img/source/planting-trees.jpg used on input line 69.
 
-(pdftex.def)             Requested size: 181.18439pt x 166.71594pt.
+(pdftex.def)             Requested size: 221.95676pt x 224.79646pt.
 
-<./img/source/water-purity.jpg, id=2675, 209.28188pt x 199.49532pt>
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 69--70
+ [] 
+ []
+
+<./img/source/water-purity.jpg, id=2643, 209.28188pt x 199.49532pt>
 File: ./img/source/water-purity.jpg Graphic file (type jpg)
 
 <use ./img/source/water-purity.jpg>
 Package pdftex.def Info: ./img/source/water-purity.jpg used on input line 97.
 (pdftex.def)             Requested size: 181.18439pt x 172.71022pt.
- [74 <./img/source/air-pollution.jpg> <./img/source/planting-trees.jpg>]
-<./img/source/acid-rain.jpg, id=2680, 231.86626pt x 280.04625pt>
+ [73 <./img/source/air-pollution.jpg> <./img/source/planting-trees.jpg>]
+<./img/source/acid-rain.jpg, id=2649, 231.86626pt x 280.04625pt>
 File: ./img/source/acid-rain.jpg Graphic file (type jpg)
 
 <use ./img/source/acid-rain.jpg>
 Package pdftex.def Info: ./img/source/acid-rain.jpg used on input line 116.
 (pdftex.def)             Requested size: 158.54152pt x 191.48866pt.
 
-<./img/source/pollution-smog.jpg, id=2681, 240.14719pt x 232.61906pt>
+<./img/source/pollution-smog.jpg, id=2650, 240.14719pt x 232.61906pt>
 File: ./img/source/pollution-smog.jpg Graphic file (type jpg)
 
 <use ./img/source/pollution-smog.jpg>
@@ -2434,8 +2307,9 @@ Underfull \hbox (badness 5622) in paragraph at lines 182--184
 []\OT1/cmr/m/n/10 Buckets, black paint/shoe pol-ish,
  []
 
-[75 <./img/source/water-purity.jpg> <./img/source/acid-rain.jpg> <./img/source/
-pollution-smog.jpg>]) (./tex/part-materials-equipment.tex [76
+[74 <./img/source/water-purity.jpg> <./img/source/acid-rain.jpg> <./img/source/
+pollution-smog.jpg>]) (./tex/part-materials-equipment.tex [75
+
 
 
 ])
@@ -2455,10 +2329,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--21
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77
+ [76
 
 ]
-<./img/vso/using-local-materials.jpg, id=2792, 542.025pt x 122.70844pt>
+<./img/vso/using-local-materials.jpg, id=2761, 542.025pt x 122.70844pt>
 File: ./img/vso/using-local-materials.jpg Graphic file (type jpg)
 
 <use ./img/vso/using-local-materials.jpg>
@@ -2466,7 +2340,7 @@ Package pdftex.def Info: ./img/vso/using-local-materials.jpg used on input line
  96.
 (pdftex.def)             Requested size: 341.43306pt x 77.29922pt.
 
-<./img/vso/multi-purpose-bottle.jpg, id=2793, 405.76593pt x 136.25906pt>
+<./img/vso/multi-purpose-bottle.jpg, id=2762, 405.76593pt x 136.25906pt>
 File: ./img/vso/multi-purpose-bottle.jpg Graphic file (type jpg)
 
 <use ./img/vso/multi-purpose-bottle.jpg>
@@ -2474,14 +2348,14 @@ Package pdftex.def Info: ./img/vso/multi-purpose-bottle.jpg used on input line
 97.
 (pdftex.def)             Requested size: 341.43306pt x 114.6585pt.
 
-<./img/beam-balance-2.png, id=2795, 244.66406pt x 214.55156pt>
+<./img/beam-balance-2.png, id=2764, 244.66406pt x 214.55156pt>
 File: ./img/beam-balance-2.png Graphic file (type png)
 
 <use ./img/beam-balance-2.png>
 Package pdftex.def Info: ./img/beam-balance-2.png used on input line 116.
 (pdftex.def)             Requested size: 181.18439pt x 158.88678pt.
 
-<./img/vso/beakers.jpg, id=2796, 331.99031pt x 94.10156pt>
+<./img/vso/beakers.jpg, id=2765, 331.99031pt x 94.10156pt>
 File: ./img/vso/beakers.jpg Graphic file (type jpg)
 
 <use ./img/vso/beakers.jpg>
@@ -2492,16 +2366,16 @@ Overfull \hbox (6.13809pt too wide) in paragraph at lines 127--128
  [] 
  []
 
-<./img/source/blowpipe.jpg, id=2797, 276.28218pt x 257.46187pt>
+<./img/source/blowpipe.jpg, id=2766, 276.28218pt x 257.46187pt>
 File: ./img/source/blowpipe.jpg Graphic file (type jpg)
 
 <use ./img/source/blowpipe.jpg>
 Package pdftex.def Info: ./img/source/blowpipe.jpg used on input line 140.
 (pdftex.def)             Requested size: 181.18439pt x 168.84106pt.
- [78 <./img/vso/using-local-materials.jpg> <./img/vso/multi-purpose-bottle.jpg>
+ [77 <./img/vso/using-local-materials.jpg> <./img/vso/multi-purpose-bottle.jpg>
  <./img/beam-balance-2.png> <./img/vso/beakers.jpg> <./img/source/blowpipe.jpg>
 ]
-<./img/burette.jpg, id=2805, 325.96782pt x 277.78781pt>
+<./img/burette.jpg, id=2774, 325.96782pt x 277.78781pt>
 File: ./img/burette.jpg Graphic file (type jpg)
 
 <use ./img/burette.jpg>
@@ -2512,21 +2386,21 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 175--176
  [] 
  []
 
-<./img/source/volumetric.jpg, id=2806, 338.01282pt x 195.73125pt>
+<./img/source/volumetric.jpg, id=2775, 338.01282pt x 195.73125pt>
 File: ./img/source/volumetric.jpg Graphic file (type jpg)
 
 <use ./img/source/volumetric.jpg>
 Package pdftex.def Info: ./img/source/volumetric.jpg used on input line 210.
 (pdftex.def)             Requested size: 181.18439pt x 104.91975pt.
 
-<./img/vso/crucible.jpg, id=2807, 169.38281pt x 85.82062pt>
+<./img/vso/crucible.jpg, id=2776, 169.38281pt x 85.82062pt>
 File: ./img/vso/crucible.jpg Graphic file (type jpg)
 
 <use ./img/vso/crucible.jpg>
 Package pdftex.def Info: ./img/vso/crucible.jpg used on input line 220.
 (pdftex.def)             Requested size: 181.18439pt x 91.80356pt.
 
-<./img/source/deflagrating-spoon.jpg, id=2808, 230.36063pt x 280.04625pt>
+<./img/source/deflagrating-spoon.jpg, id=2777, 230.36063pt x 280.04625pt>
 File: ./img/source/deflagrating-spoon.jpg Graphic file (type jpg)
 
 <use ./img/source/deflagrating-spoon.jpg>
@@ -2534,13 +2408,13 @@ Package pdftex.def Info: ./img/source/deflagrating-spoon.jpg used on input line
  230.
 (pdftex.def)             Requested size: 135.89174pt x 165.2002pt.
 
-<./img/vso/tubes.jpg, id=2809, 262.73157pt x 298.11375pt>
+<./img/vso/tubes.jpg, id=2778, 262.73157pt x 298.11375pt>
 File: ./img/vso/tubes.jpg Graphic file (type jpg)
 
 <use ./img/vso/tubes.jpg>
 Package pdftex.def Info: ./img/vso/tubes.jpg used on input line 241.
 (pdftex.def)             Requested size: 203.83417pt x 231.29504pt.
- [79 <./img/burette.jpg> <./img/source/volumetric.jpg> <./img/vso/crucible.jpg>
+ [78 <./img/burette.jpg> <./img/source/volumetric.jpg> <./img/vso/crucible.jpg>
  <./img/source/deflagrating-spoon.jpg>]
 File: ./img/vso/electrodes.jpg Graphic file (type jpg)
 
@@ -2548,14 +2422,14 @@ File: ./img/vso/electrodes.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./img/vso/electrodes.jpg used on input line 262.
 (pdftex.def)             Requested size: 203.83417pt x 102.41pt.
 
-<./img/source/dry-cell.jpg, id=2815, 252.945pt x 271.0125pt>
+<./img/source/dry-cell.jpg, id=2783, 252.945pt x 271.0125pt>
 File: ./img/source/dry-cell.jpg Graphic file (type jpg)
 
 <use ./img/source/dry-cell.jpg>
 Package pdftex.def Info: ./img/source/dry-cell.jpg used on input line 277.
 (pdftex.def)             Requested size: 181.18439pt x 194.1281pt.
 
-<./img/vso/electrode-holders.jpg, id=2816, 353.82187pt x 146.04562pt>
+<./img/vso/electrode-holders.jpg, id=2784, 353.82187pt x 146.04562pt>
 File: ./img/vso/electrode-holders.jpg Graphic file (type jpg)
 
 <use ./img/vso/electrode-holders.jpg>
@@ -2567,15 +2441,15 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 323--324
  [] 
  []
 
-<./img/source/filter-paper.jpg, id=2817, 219.82124pt x 239.39438pt>
+<./img/source/filter-paper.jpg, id=2785, 219.82124pt x 239.39438pt>
 File: ./img/source/filter-paper.jpg Graphic file (type jpg)
 
 <use ./img/source/filter-paper.jpg>
 Package pdftex.def Info: ./img/source/filter-paper.jpg used on input line 344.
 (pdftex.def)             Requested size: 181.18439pt x 197.32379pt.
- [80 <./img/vso/tubes.jpg> <./img/source/dry-cell.jpg> <./img/vso/electrode-hol
+ [79 <./img/vso/tubes.jpg> <./img/source/dry-cell.jpg> <./img/vso/electrode-hol
 ders.jpg>]
-<./img/vso/funnels.jpg, id=2822, 274.02374pt x 216.05719pt>
+<./img/vso/funnels.jpg, id=2792, 274.02374pt x 216.05719pt>
 File: ./img/vso/funnels.jpg Graphic file (type jpg)
 
 <use ./img/vso/funnels.jpg>
@@ -2586,22 +2460,22 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 362--363
  [] 
  []
 
-<./img/source/goggles.jpg, id=2823, 254.45062pt x 453.94594pt>
+<./img/source/goggles.jpg, id=2793, 254.45062pt x 453.94594pt>
 File: ./img/source/goggles.jpg Graphic file (type jpg)
 
 <use ./img/source/goggles.jpg>
 Package pdftex.def Info: ./img/source/goggles.jpg used on input line 393.
 (pdftex.def)             Requested size: 181.18439pt x 323.25282pt.
- [81 <./img/source/filter-paper.jpg> <./img/vso/funnels.jpg> <./img/source/gogg
+ [80 <./img/source/filter-paper.jpg> <./img/vso/funnels.jpg> <./img/source/gogg
 les.jpg>]
-<./img/source/heat-sources.jpg, id=2828, 411.78844pt x 236.38312pt>
+<./img/source/heat-sources.jpg, id=2798, 411.78844pt x 236.38312pt>
 File: ./img/source/heat-sources.jpg Graphic file (type jpg)
 
 <use ./img/source/heat-sources.jpg>
 Package pdftex.def Info: ./img/source/heat-sources.jpg used on input line 405.
 (pdftex.def)             Requested size: 221.95676pt x 127.41052pt.
 
-<./img/source/heat-sources-2.jpg, id=2829, 287.57437pt x 350.81062pt>
+<./img/source/heat-sources-2.jpg, id=2799, 287.57437pt x 350.81062pt>
 File: ./img/source/heat-sources-2.jpg Graphic file (type jpg)
 
 <use ./img/source/heat-sources-2.jpg>
@@ -2626,22 +2500,22 @@ File: ./img/vso/making-indicators.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./img/vso/making-indicators.jpg used on input line 442
 .
 (pdftex.def)             Requested size: 181.18439pt x 92.51906pt.
- [82 <./img/source/heat-sources.jpg> <./img/source/heat-sources-2.jpg>]
-<./img/vso/meas-cyl.jpg, id=2836, 114.4275pt x 122.70844pt>
+ [81 <./img/source/heat-sources.jpg> <./img/source/heat-sources-2.jpg>]
+<./img/vso/meas-cyl.jpg, id=2806, 114.4275pt x 122.70844pt>
 File: ./img/vso/meas-cyl.jpg Graphic file (type jpg)
 
 <use ./img/vso/meas-cyl.jpg>
 Package pdftex.def Info: ./img/vso/meas-cyl.jpg used on input line 463.
 (pdftex.def)             Requested size: 90.5922pt x 97.15204pt.
 
-<./img/vso/mortar-pestle.jpg, id=2839, 180.675pt x 74.52844pt>
+<./img/vso/mortar-pestle.jpg, id=2809, 180.675pt x 74.52844pt>
 File: ./img/vso/mortar-pestle.jpg Graphic file (type jpg)
 
 <use ./img/vso/mortar-pestle.jpg>
 Package pdftex.def Info: ./img/vso/mortar-pestle.jpg used on input line 505.
 (pdftex.def)             Requested size: 142.26378pt x 58.68462pt.
 
-<./img/source/scale-pans.png, id=2840, 407.27156pt x 167.12437pt>
+<./img/source/scale-pans.png, id=2810, 407.27156pt x 167.12437pt>
 File: ./img/source/scale-pans.png Graphic file (type png)
 
 <use ./img/source/scale-pans.png>
@@ -2652,15 +2526,15 @@ Overfull \hbox (6.13809pt too wide) in paragraph at lines 576--577
  [] 
  []
 
-<./img/source/scalpel.jpg, id=2841, 211.54031pt x 152.82094pt>
+<./img/source/scalpel.jpg, id=2811, 211.54031pt x 152.82094pt>
 File: ./img/source/scalpel.jpg Graphic file (type jpg)
 
 <use ./img/source/scalpel.jpg>
 Package pdftex.def Info: ./img/source/scalpel.jpg used on input line 589.
 (pdftex.def)             Requested size: 181.18439pt x 130.89642pt.
- [83 <./img/vso/meas-cyl.jpg> <./img/vso/mortar-pestle.jpg> <./img/source/scale
+ [82 <./img/vso/meas-cyl.jpg> <./img/vso/mortar-pestle.jpg> <./img/source/scale
 -pans.png>]
-<./img/source/slide-cover-slip.jpg, id=2847, 258.21469pt x 188.20313pt>
+<./img/source/slide-cover-slip.jpg, id=2817, 258.21469pt x 188.20313pt>
 File: ./img/source/slide-cover-slip.jpg Graphic file (type jpg)
 
 <use ./img/source/slide-cover-slip.jpg>
@@ -2668,29 +2542,29 @@ Package pdftex.def Info: ./img/source/slide-cover-slip.jpg used on input line 6
 02.
 (pdftex.def)             Requested size: 181.18439pt x 132.06291pt.
 
-<./img/source/spatula.jpg, id=2848, 268.75406pt x 258.21469pt>
+<./img/source/spatula.jpg, id=2818, 268.75406pt x 258.21469pt>
 File: ./img/source/spatula.jpg Graphic file (type jpg)
 
 <use ./img/source/spatula.jpg>
 Package pdftex.def Info: ./img/source/spatula.jpg used on input line 616.
 (pdftex.def)             Requested size: 181.18439pt x 174.07857pt.
 
-<./img/source/stoppers.jpg, id=2849, 222.07968pt x 288.3272pt>
+<./img/source/stoppers.jpg, id=2819, 222.07968pt x 288.3272pt>
 File: ./img/source/stoppers.jpg Graphic file (type jpg)
 
 <use ./img/source/stoppers.jpg>
 Package pdftex.def Info: ./img/source/stoppers.jpg used on input line 642.
 (pdftex.def)             Requested size: 135.89174pt x 176.42926pt.
 
-<./img/source/syringe.jpg, id=2850, 60.225pt x 190.46156pt>
+<./img/source/syringe.jpg, id=2820, 60.225pt x 190.46156pt>
 File: ./img/source/syringe.jpg Graphic file (type jpg)
 
 <use ./img/source/syringe.jpg>
 Package pdftex.def Info: ./img/source/syringe.jpg used on input line 662.
 (pdftex.def)             Requested size: 45.29955pt x 143.2643pt.
- [84 <./img/source/scalpel.jpg> <./img/source/slide-cover-slip.jpg> <./img/sour
+ [83 <./img/source/scalpel.jpg> <./img/source/slide-cover-slip.jpg> <./img/sour
 ce/spatula.jpg> <./img/source/stoppers.jpg>]
-<./img/vso/test-tube-brush.jpg, id=2857, 238.64156pt x 97.86563pt>
+<./img/vso/test-tube-brush.jpg, id=2827, 238.64156pt x 97.86563pt>
 File: ./img/vso/test-tube-brush.jpg Graphic file (type jpg)
 
 <use ./img/vso/test-tube-brush.jpg>
@@ -2701,7 +2575,7 @@ Underfull \hbox (badness 7397) in paragraph at lines 678--678
  |[]\OT1/cmr/bx/n/14.4 Test Tube Holder /
  []
 
-<./img/vso/test-tube-holder.jpg, id=2858, 194.22563pt x 117.43875pt>
+<./img/vso/test-tube-holder.jpg, id=2828, 194.22563pt x 117.43875pt>
 File: ./img/vso/test-tube-holder.jpg Graphic file (type jpg)
 
 <use ./img/vso/test-tube-holder.jpg>
@@ -2709,52 +2583,52 @@ Package pdftex.def Info: ./img/vso/test-tube-holder.jpg used on input line 685.
 
 (pdftex.def)             Requested size: 203.83417pt x 123.25159pt.
 
-<./img/vso/test-tube-rack.jpg, id=2859, 314.67563pt x 204.765pt>
+<./img/vso/test-tube-rack.jpg, id=2829, 314.67563pt x 204.765pt>
 File: ./img/vso/test-tube-rack.jpg Graphic file (type jpg)
 
 <use ./img/vso/test-tube-rack.jpg>
 Package pdftex.def Info: ./img/vso/test-tube-rack.jpg used on input line 695.
 (pdftex.def)             Requested size: 203.83417pt x 132.63948pt.
 
-<./img/vso/tripod-stand.jpg, id=2860, 213.79875pt x 238.64156pt>
+<./img/vso/tripod-stand.jpg, id=2830, 213.79875pt x 238.64156pt>
 File: ./img/vso/tripod-stand.jpg Graphic file (type jpg)
 
 <use ./img/vso/tripod-stand.jpg>
 Package pdftex.def Info: ./img/vso/tripod-stand.jpg used on input line 705.
 (pdftex.def)             Requested size: 142.26378pt x 158.79295pt.
- [85 <./img/source/syringe.jpg> <./img/vso/test-tube-brush.jpg> <./img/vso/test
+ [84 <./img/source/syringe.jpg> <./img/vso/test-tube-brush.jpg> <./img/vso/test
 -tube-holder.jpg> <./img/vso/test-tube-rack.jpg> <./img/vso/tripod-stand.jpg>]
-<./img/source/trough.jpg, id=2869, 237.88875pt x 263.48438pt>
+<./img/source/trough.jpg, id=2838, 237.88875pt x 263.48438pt>
 File: ./img/source/trough.jpg Graphic file (type jpg)
 
 <use ./img/source/trough.jpg>
 Package pdftex.def Info: ./img/source/trough.jpg used on input line 726.
 (pdftex.def)             Requested size: 135.89174pt x 150.51732pt.
 
-<./img/source/wire.jpg, id=2870, 274.02374pt x 62.48344pt>
+<./img/source/wire.jpg, id=2839, 274.02374pt x 62.48344pt>
 File: ./img/source/wire.jpg Graphic file (type jpg)
 
 <use ./img/source/wire.jpg>
 Package pdftex.def Info: ./img/source/wire.jpg used on input line 770.
 (pdftex.def)             Requested size: 181.18439pt x 41.3145pt.
 
-<./img/source/wire-gauze.jpg, id=2871, 277.78781pt x 137.01187pt>
+<./img/source/wire-gauze.jpg, id=2840, 277.78781pt x 137.01187pt>
 File: ./img/source/wire-gauze.jpg Graphic file (type jpg)
 
 <use ./img/source/wire-gauze.jpg>
 Package pdftex.def Info: ./img/source/wire-gauze.jpg used on input line 788.
 (pdftex.def)             Requested size: 181.18439pt x 89.36607pt.
-) (./tex/low-power-microscopy.tex [86 <./img/source/trough.jpg> <./img/source/w
+) (./tex/low-power-microscopy.tex [85 <./img/source/trough.jpg> <./img/source/w
 ire.jpg> <./img/source/wire-gauze.jpg>]
 Appendix B.
-<./img/vso/water-drop-2.jpg, id=2877, 187.45032pt x 252.945pt>
+<./img/vso/water-drop-2.jpg, id=2846, 187.45032pt x 252.945pt>
 File: ./img/vso/water-drop-2.jpg Graphic file (type jpg)
 
 <use ./img/vso/water-drop-2.jpg>
 Package pdftex.def Info: ./img/vso/water-drop-2.jpg used on input line 15.
 (pdftex.def)             Requested size: 203.83417pt x 275.06775pt.
 
-<./img/vso/slide-cover-slip.jpg, id=2878, 181.42781pt x 121.95563pt>
+<./img/vso/slide-cover-slip.jpg, id=2847, 181.42781pt x 121.95563pt>
 File: ./img/vso/slide-cover-slip.jpg Graphic file (type jpg)
 
 <use ./img/vso/slide-cover-slip.jpg>
@@ -2769,17 +2643,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 35.
 
-<./img/vso/container-microscope-2.jpg, id=2879, 280.04625pt x 301.8778pt>
+<./img/vso/container-microscope-2.jpg, id=2848, 280.04625pt x 301.8778pt>
 File: ./img/vso/container-microscope-2.jpg Graphic file (type jpg)
 
 <use ./img/vso/container-microscope-2.jpg>
 Package pdftex.def Info: ./img/vso/container-microscope-2.jpg used on input lin
 e 39.
 (pdftex.def)             Requested size: 181.18439pt x 195.31541pt.
- [87
+ [86
 
  <./img/vso/water-drop-2.jpg> <./img/vso/slide-cover-slip.jpg>]
-<./img/source/simple-microscope-2.png, id=2884, 231.86626pt x 199.49532pt>
+<./img/source/simple-microscope-2.png, id=2853, 231.86626pt x 199.49532pt>
 File: ./img/source/simple-microscope-2.png Graphic file (type png)
 
 <use ./img/source/simple-microscope-2.png>
@@ -2799,7 +2673,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 69.
 
-<./img/vso/compound-microscope.jpg, id=2885, 269.50688pt x 205.5178pt>
+<./img/vso/compound-microscope.jpg, id=2854, 269.50688pt x 205.5178pt>
 File: ./img/vso/compound-microscope.jpg Graphic file (type jpg)
 
 <use ./img/vso/compound-microscope.jpg>
@@ -2807,17 +2681,24 @@ Package pdftex.def Info: ./img/vso/compound-microscope.jpg used on input line 7
 1.
 (pdftex.def)             Requested size: 181.18439pt x 138.1666pt.
 
-<./img/vso/card-microscope.jpg, id=2886, 268.00125pt x 280.79906pt>
+<./img/vso/card-microscope.jpg, id=2855, 268.00125pt x 280.79906pt>
 File: ./img/vso/card-microscope.jpg Graphic file (type jpg)
 
 <use ./img/vso/card-microscope.jpg>
 Package pdftex.def Info: ./img/vso/card-microscope.jpg used on input line 83.
 (pdftex.def)             Requested size: 181.18439pt x 189.83539pt.
- [88 <./img/vso/container-microscope-2.jpg> <./img/source/simple-microscope-2.p
-ng> <./img/vso/compound-microscope.jpg> <./img/vso/card-microscope.jpg>]) (./te
-x/storage-materials.tex
+
+
+Package Fancyhdr Warning: \headheight is too small (15.0pt): 
+ Make it at least 22.54448pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[87 <./img/vso/container-microscope-2.jpg> <./img/source/simple-microscope-2.pn
+g> <./img/vso/compound-microscope.jpg> <./img/vso/card-microscope.jpg>])
+(./tex/storage-materials.tex
 Appendix C.
-<./img/source/science-box-alt.jpg, id=2892, 283.81032pt x 438.8897pt>
+<./img/source/science-box-alt.jpg, id=2861, 283.81032pt x 438.8897pt>
 File: ./img/source/science-box-alt.jpg Graphic file (type jpg)
 
 <use ./img/source/science-box-alt.jpg>
@@ -2825,7 +2706,7 @@ Package pdftex.def Info: ./img/source/science-box-alt.jpg used on input line 8.
 
 (pdftex.def)             Requested size: 149.48022pt x 231.1639pt.
 
-<./img/vso/card-boxes.jpg, id=2893, 364.36125pt x 222.07968pt>
+<./img/vso/card-boxes.jpg, id=2862, 364.36125pt x 222.07968pt>
 File: ./img/vso/card-boxes.jpg Graphic file (type jpg)
 
 <use ./img/vso/card-boxes.jpg>
@@ -2836,21 +2717,21 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 22--23
  [] 
  []
 
-<./img/vso/matchbox-drawer.jpg, id=2894, 192.72pt x 136.25906pt>
+<./img/vso/matchbox-drawer.jpg, id=2863, 192.72pt x 136.25906pt>
 File: ./img/vso/matchbox-drawer.jpg Graphic file (type jpg)
 
 <use ./img/vso/matchbox-drawer.jpg>
 Package pdftex.def Info: ./img/vso/matchbox-drawer.jpg used on input line 39.
 (pdftex.def)             Requested size: 135.89174pt x 96.07927pt.
 
-<./img/vso/dividing-boxes.jpg, id=2895, 335.00156pt x 136.25906pt>
+<./img/vso/dividing-boxes.jpg, id=2864, 335.00156pt x 136.25906pt>
 File: ./img/vso/dividing-boxes.jpg Graphic file (type jpg)
 
 <use ./img/vso/dividing-boxes.jpg>
 Package pdftex.def Info: ./img/vso/dividing-boxes.jpg used on input line 54.
 (pdftex.def)             Requested size: 203.83417pt x 82.9079pt.
 
-<./img/vso/envelopes-bags.jpg, id=2896, 411.78844pt x 130.98938pt>
+<./img/vso/envelopes-bags.jpg, id=2865, 411.78844pt x 130.98938pt>
 File: ./img/vso/envelopes-bags.jpg Graphic file (type jpg)
 
 <use ./img/vso/envelopes-bags.jpg>
@@ -2861,19 +2742,19 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 71--72
  [] 
  []
 
-) (./tex/modeling-materials.tex [89
+) (./tex/modeling-materials.tex [88
 
  <./img/source/science-box-alt.jpg> <./img/vso/card-boxes.jpg> <./img/vso/match
 box-drawer.jpg> <./img/vso/dividing-boxes.jpg> <./img/vso/envelopes-bags.jpg>]
 Appendix D.
-<./img/vso/papier-mache.jpg, id=2901, 200.24812pt x 202.50656pt>
+<./img/vso/papier-mache.jpg, id=2871, 200.24812pt x 202.50656pt>
 File: ./img/vso/papier-mache.jpg Graphic file (type jpg)
 
 <use ./img/vso/papier-mache.jpg>
 Package pdftex.def Info: ./img/vso/papier-mache.jpg used on input line 9.
 (pdftex.def)             Requested size: 181.18439pt x 183.2399pt.
 
-<./img/vso/papier-mache-layering.jpg, id=2902, 332.74312pt x 204.765pt>
+<./img/vso/papier-mache-layering.jpg, id=2872, 332.74312pt x 204.765pt>
 File: ./img/vso/papier-mache-layering.jpg Graphic file (type jpg)
 
 <use ./img/vso/papier-mache-layering.jpg>
@@ -2881,37 +2762,37 @@ Package pdftex.def Info: ./img/vso/papier-mache-layering.jpg used on input line
  28.
 (pdftex.def)             Requested size: 203.83417pt x 125.4376pt.
 
-<./img/vso/modeling-clay.jpg, id=2903, 222.8325pt x 205.5178pt>
+<./img/vso/modeling-clay.jpg, id=2873, 222.8325pt x 205.5178pt>
 File: ./img/vso/modeling-clay.jpg Graphic file (type jpg)
 
 <use ./img/vso/modeling-clay.jpg>
 Package pdftex.def Info: ./img/vso/modeling-clay.jpg used on input line 46.
 (pdftex.def)             Requested size: 181.18439pt x 167.10825pt.
 
-<./img/vso/cement.jpg, id=2904, 318.43968pt x 184.43906pt>
+<./img/vso/cement.jpg, id=2874, 318.43968pt x 184.43906pt>
 File: ./img/vso/cement.jpg Graphic file (type jpg)
 
 <use ./img/vso/cement.jpg>
 Package pdftex.def Info: ./img/vso/cement.jpg used on input line 67.
 (pdftex.def)             Requested size: 181.18439pt x 104.93997pt.
 
-<./img/vso/dough.jpg, id=2905, 219.82124pt x 276.28218pt>
+<./img/vso/dough.jpg, id=2875, 219.82124pt x 276.28218pt>
 File: ./img/vso/dough.jpg Graphic file (type jpg)
 
 <use ./img/vso/dough.jpg>
 Package pdftex.def Info: ./img/vso/dough.jpg used on input line 82.
 (pdftex.def)             Requested size: 181.18439pt x 227.72903pt.
- [90
+ [89
 
  <./img/vso/papier-mache.jpg> <./img/vso/papier-mache-layering.jpg> <./img/vso/
 modeling-clay.jpg> <./img/vso/cement.jpg>]
-<./img/vso/casein-glue.jpg, id=2910, 290.58563pt x 492.33937pt>
+<./img/vso/casein-glue.jpg, id=2880, 290.58563pt x 492.33937pt>
 File: ./img/vso/casein-glue.jpg Graphic file (type jpg)
 
 <use ./img/vso/casein-glue.jpg>
 Package pdftex.def Info: ./img/vso/casein-glue.jpg used on input line 103.
 (pdftex.def)             Requested size: 181.18439pt x 306.98262pt.
-) (./tex/sources-of-chemicals.tex [91 <./img/vso/dough.jpg> <./img/vso/casein-g
+) (./tex/sources-of-chemicals.tex [90 <./img/vso/dough.jpg> <./img/vso/casein-g
 lue.jpg>]
 Appendix E.
 
@@ -2937,28 +2818,18 @@ LaTeX Info: Redefining \tbond on input line 180.
 LaTeX Info: Redefining \bond on input line 200.
 LaTeX Info: Redefining \dbond on input line 200.
 LaTeX Info: Redefining \tbond on input line 200.
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--212
- |[]\OT1/cmr/bx/n/14.4 Ammonium car-bon-ate,
- []
-
 LaTeX Info: Redefining \bond on input line 222.
 LaTeX Info: Redefining \dbond on input line 222.
 LaTeX Info: Redefining \tbond on input line 222.
 LaTeX Info: Redefining \bond on input line 230.
 LaTeX Info: Redefining \dbond on input line 230.
 LaTeX Info: Redefining \tbond on input line 230.
-[92
+[91
 
 ]
 LaTeX Info: Redefining \bond on input line 243.
 LaTeX Info: Redefining \dbond on input line 243.
 LaTeX Info: Redefining \tbond on input line 243.
-
-Underfull \hbox (badness 10000) in paragraph at lines 253--253
- |[]\OT1/cmr/bx/n/14.4 Barium chlo-ride and
- []
-
 LaTeX Info: Redefining \bond on input line 264.
 LaTeX Info: Redefining \dbond on input line 264.
 LaTeX Info: Redefining \tbond on input line 264.
@@ -2979,12 +2850,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--308
 LaTeX Info: Redefining \bond on input line 311.
 LaTeX Info: Redefining \dbond on input line 311.
 LaTeX Info: Redefining \tbond on input line 311.
-
-Underfull \hbox (badness 7851) in paragraph at lines 329--329
- |[]\OT1/cmr/bx/n/14.4 Calcium chlo-ride and
- []
-
-[93]
+[92]
 LaTeX Info: Redefining \bond on input line 344.
 LaTeX Info: Redefining \dbond on input line 344.
 LaTeX Info: Redefining \tbond on input line 344.
@@ -3011,11 +2877,7 @@ Overfull \hbox (44.16943pt too wide) in paragraph at lines 402--414
 LaTeX Info: Redefining \bond on input line 434.
 LaTeX Info: Redefining \dbond on input line 434.
 LaTeX Info: Redefining \tbond on input line 434.
-[94]
-Underfull \hbox (badness 10000) in paragraph at lines 446--446
- |[]\OT1/cmr/bx/n/14.4 Copper chlo-ride and
- []
-
+[93]
 LaTeX Info: Redefining \bond on input line 458.
 LaTeX Info: Redefining \dbond on input line 458.
 LaTeX Info: Redefining \tbond on input line 458.
@@ -3037,7 +2899,7 @@ LaTeX Info: Redefining \tbond on input line 517.
 LaTeX Info: Redefining \bond on input line 541.
 LaTeX Info: Redefining \dbond on input line 541.
 LaTeX Info: Redefining \tbond on input line 541.
-[95]
+ [94]
 LaTeX Info: Redefining \bond on input line 557.
 LaTeX Info: Redefining \dbond on input line 557.
 LaTeX Info: Redefining \tbond on input line 557.
@@ -3055,10 +2917,10 @@ Underfull \hbox (badness 5345) in paragraph at lines 635--650
 \OT1/cmr/m/n/10 Source: nail pol-ish re-mover (mix-ture with
  []
 
+[95]
 LaTeX Info: Redefining \bond on input line 661.
 LaTeX Info: Redefining \dbond on input line 661.
 LaTeX Info: Redefining \tbond on input line 661.
-[96]
 LaTeX Info: Redefining \bond on input line 682.
 LaTeX Info: Redefining \dbond on input line 682.
 LaTeX Info: Redefining \tbond on input line 682.
@@ -3071,10 +2933,10 @@ LaTeX Info: Redefining \tbond on input line 736.
 LaTeX Info: Redefining \bond on input line 752.
 LaTeX Info: Redefining \dbond on input line 752.
 LaTeX Info: Redefining \tbond on input line 752.
+ [96]
 LaTeX Info: Redefining \bond on input line 780.
 LaTeX Info: Redefining \dbond on input line 780.
 LaTeX Info: Redefining \tbond on input line 780.
- [97]
 LaTeX Info: Redefining \bond on input line 795.
 LaTeX Info: Redefining \dbond on input line 795.
 LaTeX Info: Redefining \tbond on input line 795.
@@ -3096,7 +2958,7 @@ Missing character: There is no ™ in font cmr10!
 LaTeX Info: Redefining \bond on input line 893.
 LaTeX Info: Redefining \dbond on input line 893.
 LaTeX Info: Redefining \tbond on input line 893.
- [98]
+ [97]
 LaTeX Info: Redefining \bond on input line 960.
 LaTeX Info: Redefining \dbond on input line 960.
 LaTeX Info: Redefining \tbond on input line 960.
@@ -3109,38 +2971,29 @@ LaTeX Info: Redefining \tbond on input line 992.
 LaTeX Info: Redefining \bond on input line 999.
 LaTeX Info: Redefining \dbond on input line 999.
 LaTeX Info: Redefining \tbond on input line 999.
+ [98]
 LaTeX Info: Redefining \bond on input line 1020.
 LaTeX Info: Redefining \dbond on input line 1020.
 LaTeX Info: Redefining \tbond on input line 1020.
 LaTeX Info: Redefining \bond on input line 1020.
 LaTeX Info: Redefining \dbond on input line 1020.
 LaTeX Info: Redefining \tbond on input line 1020.
- [99]
 LaTeX Info: Redefining \bond on input line 1024.
 LaTeX Info: Redefining \dbond on input line 1024.
 LaTeX Info: Redefining \tbond on input line 1024.
 LaTeX Info: Redefining \bond on input line 1050.
 LaTeX Info: Redefining \dbond on input line 1050.
 LaTeX Info: Redefining \tbond on input line 1050.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1093--1093
- |[]\OT1/cmr/bx/n/14.4 Potassium alu-minum
- []
-
 LaTeX Info: Redefining \bond on input line 1095.
 LaTeX Info: Redefining \dbond on input line 1095.
 LaTeX Info: Redefining \tbond on input line 1095.
 LaTeX Info: Redefining \bond on input line 1108.
 LaTeX Info: Redefining \dbond on input line 1108.
 LaTeX Info: Redefining \tbond on input line 1108.
-
-LaTeX Warning: Reference `cha:subchemvolana' on page 100 undefined on input lin
-e 1114.
-
+ [99]
 LaTeX Info: Redefining \bond on input line 1118.
 LaTeX Info: Redefining \dbond on input line 1118.
 LaTeX Info: Redefining \tbond on input line 1118.
-[100]
 LaTeX Info: Redefining \bond on input line 1133.
 LaTeX Info: Redefining \dbond on input line 1133.
 LaTeX Info: Redefining \tbond on input line 1133.
@@ -3153,11 +3006,6 @@ LaTeX Info: Redefining \tbond on input line 1159.
 LaTeX Info: Redefining \bond on input line 1169.
 LaTeX Info: Redefining \dbond on input line 1169.
 LaTeX Info: Redefining \tbond on input line 1169.
-
-
-LaTeX Warning: Reference `sec:commonsubs' on page 101 undefined on input line 1
-177.
-
 LaTeX Info: Redefining \bond on input line 1181.
 LaTeX Info: Redefining \dbond on input line 1181.
 LaTeX Info: Redefining \tbond on input line 1181.
@@ -3176,15 +3024,10 @@ LaTeX Info: Redefining \tbond on input line 1193.
 LaTeX Info: Redefining \bond on input line 1197.
 LaTeX Info: Redefining \dbond on input line 1197.
 LaTeX Info: Redefining \tbond on input line 1197.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1209--1209
- |[]\OT1/cmr/bx/n/14.4 Potassium man-ganate
- []
-
 LaTeX Info: Redefining \bond on input line 1211.
 LaTeX Info: Redefining \dbond on input line 1211.
 LaTeX Info: Redefining \tbond on input line 1211.
-[101]
+ [100]
 LaTeX Info: Redefining \bond on input line 1238.
 LaTeX Info: Redefining \dbond on input line 1238.
 LaTeX Info: Redefining \tbond on input line 1238.
@@ -3194,91 +3037,86 @@ LaTeX Info: Redefining \tbond on input line 1250.
 LaTeX Info: Redefining \bond on input line 1277.
 LaTeX Info: Redefining \dbond on input line 1277.
 LaTeX Info: Redefining \tbond on input line 1277.
-
-
-LaTeX Warning: Reference `cha:qualana' on page 102 undefined on input line 1287
-.
-
-LaTeX Info: Redefining \bond on input line 1304.
-LaTeX Info: Redefining \dbond on input line 1304.
-LaTeX Info: Redefining \tbond on input line 1304.
 LaTeX Info: Redefining \bond on input line 1305.
 LaTeX Info: Redefining \dbond on input line 1305.
 LaTeX Info: Redefining \tbond on input line 1305.
-LaTeX Info: Redefining \bond on input line 1326.
-LaTeX Info: Redefining \dbond on input line 1326.
-LaTeX Info: Redefining \tbond on input line 1326.
-LaTeX Info: Redefining \bond on input line 1346.
-LaTeX Info: Redefining \dbond on input line 1346.
-LaTeX Info: Redefining \tbond on input line 1346.
-[102]
-LaTeX Info: Redefining \bond on input line 1359.
-LaTeX Info: Redefining \dbond on input line 1359.
-LaTeX Info: Redefining \tbond on input line 1359.
-LaTeX Info: Redefining \bond on input line 1373.
-LaTeX Info: Redefining \dbond on input line 1373.
-LaTeX Info: Redefining \tbond on input line 1373.
-LaTeX Info: Redefining \bond on input line 1405.
-LaTeX Info: Redefining \dbond on input line 1405.
-LaTeX Info: Redefining \tbond on input line 1405.
-LaTeX Info: Redefining \bond on input line 1419.
-LaTeX Info: Redefining \dbond on input line 1419.
-LaTeX Info: Redefining \tbond on input line 1419.
-LaTeX Info: Redefining \bond on input line 1439.
-LaTeX Info: Redefining \dbond on input line 1439.
-LaTeX Info: Redefining \tbond on input line 1439.
-LaTeX Info: Redefining \bond on input line 1447.
-LaTeX Info: Redefining \dbond on input line 1447.
-LaTeX Info: Redefining \tbond on input line 1447.
-LaTeX Info: Redefining \bond on input line 1460.
-LaTeX Info: Redefining \dbond on input line 1460.
-LaTeX Info: Redefining \tbond on input line 1460.
+LaTeX Info: Redefining \bond on input line 1306.
+LaTeX Info: Redefining \dbond on input line 1306.
+LaTeX Info: Redefining \tbond on input line 1306.
+LaTeX Info: Redefining \bond on input line 1327.
+LaTeX Info: Redefining \dbond on input line 1327.
+LaTeX Info: Redefining \tbond on input line 1327.
+ [101]
+LaTeX Info: Redefining \bond on input line 1347.
+LaTeX Info: Redefining \dbond on input line 1347.
+LaTeX Info: Redefining \tbond on input line 1347.
+LaTeX Info: Redefining \bond on input line 1360.
+LaTeX Info: Redefining \dbond on input line 1360.
+LaTeX Info: Redefining \tbond on input line 1360.
+LaTeX Info: Redefining \bond on input line 1374.
+LaTeX Info: Redefining \dbond on input line 1374.
+LaTeX Info: Redefining \tbond on input line 1374.
+LaTeX Info: Redefining \bond on input line 1406.
+LaTeX Info: Redefining \dbond on input line 1406.
+LaTeX Info: Redefining \tbond on input line 1406.
+LaTeX Info: Redefining \bond on input line 1420.
+LaTeX Info: Redefining \dbond on input line 1420.
+LaTeX Info: Redefining \tbond on input line 1420.
+LaTeX Info: Redefining \bond on input line 1440.
+LaTeX Info: Redefining \dbond on input line 1440.
+LaTeX Info: Redefining \tbond on input line 1440.
+LaTeX Info: Redefining \bond on input line 1448.
+LaTeX Info: Redefining \dbond on input line 1448.
+LaTeX Info: Redefining \tbond on input line 1448.
+ [102]
+LaTeX Info: Redefining \bond on input line 1461.
+LaTeX Info: Redefining \dbond on input line 1461.
+LaTeX Info: Redefining \tbond on input line 1461.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1460--1469
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1470
 
  []
 
+LaTeX Info: Redefining \bond on input line 1473.
+LaTeX Info: Redefining \dbond on input line 1473.
+LaTeX Info: Redefining \tbond on input line 1473.
+LaTeX Info: Redefining \bond on input line 1483.
+LaTeX Info: Redefining \dbond on input line 1483.
+LaTeX Info: Redefining \tbond on input line 1483.
+LaTeX Info: Redefining \bond on input line 1511.
+LaTeX Info: Redefining \dbond on input line 1511.
+LaTeX Info: Redefining \tbond on input line 1511.
 [103]
-LaTeX Info: Redefining \bond on input line 1472.
-LaTeX Info: Redefining \dbond on input line 1472.
-LaTeX Info: Redefining \tbond on input line 1472.
-LaTeX Info: Redefining \bond on input line 1482.
-LaTeX Info: Redefining \dbond on input line 1482.
-LaTeX Info: Redefining \tbond on input line 1482.
-LaTeX Info: Redefining \bond on input line 1510.
-LaTeX Info: Redefining \dbond on input line 1510.
-LaTeX Info: Redefining \tbond on input line 1510.
-LaTeX Info: Redefining \bond on input line 1554.
-LaTeX Info: Redefining \dbond on input line 1554.
-LaTeX Info: Redefining \tbond on input line 1554.
- [104]
-LaTeX Info: Redefining \bond on input line 1566.
-LaTeX Info: Redefining \dbond on input line 1566.
-LaTeX Info: Redefining \tbond on input line 1566.
-LaTeX Info: Redefining \bond on input line 1584.
-LaTeX Info: Redefining \dbond on input line 1584.
-LaTeX Info: Redefining \tbond on input line 1584.
-LaTeX Info: Redefining \bond on input line 1615.
-LaTeX Info: Redefining \dbond on input line 1615.
-LaTeX Info: Redefining \tbond on input line 1615.
-LaTeX Info: Redefining \bond on input line 1637.
-LaTeX Info: Redefining \dbond on input line 1637.
-LaTeX Info: Redefining \tbond on input line 1637.
-) (./tex/part-interactive-learning.tex [105] [106
+LaTeX Info: Redefining \bond on input line 1555.
+LaTeX Info: Redefining \dbond on input line 1555.
+LaTeX Info: Redefining \tbond on input line 1555.
+LaTeX Info: Redefining \bond on input line 1567.
+LaTeX Info: Redefining \dbond on input line 1567.
+LaTeX Info: Redefining \tbond on input line 1567.
+LaTeX Info: Redefining \bond on input line 1585.
+LaTeX Info: Redefining \dbond on input line 1585.
+LaTeX Info: Redefining \tbond on input line 1585.
+LaTeX Info: Redefining \bond on input line 1616.
+LaTeX Info: Redefining \dbond on input line 1616.
+LaTeX Info: Redefining \tbond on input line 1616.
+LaTeX Info: Redefining \bond on input line 1638.
+LaTeX Info: Redefining \dbond on input line 1638.
+LaTeX Info: Redefining \tbond on input line 1638.
+) (./tex/part-interactive-learning.tex [104] [105
 
 ])
 (./tex/visual-aids-displays.tex
 Appendix F.
-<./img/vso/science-corner.jpg, id=2993, 457.71pt x 385.44pt>
+<./img/vso/science-corner.jpg, id=2962, 457.71pt x 385.44pt>
 File: ./img/vso/science-corner.jpg Graphic file (type jpg)
 
 <use ./img/vso/science-corner.jpg>
 Package pdftex.def Info: ./img/vso/science-corner.jpg used on input line 8.
 (pdftex.def)             Requested size: 448.4407pt x 377.64629pt.
- [107
+ [106
 
  <./img/vso/science-corner.jpg>]
-<./img/vso/cardboard-box-2.jpg, id=2998, 431.36156pt x 383.93437pt>
+<./img/vso/cardboard-box-2.jpg, id=2967, 431.36156pt x 383.93437pt>
 File: ./img/vso/cardboard-box-2.jpg Graphic file (type jpg)
 
 <use ./img/vso/cardboard-box-2.jpg>
@@ -3289,7 +3127,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 29--30
  [] 
  []
 
-<./img/vso/zigzag.jpg, id=2999, 243.91125pt x 233.37187pt>
+<./img/vso/zigzag.jpg, id=2968, 243.91125pt x 233.37187pt>
 File: ./img/vso/zigzag.jpg Graphic file (type jpg)
 
 <use ./img/vso/zigzag.jpg>
@@ -3300,7 +3138,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 44--45
  [] 
  []
 
-<./img/vso/zigzag-portability.jpg, id=3000, 272.51813pt x 285.31593pt>
+<./img/vso/zigzag-portability.jpg, id=2969, 272.51813pt x 285.31593pt>
 File: ./img/vso/zigzag-portability.jpg Graphic file (type jpg)
 
 <use ./img/vso/zigzag-portability.jpg>
@@ -3308,7 +3146,7 @@ Package pdftex.def Info: ./img/vso/zigzag-portability.jpg used on input line 57
 .
 (pdftex.def)             Requested size: 181.18439pt x 189.69353pt.
 
-<./img/vso/display-beams-hooks.jpg, id=3001, 270.25969pt x 328.97906pt>
+<./img/vso/display-beams-hooks.jpg, id=2970, 270.25969pt x 328.97906pt>
 File: ./img/vso/display-beams-hooks.jpg Graphic file (type jpg)
 
 <use ./img/vso/display-beams-hooks.jpg>
@@ -3320,16 +3158,16 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 89--90
  [] 
  []
 
-<./img/vso/display-charts-alt.jpg, id=3002, 194.97844pt x 469.755pt>
+<./img/vso/display-charts-alt.jpg, id=2971, 194.97844pt x 469.755pt>
 File: ./img/vso/display-charts-alt.jpg Graphic file (type jpg)
 
 <use ./img/vso/display-charts-alt.jpg>
 Package pdftex.def Info: ./img/vso/display-charts-alt.jpg used on input line 10
 1.
 (pdftex.def)             Requested size: 181.18439pt x 436.53792pt.
- [108 <./img/vso/cardboard-box-2.jpg> <./img/vso/zigzag.jpg> <./img/vso/zigzag-
+ [107 <./img/vso/cardboard-box-2.jpg> <./img/vso/zigzag.jpg> <./img/vso/zigzag-
 portability.jpg> <./img/vso/display-beams-hooks.jpg>] <./img/vso/string-display
-.jpg, id=3007, 258.9675pt x 581.17125pt>
+.jpg, id=2977, 258.9675pt x 581.17125pt>
 File: ./img/vso/string-display.jpg Graphic file (type jpg)
 
 <use ./img/vso/string-display.jpg>
@@ -3340,14 +3178,14 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 131--132
  [] 
  []
 
-<./img/vso/carrier-bag.jpg, id=3008, 243.91125pt x 234.1247pt>
+<./img/vso/carrier-bag.jpg, id=2978, 243.91125pt x 234.1247pt>
 File: ./img/vso/carrier-bag.jpg Graphic file (type jpg)
 
 <use ./img/vso/carrier-bag.jpg>
 Package pdftex.def Info: ./img/vso/carrier-bag.jpg used on input line 148.
 (pdftex.def)             Requested size: 181.18439pt x 173.9176pt.
- [109 <./img/vso/display-charts-alt.jpg> <./img/vso/string-display.jpg>]
-<./img/vso/transparent-display.jpg, id=3014, 328.22626pt x 422.32782pt>
+ [108 <./img/vso/display-charts-alt.jpg> <./img/vso/string-display.jpg>]
+<./img/vso/transparent-display.jpg, id=2983, 328.22626pt x 422.32782pt>
 File: ./img/vso/transparent-display.jpg Graphic file (type jpg)
 
 <use ./img/vso/transparent-display.jpg>
@@ -3359,31 +3197,31 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 178--180
  [] 
  []
 
-<./img/vso/clothing-poster.jpg, id=3015, 257.46187pt x 214.55156pt>
+<./img/vso/clothing-poster.jpg, id=2984, 257.46187pt x 214.55156pt>
 File: ./img/vso/clothing-poster.jpg Graphic file (type jpg)
 
 <use ./img/vso/clothing-poster.jpg>
 Package pdftex.def Info: ./img/vso/clothing-poster.jpg used on input line 197.
 (pdftex.def)             Requested size: 203.83417pt x 169.86708pt.
 
-<./img/vso/magnet-board.jpg, id=3016, 182.93344pt x 127.97812pt>
+<./img/vso/magnet-board.jpg, id=2985, 182.93344pt x 127.97812pt>
 File: ./img/vso/magnet-board.jpg Graphic file (type jpg)
 
 <use ./img/vso/magnet-board.jpg>
 Package pdftex.def Info: ./img/vso/magnet-board.jpg used on input line 214.
 (pdftex.def)             Requested size: 181.18439pt x 126.7612pt.
- [110 <./img/vso/carrier-bag.jpg> <./img/vso/transparent-display.jpg> <./img/vs
+ [109 <./img/vso/carrier-bag.jpg> <./img/vso/transparent-display.jpg> <./img/vs
 o/clothing-poster.jpg> <./img/vso/magnet-board.jpg>]) (./tex/science-outside-cl
 assroom.tex
 Appendix G.
-<./img/source/science-clubs.jpg, id=3021, 258.21469pt x 477.28313pt>
+<./img/source/science-clubs.jpg, id=2991, 258.21469pt x 477.28313pt>
 File: ./img/source/science-clubs.jpg Graphic file (type jpg)
 
 <use ./img/source/science-clubs.jpg>
 Package pdftex.def Info: ./img/source/science-clubs.jpg used on input line 8.
 (pdftex.def)             Requested size: 203.83417pt x 376.78008pt.
 
-<./img/source/organizing-club.jpg, id=3022, 185.19188pt x 294.34969pt>
+<./img/source/organizing-club.jpg, id=2992, 185.19188pt x 294.34969pt>
 File: ./img/source/organizing-club.jpg Graphic file (type jpg)
 
 <use ./img/source/organizing-club.jpg>
@@ -3391,17 +3229,17 @@ Package pdftex.def Info: ./img/source/organizing-club.jpg used on input line 33
 .
 (pdftex.def)             Requested size: 113.24197pt x 179.9932pt.
 
-<./img/source/record-book-alt.jpg, id=3023, 254.45062pt x 206.27063pt>
+<./img/source/record-book-alt.jpg, id=2993, 254.45062pt x 206.27063pt>
 File: ./img/source/record-book-alt.jpg Graphic file (type jpg)
 
 <use ./img/source/record-book-alt.jpg>
 Package pdftex.def Info: ./img/source/record-book-alt.jpg used on input line 77
 .
 (pdftex.def)             Requested size: 203.83417pt x 165.24333pt.
- [111
+ [110
 
  <./img/source/science-clubs.jpg> <./img/source/organizing-club.jpg>]
-<./img/source/notice-board.jpg, id=3028, 279.29344pt x 202.50656pt>
+<./img/source/notice-board.jpg, id=2998, 279.29344pt x 202.50656pt>
 File: ./img/source/notice-board.jpg Graphic file (type jpg)
 
 <use ./img/source/notice-board.jpg>
@@ -3412,30 +3250,30 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 93--94
  [] 
  []
 
-<./img/source/science-news.jpg, id=3029, 249.18094pt x 243.15843pt>
+<./img/source/science-news.jpg, id=2999, 249.18094pt x 243.15843pt>
 File: ./img/source/science-news.jpg Graphic file (type jpg)
 
 <use ./img/source/science-news.jpg>
 Package pdftex.def Info: ./img/source/science-news.jpg used on input line 107.
 (pdftex.def)             Requested size: 203.83417pt x 198.91257pt.
 
-<./img/source/science-kits.jpg, id=3030, 235.63031pt x 237.13594pt>
+<./img/source/science-kits.jpg, id=3000, 235.63031pt x 237.13594pt>
 File: ./img/source/science-kits.jpg Graphic file (type jpg)
 
 <use ./img/source/science-kits.jpg>
 Package pdftex.def Info: ./img/source/science-kits.jpg used on input line 122.
 (pdftex.def)             Requested size: 203.83417pt x 205.13785pt.
 
-<./img/source/collections-research.jpg, id=3031, 249.18094pt x 234.8775pt>
+<./img/source/collections-research.jpg, id=3001, 249.18094pt x 234.8775pt>
 File: ./img/source/collections-research.jpg Graphic file (type jpg)
 
 <use ./img/source/collections-research.jpg>
 Package pdftex.def Info: ./img/source/collections-research.jpg used on input li
 ne 135.
 (pdftex.def)             Requested size: 203.83417pt x 192.13846pt.
- [112 <./img/source/record-book-alt.jpg> <./img/source/notice-board.jpg> <./img
+ [111 <./img/source/record-book-alt.jpg> <./img/source/notice-board.jpg> <./img
 /source/science-news.jpg> <./img/source/science-kits.jpg>]
-<./img/source/extra-practicals.jpg, id=3036, 252.19218pt x 304.13625pt>
+<./img/source/extra-practicals.jpg, id=3006, 252.19218pt x 304.13625pt>
 File: ./img/source/extra-practicals.jpg Graphic file (type jpg)
 
 <use ./img/source/extra-practicals.jpg>
@@ -3443,7 +3281,7 @@ Package pdftex.def Info: ./img/source/extra-practicals.jpg used on input line 1
 49.
 (pdftex.def)             Requested size: 203.83417pt x 245.81996pt.
 
-<./img/source/science-fairs.jpg, id=3037, 227.34938pt x 444.91219pt>
+<./img/source/science-fairs.jpg, id=3007, 227.34938pt x 444.91219pt>
 File: ./img/source/science-fairs.jpg Graphic file (type jpg)
 
 <use ./img/source/science-fairs.jpg>
@@ -3459,7 +3297,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 179.
 
-<./img/source/science-camps.jpg, id=3038, 267.24844pt x 474.27188pt>
+<./img/source/science-camps.jpg, id=3008, 267.24844pt x 474.27188pt>
 File: ./img/source/science-camps.jpg Graphic file (type jpg)
 
 <use ./img/source/science-camps.jpg>
@@ -3471,18 +3309,25 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 182--183
  [] 
  []
 
-[113 <./img/source/collections-research.jpg> <./img/source/extra-practicals.jpg
+[112 <./img/source/collections-research.jpg> <./img/source/extra-practicals.jpg
 > <./img/source/science-fairs.jpg>]
-<./img/source/field-trips.jpg, id=3043, 210.03468pt x 511.9125pt>
+<./img/source/field-trips.jpg, id=3013, 210.03468pt x 511.9125pt>
 File: ./img/source/field-trips.jpg Graphic file (type jpg)
 
 <use ./img/source/field-trips.jpg>
 Package pdftex.def Info: ./img/source/field-trips.jpg used on input line 214.
 (pdftex.def)             Requested size: 203.83417pt x 496.80449pt.
- [114 <./img/source/science-camps.jpg> <./img/source/field-trips.jpg>]) (./tex/
-science-community.tex
+
+
+Package Fancyhdr Warning: \headheight is too small (15.0pt): 
+ Make it at least 22.54448pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[113 <./img/source/science-camps.jpg> <./img/source/field-trips.jpg>])
+(./tex/science-community.tex
 Appendix H.
-<./img/source/science-for-all.jpg, id=3048, 182.18062pt x 308.65312pt>
+<./img/source/science-for-all.jpg, id=3018, 182.18062pt x 308.65312pt>
 File: ./img/source/science-for-all.jpg Graphic file (type jpg)
 
 <use ./img/source/science-for-all.jpg>
@@ -3490,7 +3335,7 @@ Package pdftex.def Info: ./img/source/science-for-all.jpg used on input line 9.
 
 (pdftex.def)             Requested size: 203.83417pt x 345.35004pt.
 
-<./img/source/target-groups.jpg, id=3049, 285.31593pt x 380.17032pt>
+<./img/source/target-groups.jpg, id=3019, 285.31593pt x 380.17032pt>
 File: ./img/source/target-groups.jpg Graphic file (type jpg)
 
 <use ./img/source/target-groups.jpg>
@@ -3506,32 +3351,39 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 67.
 
 
-<./img/source/environmental-awareness.jpg, id=3050, 237.88875pt x 416.30531pt>
+<./img/source/environmental-awareness.jpg, id=3020, 237.88875pt x 416.30531pt>
 File: ./img/source/environmental-awareness.jpg Graphic file (type jpg)
 
 <use ./img/source/environmental-awareness.jpg>
 Package pdftex.def Info: ./img/source/environmental-awareness.jpg used on input
  line 70.
 (pdftex.def)             Requested size: 203.83417pt x 356.72607pt.
- [115
+ [114
 
  <./img/source/science-for-all.jpg> <./img/source/target-groups.jpg>]
-<./img/source/wildlife.jpg, id=3056, 205.5178pt x 407.27156pt>
+<./img/source/wildlife.jpg, id=3025, 205.5178pt x 407.27156pt>
 File: ./img/source/wildlife.jpg Graphic file (type jpg)
 
 <use ./img/source/wildlife.jpg>
 Package pdftex.def Info: ./img/source/wildlife.jpg used on input line 104.
 (pdftex.def)             Requested size: 203.83417pt x 403.93338pt.
 
-<./img/source/science-health.jpg, id=3057, 224.33812pt x 389.20406pt>
+<./img/source/science-health.jpg, id=3026, 224.33812pt x 389.20406pt>
 File: ./img/source/science-health.jpg Graphic file (type jpg)
 
 <use ./img/source/science-health.jpg>
 Package pdftex.def Info: ./img/source/science-health.jpg used on input line 128
 .
 (pdftex.def)             Requested size: 203.83417pt x 353.64175pt.
- [116 <./img/source/environmental-awareness.jpg> <./img/source/wildlife.jpg>]) 
-(./tex/activity-template.tex [117 <./img/source/science-health.jpg>]
+
+
+Package Fancyhdr Warning: \headheight is too small (15.0pt): 
+ Make it at least 22.54448pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[115 <./img/source/environmental-awareness.jpg> <./img/source/wildlife.jpg>])
+(./tex/activity-template.tex [116 <./img/source/science-health.jpg>]
 Appendix I.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -3555,24 +3407,15 @@ Overfull \hbox (9.82341pt too wide) in paragraph at lines 9--47
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
- [118
+ [117
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (./shika-chem.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
-
-
-Package rerunfilecheck Warning: File `shika-chem.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `shika-chem.out':
-(rerunfilecheck)             Before: E86D11106E6566CD41B0EFB8AF02F9EE;32978
-(rerunfilecheck)             After:  E5C90F446D50E1F31AA13A4C7DF0D1EB;32980.
-
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Info: File `shika-chem.out' has not changed.
+(rerunfilecheck)             Checksum: 50B416D3A8254422E01107F08B1C2066;32859.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3580,13 +3423,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 9866 strings out of 493315
- 161686 string characters out of 6141455
- 254237 words of memory out of 5000000
- 12215 multiletter control sequences out of 15000+600000
- 14606 words of font info for 55 fonts, out of 8000000 for 9000
+ 9857 strings out of 493315
+ 161482 string characters out of 6141455
+ 254109 words of memory out of 5000000
+ 12208 multiletter control sequences out of 15000+600000
+ 14905 words of font info for 56 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,15n,61p,1155b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,61p,1155b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2013
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/texlive/2013/texmf-dis
@@ -3601,10 +3444,10 @@ ist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2013/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmsy7.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti10.pfb>
-Output written on shika-chem.pdf (118 pages, 8483700 bytes).
+Output written on shika-chem.pdf (117 pages, 8658076 bytes).
 PDF statistics:
- 3261 PDF objects out of 3580 (max. 8388607)
- 2864 compressed objects within 29 object streams
- 645 named destinations out of 1000 (max. 500000)
- 4879 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3231 PDF objects out of 3580 (max. 8388607)
+ 2836 compressed objects within 29 object streams
+ 644 named destinations out of 1000 (max. 500000)
+ 4866 words of extra memory for PDF output out of 10000 (max. 10000000)
 
