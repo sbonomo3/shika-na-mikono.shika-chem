@@ -1,0 +1,474 @@
+
+\contentsline {part}{Hands-On Activities}{7}{section*.2}
+\contentsline {part}{I\hspace {1em}Hands-On Activities}{7}{part.1}
+\contentsline {chapter}{\numberline {1}Chemistry Activities for Form I}{8}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction to Chemistry}{8}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Chemical Products}{8}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Pollution and Chemistry}{8}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Making an Excursion}{9}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Posters of Chemical Products}{9}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}We Are All Chemists}{9}{subsection.1.1.5}
+\contentsline {section}{\numberline {1.2}Laboratory Techniques and Safety}{10}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Display of Hazardous \hfill \\ Chemicals}{10}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}A Safety Game}{10}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}The Cleanliness Play}{10}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}The Tidiness Play}{10}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Heat Sources and Flames}{11}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Candle Burner}{11}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Kerosene Burner}{11}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Spirit Burner}{11}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Charcoal Burner}{11}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Types of Flames}{11}{subsection.1.3.5}
+\contentsline {section}{\numberline {1.4}The Scientific Procedure}{12}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Acids and Bases}{12}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Mixing Acids and Bases}{13}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Matter}{14}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Air is Matter}{14}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Liquid is Matter}{14}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Students as Matter}{14}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Arranging States of Matter}{15}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}A Model of Motion}{15}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Physical or Chemical?}{15}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}Physical and Chemical \hfill \\ Changes of Metals}{16}{subsection.1.5.7}
+\contentsline {subsection}{\numberline {1.5.8}Element Memory Game}{16}{subsection.1.5.8}
+\contentsline {subsection}{\numberline {1.5.9}Introducing Mixtures}{16}{subsection.1.5.9}
+\contentsline {subsection}{\numberline {1.5.10}Mixtures and Compounds}{17}{subsection.1.5.10}
+\contentsline {subsection}{\numberline {1.5.11}Student Compounds}{17}{subsection.1.5.11}
+\contentsline {subsection}{\numberline {1.5.12}Homogeneous Mixtures}{17}{subsection.1.5.12}
+\contentsline {subsection}{\numberline {1.5.13}Heterogeneous Mixtures}{18}{subsection.1.5.13}
+\contentsline {subsection}{\numberline {1.5.14}Separating Iron and Sulphur}{18}{subsection.1.5.14}
+\contentsline {subsection}{\numberline {1.5.15}Suspensions}{18}{subsection.1.5.15}
+\contentsline {subsection}{\numberline {1.5.16}Emulsions}{18}{subsection.1.5.16}
+\contentsline {subsection}{\numberline {1.5.17}Miscible and Immiscible \hfill \\ Liquids}{19}{subsection.1.5.17}
+\contentsline {subsection}{\numberline {1.5.18}Lava Lamp}{19}{subsection.1.5.18}
+\contentsline {subsection}{\numberline {1.5.19}Moving Colours}{19}{subsection.1.5.19}
+\contentsline {subsection}{\numberline {1.5.20}Decantation}{19}{subsection.1.5.20}
+\contentsline {subsection}{\numberline {1.5.21}Evaporation}{20}{subsection.1.5.21}
+\contentsline {subsection}{\numberline {1.5.22}Distillation}{20}{subsection.1.5.22}
+\contentsline {subsection}{\numberline {1.5.23}Distillation of a Solution}{20}{subsection.1.5.23}
+\contentsline {subsection}{\numberline {1.5.24}Separating Immiscible \hfill \\ Liquids}{20}{subsection.1.5.24}
+\contentsline {subsection}{\numberline {1.5.25}Filtration}{21}{subsection.1.5.25}
+\contentsline {subsection}{\numberline {1.5.26}Chromatography}{21}{subsection.1.5.26}
+\contentsline {section}{\numberline {1.6}Air, Combustion, Rusting and Fire Fighting}{22}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}What is Air?}{22}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Gases in Air}{22}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Requirements for Combustion}{22}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Rising Water}{23}{subsection.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}\mhchem@ce@xiii {\noexpand H\noexpand _\noexpand 2\noexpand O} as a Product of \hfill \\ Combustion}{23}{subsection.1.6.5}
+\contentsline {subsection}{\numberline {1.6.6}\mhchem@ce@xiii {\noexpand C\noexpand O\noexpand _\noexpand 2} as a Product of \hfill \\ Combustion}{23}{subsection.1.6.6}
+\contentsline {subsection}{\numberline {1.6.7}Burning Money}{23}{subsection.1.6.7}
+\contentsline {subsection}{\numberline {1.6.8}Putting Out Fires}{24}{subsection.1.6.8}
+\contentsline {subsection}{\numberline {1.6.9}Making a Fire Extinguisher}{24}{subsection.1.6.9}
+\contentsline {subsection}{\numberline {1.6.10}Conditions for Rusting}{25}{subsection.1.6.10}
+\contentsline {subsection}{\numberline {1.6.11}Rusting of Steel Wool}{25}{subsection.1.6.11}
+\contentsline {subsection}{\numberline {1.6.12}Rusty Nails}{25}{subsection.1.6.12}
+\contentsline {subsection}{\numberline {1.6.13}Preventing Rusting}{25}{subsection.1.6.13}
+\contentsline {chapter}{\numberline {2}Chemistry Activities for Form II}{26}{chapter.2}
+\contentsline {section}{\numberline {2.1}Oxygen}{26}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Using Hydrogen Peroxide}{26}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Using A Yeast Catalyst}{26}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Elephant Toothpaste}{26}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Using Potassium Manganate (VII)}{26}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Burning in Pure Oxygen}{26}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Hydrogen}{27}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Production of Hydrogen}{27}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Hydrogen `Pop'}{27}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Hydrogen Bubbles}{27}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Water}{28}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}The Water Cycle}{28}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Cloud in a Jar}{28}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Test for Water}{28}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Wasted Water}{28}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Water in Daily Life}{29}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}The `SODIS' Method}{29}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Constructing a Water Filter}{29}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}Water Treatment at Home}{29}{subsection.2.3.8}
+\contentsline {section}{\numberline {2.4}Fuels and Energy}{30}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Chemical to Electrical Energy}{30}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Making an Electric Heater}{30}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Water Turbine}{31}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Windmills}{31}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}Atomic Structure}{32}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Dalton's Model}{32}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Atom Model Displays}{32}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Particle Packing}{32}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Student Atoms}{32}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Models of Atoms}{33}{subsection.2.5.5}
+\contentsline {subsection}{\numberline {2.5.6}Size of the Nucleus}{33}{subsection.2.5.6}
+\contentsline {subsection}{\numberline {2.5.7}Atoms on the Ground}{33}{subsection.2.5.7}
+\contentsline {subsection}{\numberline {2.5.8}Dormitory Model}{34}{subsection.2.5.8}
+\contentsline {subsection}{\numberline {2.5.9}Shelf Model}{34}{subsection.2.5.9}
+\contentsline {subsection}{\numberline {2.5.10}Isotope Models}{34}{subsection.2.5.10}
+\contentsline {section}{\numberline {2.6}Periodic Classification}{35}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Arranging Shapes}{35}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Bottle Cap Periodic Table}{35}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Periodic Table Game}{36}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Periodic Table Guess Who?}{36}{subsection.2.6.4}
+\contentsline {section}{\numberline {2.7}Bonding, Formula and Nomenclature}{37}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Student Ions}{37}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Ionic Formula Templates}{37}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}Valencies Ruler}{38}{subsection.2.7.3}
+\contentsline {subsection}{\numberline {2.7.4}Covalent Bonds}{38}{subsection.2.7.4}
+\contentsline {subsection}{\numberline {2.7.5}Student Bonding}{38}{subsection.2.7.5}
+\contentsline {subsection}{\numberline {2.7.6}Molecule Models}{39}{subsection.2.7.6}
+\contentsline {subsection}{\numberline {2.7.7}3-D Models}{39}{subsection.2.7.7}
+\contentsline {subsection}{\numberline {2.7.8}Additional Model Ideas}{40}{subsection.2.7.8}
+\contentsline {subsection}{\numberline {2.7.9}Model Box}{40}{subsection.2.7.9}
+\contentsline {chapter}{\numberline {3}Chemistry Activities for Form III}{41}{chapter.3}
+\contentsline {section}{\numberline {3.1}Chemical Equations}{41}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Balancing Reactions}{41}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Combination Reactions}{41}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Precipitation Reactions}{41}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Decomposition Reactions}{41}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Hardness of Water}{42}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Is the Water Pure?}{42}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Temporary and Permanent Hardness}{42}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Removing Hardness}{43}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Effect of Soda on Hard Water}{43}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Acids, Bases and Salts}{44}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Acids in Daily Life}{44}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Bases in Daily Life}{44}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Acids React with Metals}{44}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Acids React with Carbonates}{44}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}\textbf {CO}$_\textbf {2}$ Balloon}{45}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Making a Volcano}{45}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}The pH Scale Line}{45}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Making Indicators}{45}{subsection.3.3.8}
+\contentsline {subsection}{\numberline {3.3.9}Testing for pH}{45}{subsection.3.3.9}
+\contentsline {subsection}{\numberline {3.3.10}Exchanging Fluids}{46}{subsection.3.3.10}
+\contentsline {subsection}{\numberline {3.3.11}Neutralisation Reactions}{47}{subsection.3.3.11}
+\contentsline {subsection}{\numberline {3.3.12}Ant Acid}{47}{subsection.3.3.12}
+\contentsline {subsection}{\numberline {3.3.13}Neutralisation in Daily Life}{47}{subsection.3.3.13}
+\contentsline {subsection}{\numberline {3.3.14}Preparation of Salts}{47}{subsection.3.3.14}
+\contentsline {subsection}{\numberline {3.3.15}Solubility of Salts}{47}{subsection.3.3.15}
+\contentsline {section}{\numberline {3.4}The Mole Concept and Related Calculations}{48}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Mole as a Number of Particles}{48}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Avogadro's Number}{48}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Introducing Particle Masses}{48}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Understanding Atomic Mass}{49}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Molar Volume of Gases}{49}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Molar Volume of Solids and Liquids}{49}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.7}Avogadro's Law}{50}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {3.4.8}Salt Dilution}{50}{subsection.3.4.8}
+\contentsline {section}{\numberline {3.5}Ionic Theory and Electrolysis}{51}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Displacement of Copper}{51}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Reactivity Rates Analogies}{51}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Reactivity Series of Metals}{51}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Electrolytes}{52}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {3.5.5}Electrodes}{52}{subsection.3.5.5}
+\contentsline {subsection}{\numberline {3.5.6}Electrolysis Setups}{52}{subsection.3.5.6}
+\contentsline {subsection}{\numberline {3.5.7}Electrolytes in Food}{53}{subsection.3.5.7}
+\contentsline {subsection}{\numberline {3.5.8}Electrochemical Series}{53}{subsection.3.5.8}
+\contentsline {subsection}{\numberline {3.5.9}Electrolysis of Water}{53}{subsection.3.5.9}
+\contentsline {subsection}{\numberline {3.5.10}Indicator Electrolysis}{54}{subsection.3.5.10}
+\contentsline {subsection}{\numberline {3.5.11}Electroplating}{54}{subsection.3.5.11}
+\contentsline {section}{\numberline {3.6}Chemical Kinetics, Equilibrium and Energetics}{55}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Effect of Temperature on \hfill \\ Reaction Rate}{55}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Effect of Concentration on \hfill \\ Reaction Rate}{55}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Effect of Surface Area on \hfill \\ Reaction Rate}{55}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Effect of a Catalyst on \hfill \\ Reaction Rate}{55}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.5}Organic and Inorganic \hfill \\ Catalysts}{56}{subsection.3.6.5}
+\contentsline {subsection}{\numberline {3.6.6}Reversible Chemical Reaction}{56}{subsection.3.6.6}
+\contentsline {subsection}{\numberline {3.6.7}Temperature Bottles}{56}{subsection.3.6.7}
+\contentsline {section}{\numberline {3.7}Extraction of Metals}{57}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Ductility}{57}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Malleability}{57}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Conductivity}{57}{subsection.3.7.3}
+\contentsline {section}{\numberline {3.8}Compounds of Metals}{58}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Direct Preparation of a Metal Oxide}{58}{subsection.3.8.1}
+\contentsline {subsection}{\numberline {3.8.2}Indirect Preparation of a \hfill \\ Metal Oxide}{58}{subsection.3.8.2}
+\contentsline {subsection}{\numberline {3.8.3}Preparation of Metal \hfill \\ Hydroxides}{58}{subsection.3.8.3}
+\contentsline {subsection}{\numberline {3.8.4}Preparation of Copper \hfill \\ Carbonate}{59}{subsection.3.8.4}
+\contentsline {subsection}{\numberline {3.8.5}Preparation of Calcium \hfill \\ Carbonate}{59}{subsection.3.8.5}
+\contentsline {subsection}{\numberline {3.8.6}Preparation of Zinc Sulphate}{59}{subsection.3.8.6}
+\contentsline {chapter}{\numberline {4}Chemistry Activities for Form IV}{60}{chapter.4}
+\contentsline {section}{\numberline {4.1}Non-Metals and Their Compounds}{60}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Preparation of Chlorine Gas}{60}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Model of Sulphur $S_8$}{60}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Monoclinic and Rhombic \hfill \\ Sulphur}{61}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Reaction of Sulphur with \hfill \\ Metals}{61}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Production of Sulphur Dioxide Gas}{61}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Sulphuric Acid}{62}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Bleaching Effects of Sulphur Dioxide}{62}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Sources of Nitrogen}{62}{subsection.4.1.8}
+\contentsline {subsection}{\numberline {4.1.9}Preparation of Nitrogen Gas}{63}{subsection.4.1.9}
+\contentsline {subsection}{\numberline {4.1.10}Nitrogen Oxides from \hfill \\ Lightning}{63}{subsection.4.1.10}
+\contentsline {subsection}{\numberline {4.1.11}Nitrogen Circulation}{64}{subsection.4.1.11}
+\contentsline {subsection}{\numberline {4.1.12}Preparation of Ammonia Gas}{64}{subsection.4.1.12}
+\contentsline {subsection}{\numberline {4.1.13}Production of Carbon \hfill \\ Dioxide Gas}{65}{subsection.4.1.13}
+\contentsline {subsection}{\numberline {4.1.14}\textbf {CO}$_\textbf {2}$ Balloon}{65}{subsection.4.1.14}
+\contentsline {subsection}{\numberline {4.1.15}Test for Carbon Dioxide}{65}{subsection.4.1.15}
+\contentsline {subsection}{\numberline {4.1.16}\textbf {CO}$_\textbf {2}$ in Soda}{65}{subsection.4.1.16}
+\contentsline {section}{\numberline {4.2}Organic Chemistry}{66}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Showing the Presence of \hfill \\ Carbon in Sugar}{66}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Converting Soaps into Lipids or Fats}{66}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Cracking Household Oil}{66}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Petroleum Products}{67}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Preparation of Soap}{67}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Acting Out Polymerisation}{67}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Organic Chemistry Naming \hfill \\ Game}{68}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Alkanes}{68}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Parent Chains}{69}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Candles as Hydrocarbons}{69}{subsection.4.2.10}
+\contentsline {subsection}{\numberline {4.2.11}Preparation of Ethanol by Fermentation of Sugar}{69}{subsection.4.2.11}
+\contentsline {subsection}{\numberline {4.2.12}Reaction of Ethanol with Oxygen}{70}{subsection.4.2.12}
+\contentsline {subsection}{\numberline {4.2.13}Reaction of Alcohol and Carboxylic Acid}{70}{subsection.4.2.13}
+\contentsline {section}{\numberline {4.3}Soil Chemistry}{71}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Soil Formation}{71}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Cement Making and Erosion}{71}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Leaching}{71}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Measuring Soil pH}{72}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Raising Soil pH by Liming}{72}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Lowering Soil pH with Ammonium Sulphate}{72}{subsection.4.3.6}
+\contentsline {section}{\numberline {4.4}Pollution}{73}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Pollution and Chemistry}{73}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Trash Journal}{73}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Biodegradable Waste}{73}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Planting Trees}{73}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Water Purity Surveys}{74}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Acid Rain}{74}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Smog}{74}{subsection.4.4.7}
+\contentsline {subsection}{\numberline {4.4.8}Greenhouse Bucket}{74}{subsection.4.4.8}
+\contentsline {part}{Appendix}{75}{section*.3}
+\save@tocdepth \setcounter {tocdepth}{0}
+\contentsline {part}{II\hspace {1em}Materials and Equipment}{75}{part.2}
+\contentsline {chapter}{\numberline {A}Local Materials List}{76}{appendix.A}
+\contentsline {section}{\numberline {A.1}Balance}{77}{section.A.1}
+\contentsline {section}{\numberline {A.2}Beakers}{77}{section.A.2}
+\contentsline {section}{\numberline {A.3}Blowpipe}{77}{section.A.3}
+\contentsline {section}{\numberline {A.4}Bulbs}{78}{section.A.4}
+\contentsline {section}{\numberline {A.5}Bunsen Burner}{78}{section.A.5}
+\contentsline {section}{\numberline {A.6}Burettes}{78}{section.A.6}
+\contentsline {subsection}{\numberline {A.6.1}Version 1}{78}{subsection.A.6.1}
+\contentsline {subsection}{\numberline {A.6.2}Version 2}{78}{subsection.A.6.2}
+\contentsline {section}{\numberline {A.7}Containers}{78}{section.A.7}
+\contentsline {section}{\numberline {A.8}Crucible}{78}{section.A.8}
+\contentsline {section}{\numberline {A.9}Deflagrating Spoon}{78}{section.A.9}
+\contentsline {section}{\numberline {A.10}Delivery Tube}{79}{section.A.10}
+\contentsline {section}{\numberline {A.11}Droppers}{79}{section.A.11}
+\contentsline {section}{\numberline {A.12}Electrodes}{79}{section.A.12}
+\contentsline {subsection}{\numberline {A.12.1}Graphite}{79}{subsection.A.12.1}
+\contentsline {subsection}{\numberline {A.12.2}Zinc}{79}{subsection.A.12.2}
+\contentsline {subsection}{\numberline {A.12.3}Iron}{79}{subsection.A.12.3}
+\contentsline {subsection}{\numberline {A.12.4}Copper}{79}{subsection.A.12.4}
+\contentsline {section}{\numberline {A.13}Electrode Holders}{79}{section.A.13}
+\contentsline {section}{\numberline {A.14}Filter Paper}{80}{section.A.14}
+\contentsline {section}{\numberline {A.15}Flasks}{80}{section.A.15}
+\contentsline {section}{\numberline {A.16}Funnel}{80}{section.A.16}
+\contentsline {section}{\numberline {A.17}Gloves}{80}{section.A.17}
+\contentsline {subsection}{\numberline {A.17.1}Latex gloves}{80}{subsection.A.17.1}
+\contentsline {subsection}{\numberline {A.17.2}Thick gloves}{80}{subsection.A.17.2}
+\contentsline {section}{\numberline {A.18}Goggles}{80}{section.A.18}
+\contentsline {section}{\numberline {A.19}Heat Source}{81}{section.A.19}
+\contentsline {subsection}{\numberline {A.19.1}Heating Solutions}{81}{subsection.A.19.1}
+\contentsline {subsection}{\numberline {A.19.2}Heating Solids}{81}{subsection.A.19.2}
+\contentsline {subsection}{\numberline {A.19.3}Flame Tests}{81}{subsection.A.19.3}
+\contentsline {section}{\numberline {A.20}Indicator}{81}{section.A.20}
+\contentsline {section}{\numberline {A.21}Iron Filings}{81}{section.A.21}
+\contentsline {section}{\numberline {A.22}Masses}{81}{section.A.22}
+\contentsline {section}{\numberline {A.23}Measuring Cylinder}{82}{section.A.23}
+\contentsline {section}{\numberline {A.24}Metre Rule}{82}{section.A.24}
+\contentsline {section}{\numberline {A.25}Microscope}{82}{section.A.25}
+\contentsline {section}{\numberline {A.26}Mortar and Pestle}{82}{section.A.26}
+\contentsline {section}{\numberline {A.27}Nichrome Wire}{82}{section.A.27}
+\contentsline {section}{\numberline {A.28}Optical Pins}{82}{section.A.28}
+\contentsline {section}{\numberline {A.29}Pipettes}{82}{section.A.29}
+\contentsline {section}{\numberline {A.30}Retort Stand}{82}{section.A.30}
+\contentsline {section}{\numberline {A.31}Scale Pans}{82}{section.A.31}
+\contentsline {section}{\numberline {A.32}Scalpels}{83}{section.A.32}
+\contentsline {section}{\numberline {A.33}Slides and Cover Slips}{83}{section.A.33}
+\contentsline {section}{\numberline {A.34}Spatula}{83}{section.A.34}
+\contentsline {section}{\numberline {A.35}Stoppers}{83}{section.A.35}
+\contentsline {section}{\numberline {A.36}Stopwatches}{83}{section.A.36}
+\contentsline {section}{\numberline {A.37}Test Tubes}{84}{section.A.37}
+\contentsline {subsection}{\numberline {A.37.1}Plastic Test Tubes}{84}{subsection.A.37.1}
+\contentsline {subsection}{\numberline {A.37.2}For Thermal Decomposition}{84}{subsection.A.37.2}
+\contentsline {section}{\numberline {A.38}Test Tube Brush}{84}{section.A.38}
+\contentsline {section}{\numberline {A.39}Test Tube Holder / Tongs}{84}{section.A.39}
+\contentsline {section}{\numberline {A.40}Test Tube Racks}{84}{section.A.40}
+\contentsline {section}{\numberline {A.41}Tripod Stands}{84}{section.A.41}
+\contentsline {section}{\numberline {A.42}Volumetric ``Glass''ware}{85}{section.A.42}
+\contentsline {section}{\numberline {A.43}Wash Bottle}{85}{section.A.43}
+\contentsline {section}{\numberline {A.44}Water Bath}{85}{section.A.44}
+\contentsline {section}{\numberline {A.45}Weights}{85}{section.A.45}
+\contentsline {subsection}{\numberline {A.45.1}Crude Weights}{85}{subsection.A.45.1}
+\contentsline {subsection}{\numberline {A.45.2}Adding Weight in Known Intervals}{85}{subsection.A.45.2}
+\contentsline {subsection}{\numberline {A.45.3}Precise Weights}{85}{subsection.A.45.3}
+\contentsline {section}{\numberline {A.46}White Tiles}{85}{section.A.46}
+\contentsline {section}{\numberline {A.47}Wire}{85}{section.A.47}
+\contentsline {subsection}{\numberline {A.47.1}Connecting Wires}{85}{subsection.A.47.1}
+\contentsline {section}{\numberline {A.48}Wire Gauze}{85}{section.A.48}
+\contentsline {chapter}{\numberline {B}Low Tech Microscopy}{86}{appendix.B}
+\contentsline {section}{\numberline {B.1}Water as a lens}{86}{section.B.1}
+\contentsline {section}{\numberline {B.2}Perfect circles}{86}{section.B.2}
+\contentsline {section}{\numberline {B.3}Slides}{86}{section.B.3}
+\contentsline {section}{\numberline {B.4}Backlighting}{86}{section.B.4}
+\contentsline {section}{\numberline {B.5}Simple Microscopes and Magnifiers}{87}{section.B.5}
+\contentsline {subsection}{\numberline {B.5.1}Clear-Container Magnifiers}{87}{subsection.B.5.1}
+\contentsline {subsection}{\numberline {B.5.2}Simple Microscope}{87}{subsection.B.5.2}
+\contentsline {subsection}{\numberline {B.5.3}Simple Compound Microscope}{87}{subsection.B.5.3}
+\contentsline {subsection}{\numberline {B.5.4}Card Bridge Microscope}{87}{subsection.B.5.4}
+\contentsline {chapter}{\numberline {C}Storage of Materials}{88}{appendix.C}
+\contentsline {section}{\numberline {C.1}The Science Box}{88}{section.C.1}
+\contentsline {section}{\numberline {C.2}Card and Picture Boxes}{88}{section.C.2}
+\contentsline {section}{\numberline {C.3}Matchbox Drawers}{88}{section.C.3}
+\contentsline {section}{\numberline {C.4}Dividing Boxes}{88}{section.C.4}
+\contentsline {section}{\numberline {C.5}Envelopes and Bags}{88}{section.C.5}
+\contentsline {chapter}{\numberline {D}Pastes and Modeling Materials}{89}{appendix.D}
+\contentsline {section}{\numberline {D.1}Papier M\^{a}ch\'{e}}{89}{section.D.1}
+\contentsline {section}{\numberline {D.2}Papier M\^{a}ch\'{e} Layering}{89}{section.D.2}
+\contentsline {section}{\numberline {D.3}Modeling Clay}{89}{section.D.3}
+\contentsline {section}{\numberline {D.4}Paste and Sand Cement}{89}{section.D.4}
+\contentsline {section}{\numberline {D.5}Flour Paste}{90}{section.D.5}
+\contentsline {section}{\numberline {D.6}Casein Glue}{90}{section.D.6}
+\contentsline {chapter}{\numberline {E}Sources of Chemicals}{91}{appendix.E}
+\contentsline {section}{\numberline {E.1}2-methylpropanol}{91}{section.E.1}
+\contentsline {section}{\numberline {E.2}Acetaldehyde}{91}{section.E.2}
+\contentsline {section}{\numberline {E.3}Acetic acid}{91}{section.E.3}
+\contentsline {section}{\numberline {E.4}Acetone}{91}{section.E.4}
+\contentsline {section}{\numberline {E.5}Alum}{91}{section.E.5}
+\contentsline {section}{\numberline {E.6}Ammonia solution}{91}{section.E.6}
+\contentsline {section}{\numberline {E.7}Ammonium dichromate}{91}{section.E.7}
+\contentsline {section}{\numberline {E.8}Ammonium hydroxide solution}{91}{section.E.8}
+\contentsline {section}{\numberline {E.9}Ammonium carbonate, chloride, and nitrate}{91}{section.E.9}
+\contentsline {section}{\numberline {E.10}Ammonium sulphate}{91}{section.E.10}
+\contentsline {section}{\numberline {E.11}Ammonium thiocyanate}{92}{section.E.11}
+\contentsline {section}{\numberline {E.12}Ascorbic acid}{92}{section.E.12}
+\contentsline {section}{\numberline {E.13}Barium chloride and barium nitrate}{92}{section.E.13}
+\contentsline {section}{\numberline {E.14}Boric acid}{92}{section.E.14}
+\contentsline {section}{\numberline {E.15}Benedict's solution}{92}{section.E.15}
+\contentsline {section}{\numberline {E.16}Benzene}{92}{section.E.16}
+\contentsline {section}{\numberline {E.17}Butane}{92}{section.E.17}
+\contentsline {section}{\numberline {E.18}Calcium ammonium nitrate}{92}{section.E.18}
+\contentsline {section}{\numberline {E.19}Calcium carbonate}{92}{section.E.19}
+\contentsline {section}{\numberline {E.20}Calcium chloride and calcium nitrate}{93}{section.E.20}
+\contentsline {section}{\numberline {E.21}Calcium hydroxide}{93}{section.E.21}
+\contentsline {section}{\numberline {E.22}Calcium oxide}{93}{section.E.22}
+\contentsline {section}{\numberline {E.23}Calcium sulfate}{93}{section.E.23}
+\contentsline {section}{\numberline {E.24}Carbon (amorphous)}{93}{section.E.24}
+\contentsline {section}{\numberline {E.25}Carbon (graphite)}{93}{section.E.25}
+\contentsline {section}{\numberline {E.26}Carbon dioxide}{93}{section.E.26}
+\contentsline {section}{\numberline {E.27}Carbon tetrachloride}{93}{section.E.27}
+\contentsline {section}{\numberline {E.28}Chloroform}{93}{section.E.28}
+\contentsline {section}{\numberline {E.29}Citric acid}{93}{section.E.29}
+\contentsline {section}{\numberline {E.30}Cobalt chloride}{93}{section.E.30}
+\contentsline {section}{\numberline {E.31}Copper}{93}{section.E.31}
+\contentsline {section}{\numberline {E.32}Copper carbonate}{93}{section.E.32}
+\contentsline {section}{\numberline {E.33}Copper chloride and copper nitrate}{94}{section.E.33}
+\contentsline {section}{\numberline {E.34}Copper oxygen chloride}{94}{section.E.34}
+\contentsline {section}{\numberline {E.35}Copper sulfate}{94}{section.E.35}
+\contentsline {section}{\numberline {E.36}Dichloromethane}{94}{section.E.36}
+\contentsline {section}{\numberline {E.37}Diethyl ether}{94}{section.E.37}
+\contentsline {section}{\numberline {E.38}Distilled water}{94}{section.E.38}
+\contentsline {section}{\numberline {E.39}Ethanal}{94}{section.E.39}
+\contentsline {section}{\numberline {E.40}Ethandioic acid}{95}{section.E.40}
+\contentsline {section}{\numberline {E.41}Ethanoic acid}{95}{section.E.41}
+\contentsline {section}{\numberline {E.42}Ethanol}{95}{section.E.42}
+\contentsline {section}{\numberline {E.43}Ethyl acetate}{95}{section.E.43}
+\contentsline {section}{\numberline {E.44}Ethyl ethanoate}{95}{section.E.44}
+\contentsline {section}{\numberline {E.45}Gelatin}{95}{section.E.45}
+\contentsline {section}{\numberline {E.46}Glucose}{95}{section.E.46}
+\contentsline {section}{\numberline {E.47}Gold}{96}{section.E.47}
+\contentsline {section}{\numberline {E.48}Graphite}{96}{section.E.48}
+\contentsline {section}{\numberline {E.49}Hydrochloric acid}{96}{section.E.49}
+\contentsline {section}{\numberline {E.50}Hydrogen}{96}{section.E.50}
+\contentsline {section}{\numberline {E.51}Hydrogen peroxide}{96}{section.E.51}
+\contentsline {section}{\numberline {E.52}Hydrogen sulfide}{96}{section.E.52}
+\contentsline {section}{\numberline {E.53}Indicator}{96}{section.E.53}
+\contentsline {section}{\numberline {E.54}Iodine}{96}{section.E.54}
+\contentsline {section}{\numberline {E.55}Iodine solution}{97}{section.E.55}
+\contentsline {section}{\numberline {E.56}Iron}{97}{section.E.56}
+\contentsline {section}{\numberline {E.57}Iron sulfate}{97}{section.E.57}
+\contentsline {section}{\numberline {E.58}Iron sulfide}{97}{section.E.58}
+\contentsline {section}{\numberline {E.59}Isobutanol}{97}{section.E.59}
+\contentsline {section}{\numberline {E.60}Lead}{97}{section.E.60}
+\contentsline {section}{\numberline {E.61}Lead nitrate}{97}{section.E.61}
+\contentsline {section}{\numberline {E.62}Lead shot}{98}{section.E.62}
+\contentsline {section}{\numberline {E.63}Lithium ions}{98}{section.E.63}
+\contentsline {section}{\numberline {E.64}Magnesium carbonate}{98}{section.E.64}
+\contentsline {section}{\numberline {E.65}Magnesium sulfate}{98}{section.E.65}
+\contentsline {section}{\numberline {E.66}Manganese (IV) oxide}{98}{section.E.66}
+\contentsline {section}{\numberline {E.67}Methane}{98}{section.E.67}
+\contentsline {section}{\numberline {E.68}Millon's reagent}{98}{section.E.68}
+\contentsline {section}{\numberline {E.69}Naphthalene}{99}{section.E.69}
+\contentsline {section}{\numberline {E.70}Nestler's reagent}{99}{section.E.70}
+\contentsline {section}{\numberline {E.71}Nitric acid}{99}{section.E.71}
+\contentsline {section}{\numberline {E.72}Organic solvents}{99}{section.E.72}
+\contentsline {section}{\numberline {E.73}Oxygen}{99}{section.E.73}
+\contentsline {section}{\numberline {E.74}Phosphorus}{99}{section.E.74}
+\contentsline {section}{\numberline {E.75}Potassium aluminum sulfate}{99}{section.E.75}
+\contentsline {section}{\numberline {E.76}Potassium carbonate}{99}{section.E.76}
+\contentsline {section}{\numberline {E.77}Potassium chromate}{99}{section.E.77}
+\contentsline {section}{\numberline {E.78}Potassium dichromate}{100}{section.E.78}
+\contentsline {section}{\numberline {E.79}Potassium hexacyanoferrate (II)}{100}{section.E.79}
+\contentsline {section}{\numberline {E.80}Potassium hexacyanoferrate (III)}{100}{section.E.80}
+\contentsline {section}{\numberline {E.81}Potassium hydroxide}{100}{section.E.81}
+\contentsline {section}{\numberline {E.82}Potassium iodide}{100}{section.E.82}
+\contentsline {section}{\numberline {E.83}Potassium manganate (VII)}{100}{section.E.83}
+\contentsline {section}{\numberline {E.84}Potassium thiocyanate}{101}{section.E.84}
+\contentsline {section}{\numberline {E.85}Propanone}{101}{section.E.85}
+\contentsline {section}{\numberline {E.86}Silicon}{101}{section.E.86}
+\contentsline {section}{\numberline {E.87}Silicon dioxide}{101}{section.E.87}
+\contentsline {section}{\numberline {E.88}Silver nitrate}{101}{section.E.88}
+\contentsline {section}{\numberline {E.89}Sodium}{101}{section.E.89}
+\contentsline {section}{\numberline {E.90}Sodium acetate}{101}{section.E.90}
+\contentsline {section}{\numberline {E.91}Sodium carbonate}{101}{section.E.91}
+\contentsline {section}{\numberline {E.92}Sodium chloride}{101}{section.E.92}
+\contentsline {section}{\numberline {E.93}Sodium citrate}{101}{section.E.93}
+\contentsline {section}{\numberline {E.94}Sodium ethanoate}{102}{section.E.94}
+\contentsline {section}{\numberline {E.95}Sodium hydrogen carbonate}{102}{section.E.95}
+\contentsline {section}{\numberline {E.96}Sodium hydroxide}{102}{section.E.96}
+\contentsline {section}{\numberline {E.97}Sodium hypochlorite solution}{102}{section.E.97}
+\contentsline {section}{\numberline {E.98}Sodium nitrate}{102}{section.E.98}
+\contentsline {section}{\numberline {E.99}Sodium oxalate}{102}{section.E.99}
+\contentsline {section}{\numberline {E.100}Sodium sulfate}{102}{section.E.100}
+\contentsline {section}{\numberline {E.101}Sodium thiosulfate}{103}{section.E.101}
+\contentsline {section}{\numberline {E.102}Succinic acid}{103}{section.E.102}
+\contentsline {section}{\numberline {E.103}Sucrose}{103}{section.E.103}
+\contentsline {section}{\numberline {E.104}Sudan III solution}{103}{section.E.104}
+\contentsline {section}{\numberline {E.105}Sulfur}{103}{section.E.105}
+\contentsline {section}{\numberline {E.106}Sulfuric acid}{103}{section.E.106}
+\contentsline {section}{\numberline {E.107}Starch}{103}{section.E.107}
+\contentsline {section}{\numberline {E.108}Starch solution}{103}{section.E.108}
+\contentsline {section}{\numberline {E.109}Tetrachloromethane}{103}{section.E.109}
+\contentsline {section}{\numberline {E.110}Trichloromethane}{104}{section.E.110}
+\contentsline {section}{\numberline {E.111}Tungsten}{104}{section.E.111}
+\contentsline {section}{\numberline {E.112}Zinc}{104}{section.E.112}
+\contentsline {section}{\numberline {E.113}Zinc carbonate}{104}{section.E.113}
+\contentsline {section}{\numberline {E.114}Zinc chloride and zinc nitrate}{104}{section.E.114}
+\contentsline {section}{\numberline {E.115}Zinc sulfate}{104}{section.E.115}
+\contentsline {part}{III\hspace {1em}Interactive Learning}{105}{part.3}
+\contentsline {chapter}{\numberline {F}Visual Aids and Displays}{106}{appendix.F}
+\contentsline {section}{\numberline {F.1}Science Corner}{106}{section.F.1}
+\contentsline {section}{\numberline {F.2}Cardboard Box Displays}{107}{section.F.2}
+\contentsline {subsection}{\numberline {F.2.1}Zigzag Multiboards}{107}{subsection.F.2.1}
+\contentsline {subsection}{\numberline {F.2.2}Portability}{107}{subsection.F.2.2}
+\contentsline {section}{\numberline {F.3}Hanging Displays}{107}{section.F.3}
+\contentsline {subsection}{\numberline {F.3.1}Display Beams and Hooks}{107}{subsection.F.3.1}
+\contentsline {subsection}{\numberline {F.3.2}Display Charts}{108}{subsection.F.3.2}
+\contentsline {subsection}{\numberline {F.3.3}String Display Lines}{108}{subsection.F.3.3}
+\contentsline {subsection}{\numberline {F.3.4}Carrier Bag Display}{109}{subsection.F.3.4}
+\contentsline {section}{\numberline {F.4}Transparent Flip-Sheets}{109}{section.F.4}
+\contentsline {section}{\numberline {F.5}Clothing Posters}{109}{section.F.5}
+\contentsline {section}{\numberline {F.6}Magnet Boards}{109}{section.F.6}
+\contentsline {chapter}{\numberline {G}Science Outside the Classroom}{110}{appendix.G}
+\contentsline {section}{\numberline {G.1}Science Clubs}{110}{section.G.1}
+\contentsline {subsection}{\numberline {G.1.1}Organizing a Club}{110}{subsection.G.1.1}
+\contentsline {subsection}{\numberline {G.1.2}Activities Record Book}{111}{subsection.G.1.2}
+\contentsline {subsection}{\numberline {G.1.3}Science Notice Board}{111}{subsection.G.1.3}
+\contentsline {subsection}{\numberline {G.1.4}Science in the News Book}{111}{subsection.G.1.4}
+\contentsline {subsection}{\numberline {G.1.5}Personal Science Kits}{111}{subsection.G.1.5}
+\contentsline {subsection}{\numberline {G.1.6}Collections and Research}{112}{subsection.G.1.6}
+\contentsline {subsection}{\numberline {G.1.7}Additional Practicals}{112}{subsection.G.1.7}
+\contentsline {section}{\numberline {G.2}Science Fairs}{112}{section.G.2}
+\contentsline {section}{\numberline {G.3}Science Competitions}{112}{section.G.3}
+\contentsline {section}{\numberline {G.4}Science Conferences \hfill \\ and Camps}{113}{section.G.4}
+\contentsline {section}{\numberline {G.5}Field Trips}{113}{section.G.5}
+\contentsline {chapter}{\numberline {H}Science in the Community}{114}{appendix.H}
+\contentsline {section}{\numberline {H.1}Science for All}{114}{section.H.1}
+\contentsline {section}{\numberline {H.2}Science Target Groups}{114}{section.H.2}
+\contentsline {section}{\numberline {H.3}Environmental \hfill \\ Awareness}{115}{section.H.3}
+\contentsline {section}{\numberline {H.4}Wildlife Conservation}{115}{section.H.4}
+\contentsline {section}{\numberline {H.5}Science and Health}{116}{section.H.5}
+\contentsline {chapter}{\numberline {I}Activity Template}{117}{appendix.I}
+\contentsline {chapter}{Index}{118}{section*.4}
