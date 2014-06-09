@@ -3574,15 +3574,22 @@ Overfull \hbox (9.82341pt too wide) in paragraph at lines 9--47
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
- (./shika-chem.aux)
+and I'll forget about whatever was undefined.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+(./shika-chem.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
-Package rerunfilecheck Info: File `shika-chem.out' has not changed.
+
 (rerunfilecheck)             Checksum: 67BD28395D24D4626BB35D9B7301E579;33021.
 
 
 LaTeX Warning: There were undefined references.
 
+Package rerunfilecheck Info: Checksums for `shika-chem.out':
+(rerunfilecheck)             Before: 50B416D3A8254422E01107F08B1C2066;32859
+(rerunfilecheck)             After:  0F57C3530453F14DD87A4A9A72A63E58;32909.
 
 LaTeX Warning: There were multiply-defined labels.
 
