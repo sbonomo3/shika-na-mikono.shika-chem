@@ -231,7 +231,7 @@
 \contentsline {subsection}{\numberline {4.4.8}Greenhouse Bucket}{74}{subsection.4.4.8}
 \contentsline {part}{Appendix}{75}{section*.3}
 \save@tocdepth \setcounter {tocdepth}{0}
-\contentsline {part}{II\hspace {1em}Materials and Equipment}{75}{part.2}
+\contentsline {part}{Materials and Equipment}{75}{section*.4}
 \contentsline {chapter}{\numberline {A}Local Materials List}{76}{appendix.A}
 \contentsline {section}{\numberline {A.1}Balance}{77}{section.A.1}
 \contentsline {section}{\numberline {A.2}Beakers}{77}{section.A.2}
