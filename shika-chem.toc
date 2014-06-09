@@ -1,4 +1,5 @@
 
+\contentsline {part}{Hands-On Activities}{7}{section*.2}
 \contentsline {part}{I\hspace {1em}Hands-On Activities}{7}{part.1}
 \contentsline {chapter}{\numberline {1}Chemistry Activities for Form I}{8}{chapter.1}
 \contentsline {section}{\numberline {1.1}Introduction to Chemistry}{8}{section.1.1}
@@ -228,9 +229,9 @@
 \contentsline {subsection}{\numberline {4.4.6}Acid Rain}{74}{subsection.4.4.6}
 \contentsline {subsection}{\numberline {4.4.7}Smog}{74}{subsection.4.4.7}
 \contentsline {subsection}{\numberline {4.4.8}Greenhouse Bucket}{74}{subsection.4.4.8}
-\contentsline {part}{Appendix}{75}{section*.2}
+\contentsline {part}{Appendix}{75}{section*.3}
 \save@tocdepth \setcounter {tocdepth}{0}
-\contentsline {part}{Materials and Equipment}{75}{section*.3}
+\contentsline {part}{Materials and Equipment}{75}{section*.4}
 \contentsline {chapter}{\numberline {A}Local Materials List}{76}{appendix.A}
 \contentsline {section}{\numberline {A.1}Balance}{77}{section.A.1}
 \contentsline {section}{\numberline {A.2}Beakers}{77}{section.A.2}
@@ -302,10 +303,10 @@
 \contentsline {section}{\numberline {B.2}Perfect circles}{86}{section.B.2}
 \contentsline {section}{\numberline {B.3}Slides}{86}{section.B.3}
 \contentsline {section}{\numberline {B.4}Backlighting}{86}{section.B.4}
-\contentsline {section}{\numberline {B.5}Simple Microscopes and \hfill \\ Magnifiers}{87}{section.B.5}
+\contentsline {section}{\numberline {B.5}Simple Microscopes and Magnifiers}{87}{section.B.5}
 \contentsline {subsection}{\numberline {B.5.1}Clear-Container Magnifiers}{87}{subsection.B.5.1}
 \contentsline {subsection}{\numberline {B.5.2}Simple Microscope}{87}{subsection.B.5.2}
-\contentsline {subsection}{\numberline {B.5.3}Simple Compound \hfill \\ Microscope}{87}{subsection.B.5.3}
+\contentsline {subsection}{\numberline {B.5.3}Simple Compound Microscope}{87}{subsection.B.5.3}
 \contentsline {subsection}{\numberline {B.5.4}Card Bridge Microscope}{87}{subsection.B.5.4}
 \contentsline {chapter}{\numberline {C}Storage of Materials}{88}{appendix.C}
 \contentsline {section}{\numberline {C.1}The Science Box}{88}{section.C.1}
