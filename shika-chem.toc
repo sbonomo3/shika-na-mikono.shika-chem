@@ -9,7 +9,7 @@
 \contentsline {subsection}{\numberline {1.1.4}Posters of Chemical Products}{9}{subsection.1.1.4}
 \contentsline {subsection}{\numberline {1.1.5}We Are All Chemists}{9}{subsection.1.1.5}
 \contentsline {section}{\numberline {1.2}Laboratory Techniques and Safety}{10}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Display of Hazardous \hfill \\ Chemicals}{10}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.1}Display of Hazardous Chemicals}{10}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}A Safety Game}{10}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}The Cleanliness Play}{10}{subsection.1.2.3}
 \contentsline {subsection}{\numberline {1.2.4}The Tidiness Play}{10}{subsection.1.2.4}
